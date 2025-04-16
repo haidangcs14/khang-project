@@ -1,0 +1,2001 @@
+trend_id,category,style,popularity_score,season,color_palette,fabric_type,price_range,brand_influence,social_media_trend
+T0001,Dress,Casual,82,Autumn,Pastel,Cotton,Mid-range,Luxury,Pinterest
+T0002,Dress,Vintage,22,Spring,Neon,Denim,Mid-range,Luxury,TikTok
+T0003,Shirt,Minimalist,1,Autumn,Gradient,Wool,Affordable,Fast Fashion,Pinterest
+T0004,Shirt,Bohemian,18,Summer,Pastel,Cotton,Mid-range,Luxury,TikTok
+T0005,Shirt,Minimalist,98,Spring,Neon,Linen,High-end,Local,Pinterest
+T0006,Dress,Casual,20,Autumn,Neon,Polyester,Affordable,Local,Instagram
+T0007,Shoes,Streetwear,50,Autumn,Earth-tone,Linen,Mid-range,High-end,YouTube
+T0008,Accessories,Minimalist,23,Summer,Pastel,Velvet,Mid-range,Fast Fashion,TikTok
+T0009,Shirt,Minimalist,84,Summer,Gradient,Cotton,Mid-range,Luxury,Instagram
+T0010,Shoes,Sporty,51,Summer,Pastel,Denim,High-end,Local,TikTok
+T0011,Shirt,Sporty,96,Summer,Gradient,Polyester,Affordable,Local,Pinterest
+T0012,Pants,Streetwear,38,Summer,Pastel,Linen,High-end,Luxury,Instagram
+T0013,Dress,Sporty,22,Spring,Pastel,Cotton,Affordable,High-end,TikTok
+T0014,Shirt,Formal,33,Winter,Gradient,Linen,Mid-range,High-end,Pinterest
+T0015,Pants,Bohemian,80,Winter,Neon,Velvet,High-end,Luxury,Pinterest
+T0016,Dress,Casual,92,Autumn,Earth-tone,Denim,Affordable,Fast Fashion,YouTube
+T0017,Dress,Casual,81,Winter,Monochrome,Velvet,Affordable,Local,Instagram
+T0018,Dress,Bohemian,62,Summer,Monochrome,Polyester,Affordable,Luxury,YouTube
+T0019,Shirt,Formal,86,Summer,Pastel,Denim,High-end,High-end,TikTok
+T0020,Dress,Vintage,94,Spring,Metallic,Wool,High-end,High-end,TikTok
+T0021,Accessories,Casual,20,Winter,Monochrome,Denim,Mid-range,Local,Pinterest
+T0022,Dress,Bohemian,13,Summer,Metallic,Linen,High-end,High-end,TikTok
+T0023,Accessories,Minimalist,39,Winter,Earth-tone,Velvet,High-end,Local,TikTok
+T0024,Shirt,Vintage,65,Spring,Earth-tone,Wool,Mid-range,Luxury,TikTok
+T0025,Shirt,Minimalist,72,Spring,Earth-tone,Polyester,Mid-range,High-end,YouTube
+T0026,Shoes,Formal,2,Summer,Neon,Linen,Mid-range,Local,Instagram
+T0027,Accessories,Streetwear,98,Winter,Gradient,Denim,Mid-range,Local,Instagram
+T0028,Dress,Streetwear,33,Summer,Gradient,Linen,Affordable,Luxury,YouTube
+T0029,Accessories,Minimalist,3,Autumn,Monochrome,Denim,Mid-range,Luxury,Instagram
+T0030,Pants,Bohemian,100,Winter,Gradient,Denim,Affordable,Fast Fashion,YouTube
+T0031,Accessories,Casual,85,Summer,Pastel,Velvet,High-end,Local,Pinterest
+T0032,Dress,Minimalist,65,Summer,Pastel,Velvet,Mid-range,High-end,Instagram
+T0033,Shirt,Sporty,32,Winter,Neon,Silk,High-end,Local,Pinterest
+T0034,Shoes,Formal,58,Winter,Earth-tone,Polyester,High-end,Luxury,Instagram
+T0035,Shoes,Formal,17,Summer,Gradient,Silk,Affordable,Fast Fashion,Instagram
+T0036,Shirt,Formal,35,Summer,Earth-tone,Denim,Affordable,Luxury,Pinterest
+T0037,Pants,Casual,30,Spring,Gradient,Linen,High-end,Luxury,Instagram
+T0038,Shirt,Casual,0,Winter,Gradient,Velvet,Affordable,Luxury,TikTok
+T0039,Shirt,Vintage,69,Spring,Metallic,Cotton,Affordable,Fast Fashion,Pinterest
+T0040,Shirt,Vintage,10,Winter,Pastel,Silk,Mid-range,Fast Fashion,TikTok
+T0041,Pants,Bohemian,68,Autumn,Monochrome,Linen,Affordable,Local,Instagram
+T0042,Shirt,Vintage,38,Spring,Pastel,Wool,Mid-range,Fast Fashion,Pinterest
+T0043,Pants,Formal,90,Summer,Earth-tone,Silk,High-end,Luxury,YouTube
+T0044,Shoes,Casual,7,Spring,Pastel,Linen,High-end,High-end,YouTube
+T0045,Accessories,Streetwear,51,Summer,Neon,Silk,High-end,Luxury,Pinterest
+T0046,Shoes,Casual,29,Spring,Metallic,Silk,High-end,Luxury,YouTube
+T0047,Dress,Sporty,36,Winter,Pastel,Velvet,Mid-range,Local,Instagram
+T0048,Dress,Minimalist,73,Spring,Pastel,Denim,High-end,Luxury,YouTube
+T0049,Pants,Formal,8,Summer,Monochrome,Denim,Affordable,High-end,Pinterest
+T0050,Dress,Minimalist,33,Spring,Earth-tone,Silk,Mid-range,Luxury,Pinterest
+T0051,Shoes,Casual,76,Winter,Earth-tone,Wool,Affordable,Local,YouTube
+T0052,Shirt,Vintage,44,Autumn,Neon,Wool,High-end,Luxury,Pinterest
+T0053,Pants,Bohemian,15,Autumn,Monochrome,Polyester,Affordable,Luxury,YouTube
+T0054,Shoes,Formal,97,Autumn,Monochrome,Velvet,Mid-range,High-end,Instagram
+T0055,Dress,Casual,100,Winter,Neon,Velvet,High-end,Fast Fashion,Instagram
+T0056,Dress,Casual,61,Summer,Earth-tone,Denim,Mid-range,Fast Fashion,YouTube
+T0057,Shirt,Sporty,81,Autumn,Neon,Polyester,High-end,Local,YouTube
+T0058,Pants,Streetwear,62,Autumn,Pastel,Cotton,Mid-range,Fast Fashion,Pinterest
+T0059,Shirt,Bohemian,41,Summer,Gradient,Denim,Mid-range,Fast Fashion,Instagram
+T0060,Pants,Sporty,99,Summer,Metallic,Velvet,Affordable,Luxury,Instagram
+T0061,Pants,Bohemian,73,Autumn,Earth-tone,Silk,Affordable,Luxury,TikTok
+T0062,Shirt,Vintage,89,Autumn,Gradient,Linen,High-end,High-end,Pinterest
+T0063,Accessories,Minimalist,76,Winter,Gradient,Linen,High-end,Local,TikTok
+T0064,Dress,Streetwear,88,Winter,Earth-tone,Cotton,High-end,Luxury,Pinterest
+T0065,Accessories,Sporty,0,Autumn,Earth-tone,Wool,High-end,Fast Fashion,YouTube
+T0066,Accessories,Bohemian,36,Spring,Neon,Velvet,Affordable,Fast Fashion,YouTube
+T0067,Shoes,Streetwear,56,Spring,Metallic,Velvet,Affordable,Fast Fashion,TikTok
+T0068,Shirt,Streetwear,46,Summer,Neon,Cotton,Affordable,High-end,Instagram
+T0069,Pants,Casual,38,Autumn,Monochrome,Silk,Affordable,High-end,TikTok
+T0070,Pants,Vintage,35,Winter,Earth-tone,Velvet,Affordable,Luxury,Pinterest
+T0071,Accessories,Sporty,36,Winter,Earth-tone,Velvet,Affordable,Local,Pinterest
+T0072,Accessories,Bohemian,8,Winter,Gradient,Cotton,High-end,Local,YouTube
+T0073,Dress,Streetwear,73,Summer,Pastel,Velvet,High-end,Local,Instagram
+T0074,Shoes,Vintage,91,Autumn,Pastel,Velvet,Mid-range,High-end,YouTube
+T0075,Pants,Bohemian,59,Spring,Monochrome,Velvet,Mid-range,Fast Fashion,TikTok
+T0076,Accessories,Sporty,43,Summer,Earth-tone,Denim,Affordable,Fast Fashion,YouTube
+T0077,Shoes,Streetwear,10,Summer,Neon,Polyester,Mid-range,Local,Pinterest
+T0078,Shoes,Casual,27,Winter,Neon,Polyester,Mid-range,Luxury,Instagram
+T0079,Pants,Streetwear,31,Spring,Metallic,Polyester,Affordable,Local,Instagram
+T0080,Pants,Formal,83,Summer,Gradient,Denim,Mid-range,High-end,Instagram
+T0081,Accessories,Formal,47,Spring,Monochrome,Velvet,Mid-range,Luxury,TikTok
+T0082,Shoes,Formal,19,Autumn,Pastel,Silk,High-end,Fast Fashion,Pinterest
+T0083,Shirt,Sporty,3,Summer,Monochrome,Cotton,Mid-range,High-end,TikTok
+T0084,Shirt,Formal,58,Summer,Earth-tone,Wool,Affordable,High-end,Instagram
+T0085,Dress,Vintage,24,Summer,Gradient,Silk,High-end,Luxury,Pinterest
+T0086,Dress,Sporty,24,Summer,Monochrome,Polyester,Mid-range,Fast Fashion,TikTok
+T0087,Accessories,Formal,34,Summer,Earth-tone,Silk,Affordable,Local,YouTube
+T0088,Pants,Casual,90,Winter,Neon,Linen,High-end,High-end,TikTok
+T0089,Dress,Casual,12,Winter,Pastel,Velvet,Mid-range,Luxury,Instagram
+T0090,Accessories,Minimalist,26,Summer,Monochrome,Wool,Mid-range,Fast Fashion,YouTube
+T0091,Shoes,Minimalist,43,Autumn,Metallic,Silk,Affordable,High-end,Instagram
+T0092,Shirt,Vintage,9,Winter,Metallic,Cotton,Mid-range,Local,Pinterest
+T0093,Pants,Sporty,13,Winter,Neon,Cotton,Mid-range,Local,Instagram
+T0094,Pants,Vintage,37,Spring,Metallic,Wool,Affordable,Local,YouTube
+T0095,Dress,Sporty,14,Winter,Earth-tone,Silk,Mid-range,Fast Fashion,Pinterest
+T0096,Shoes,Formal,58,Winter,Gradient,Polyester,High-end,Fast Fashion,YouTube
+T0097,Shoes,Formal,84,Summer,Metallic,Silk,Affordable,Fast Fashion,Pinterest
+T0098,Shirt,Formal,6,Summer,Gradient,Velvet,High-end,Local,Pinterest
+T0099,Accessories,Sporty,35,Spring,Neon,Linen,Mid-range,Fast Fashion,Instagram
+T0100,Accessories,Casual,32,Autumn,Neon,Silk,Mid-range,Fast Fashion,Instagram
+T0101,Pants,Casual,94,Spring,Earth-tone,Polyester,High-end,Fast Fashion,TikTok
+T0102,Shoes,Vintage,51,Autumn,Pastel,Silk,Affordable,Luxury,TikTok
+T0103,Shirt,Formal,80,Autumn,Neon,Silk,High-end,High-end,Instagram
+T0104,Dress,Streetwear,27,Autumn,Earth-tone,Wool,Mid-range,Fast Fashion,TikTok
+T0105,Dress,Streetwear,26,Autumn,Monochrome,Wool,Affordable,Luxury,TikTok
+T0106,Pants,Casual,2,Summer,Gradient,Wool,High-end,Luxury,YouTube
+T0107,Dress,Casual,17,Autumn,Earth-tone,Wool,Mid-range,Fast Fashion,Instagram
+T0108,Pants,Casual,91,Spring,Monochrome,Wool,High-end,High-end,Instagram
+T0109,Shirt,Vintage,19,Summer,Earth-tone,Silk,High-end,Fast Fashion,TikTok
+T0110,Pants,Bohemian,28,Winter,Pastel,Polyester,Mid-range,Fast Fashion,Pinterest
+T0111,Shoes,Casual,86,Spring,Gradient,Velvet,Mid-range,Local,TikTok
+T0112,Shoes,Formal,37,Autumn,Gradient,Velvet,Affordable,Fast Fashion,Instagram
+T0113,Accessories,Sporty,25,Autumn,Earth-tone,Cotton,Mid-range,Luxury,Pinterest
+T0114,Pants,Formal,63,Autumn,Metallic,Polyester,Affordable,Luxury,Pinterest
+T0115,Shoes,Formal,28,Winter,Gradient,Cotton,Affordable,Luxury,TikTok
+T0116,Accessories,Streetwear,96,Spring,Earth-tone,Silk,Affordable,Luxury,YouTube
+T0117,Pants,Minimalist,23,Summer,Gradient,Linen,Affordable,Luxury,TikTok
+T0118,Pants,Streetwear,48,Autumn,Pastel,Wool,Affordable,Local,Pinterest
+T0119,Dress,Sporty,89,Spring,Monochrome,Wool,Affordable,High-end,Pinterest
+T0120,Shoes,Sporty,62,Spring,Pastel,Velvet,Mid-range,High-end,Instagram
+T0121,Pants,Minimalist,81,Autumn,Pastel,Silk,Affordable,Local,Pinterest
+T0122,Dress,Vintage,52,Spring,Earth-tone,Polyester,Mid-range,Fast Fashion,YouTube
+T0123,Shoes,Streetwear,68,Autumn,Metallic,Silk,High-end,Fast Fashion,TikTok
+T0124,Pants,Formal,46,Summer,Gradient,Polyester,Mid-range,Luxury,Pinterest
+T0125,Accessories,Streetwear,67,Spring,Neon,Velvet,Affordable,Luxury,YouTube
+T0126,Shoes,Vintage,23,Summer,Pastel,Cotton,Affordable,Local,Pinterest
+T0127,Shirt,Streetwear,5,Autumn,Gradient,Linen,Affordable,Luxury,TikTok
+T0128,Dress,Streetwear,87,Spring,Neon,Polyester,Affordable,Fast Fashion,Instagram
+T0129,Pants,Bohemian,77,Autumn,Gradient,Silk,High-end,Local,Instagram
+T0130,Dress,Vintage,99,Spring,Pastel,Cotton,Affordable,High-end,TikTok
+T0131,Shirt,Streetwear,8,Spring,Metallic,Polyester,Affordable,Fast Fashion,Instagram
+T0132,Accessories,Streetwear,40,Spring,Gradient,Cotton,High-end,Luxury,YouTube
+T0133,Shirt,Bohemian,48,Summer,Pastel,Wool,High-end,High-end,TikTok
+T0134,Shoes,Minimalist,14,Winter,Metallic,Polyester,High-end,High-end,Instagram
+T0135,Shoes,Formal,51,Autumn,Gradient,Velvet,Affordable,Luxury,Pinterest
+T0136,Dress,Formal,87,Summer,Neon,Silk,Mid-range,Fast Fashion,TikTok
+T0137,Accessories,Vintage,77,Spring,Monochrome,Linen,Affordable,Luxury,Pinterest
+T0138,Shoes,Sporty,85,Winter,Metallic,Wool,Mid-range,Fast Fashion,Pinterest
+T0139,Shoes,Bohemian,9,Spring,Metallic,Polyester,Affordable,Luxury,TikTok
+T0140,Shoes,Sporty,47,Autumn,Neon,Denim,Mid-range,Luxury,Pinterest
+T0141,Accessories,Sporty,90,Spring,Earth-tone,Wool,Affordable,High-end,TikTok
+T0142,Shirt,Casual,65,Spring,Gradient,Cotton,Affordable,Local,Instagram
+T0143,Pants,Bohemian,3,Summer,Gradient,Denim,Affordable,Local,Instagram
+T0144,Shoes,Minimalist,71,Autumn,Earth-tone,Silk,Mid-range,Fast Fashion,Instagram
+T0145,Shoes,Formal,99,Autumn,Monochrome,Polyester,Affordable,Luxury,Instagram
+T0146,Pants,Sporty,89,Summer,Pastel,Cotton,High-end,High-end,Pinterest
+T0147,Pants,Vintage,42,Winter,Earth-tone,Wool,Mid-range,Fast Fashion,TikTok
+T0148,Shoes,Vintage,2,Autumn,Monochrome,Wool,Mid-range,Local,TikTok
+T0149,Shoes,Casual,89,Spring,Metallic,Denim,High-end,Fast Fashion,Pinterest
+T0150,Accessories,Casual,6,Autumn,Monochrome,Velvet,High-end,Luxury,Pinterest
+T0151,Shoes,Sporty,29,Summer,Earth-tone,Polyester,High-end,High-end,Pinterest
+T0152,Accessories,Casual,97,Summer,Neon,Polyester,Mid-range,Fast Fashion,TikTok
+T0153,Accessories,Minimalist,57,Summer,Pastel,Linen,High-end,Luxury,Instagram
+T0154,Pants,Bohemian,100,Autumn,Metallic,Velvet,High-end,High-end,Instagram
+T0155,Accessories,Casual,47,Summer,Metallic,Cotton,High-end,Fast Fashion,YouTube
+T0156,Shoes,Minimalist,48,Summer,Earth-tone,Velvet,Mid-range,Local,TikTok
+T0157,Accessories,Vintage,28,Spring,Monochrome,Cotton,High-end,Local,Instagram
+T0158,Shoes,Streetwear,63,Autumn,Monochrome,Linen,Mid-range,High-end,TikTok
+T0159,Shirt,Vintage,56,Winter,Earth-tone,Polyester,Affordable,Luxury,TikTok
+T0160,Shirt,Bohemian,42,Winter,Gradient,Wool,Affordable,High-end,TikTok
+T0161,Pants,Formal,33,Summer,Monochrome,Linen,Affordable,Local,Instagram
+T0162,Shirt,Sporty,65,Autumn,Monochrome,Silk,Mid-range,Local,Pinterest
+T0163,Accessories,Vintage,69,Autumn,Monochrome,Cotton,Mid-range,Luxury,Instagram
+T0164,Accessories,Casual,64,Winter,Neon,Velvet,Mid-range,Fast Fashion,Instagram
+T0165,Accessories,Formal,49,Summer,Pastel,Polyester,Mid-range,Local,TikTok
+T0166,Shirt,Vintage,30,Winter,Neon,Velvet,Affordable,High-end,TikTok
+T0167,Dress,Sporty,79,Winter,Neon,Denim,Affordable,Fast Fashion,TikTok
+T0168,Shoes,Sporty,99,Spring,Pastel,Denim,Mid-range,Fast Fashion,TikTok
+T0169,Shirt,Vintage,54,Autumn,Neon,Linen,Mid-range,Luxury,TikTok
+T0170,Shoes,Bohemian,22,Autumn,Gradient,Velvet,High-end,Fast Fashion,Instagram
+T0171,Dress,Vintage,83,Autumn,Earth-tone,Linen,High-end,Luxury,Instagram
+T0172,Shoes,Minimalist,66,Summer,Earth-tone,Denim,Mid-range,High-end,YouTube
+T0173,Pants,Vintage,37,Winter,Earth-tone,Silk,Mid-range,Fast Fashion,TikTok
+T0174,Pants,Sporty,63,Autumn,Monochrome,Velvet,Mid-range,High-end,Pinterest
+T0175,Pants,Minimalist,81,Autumn,Monochrome,Polyester,High-end,Local,YouTube
+T0176,Dress,Bohemian,59,Winter,Earth-tone,Linen,High-end,Local,Instagram
+T0177,Pants,Bohemian,41,Spring,Neon,Denim,High-end,Fast Fashion,Instagram
+T0178,Pants,Bohemian,89,Summer,Pastel,Velvet,Mid-range,Fast Fashion,Pinterest
+T0179,Accessories,Minimalist,70,Winter,Earth-tone,Linen,High-end,Luxury,Pinterest
+T0180,Pants,Streetwear,7,Summer,Metallic,Denim,Mid-range,Fast Fashion,TikTok
+T0181,Shoes,Bohemian,14,Spring,Pastel,Wool,Mid-range,High-end,Pinterest
+T0182,Dress,Streetwear,77,Autumn,Metallic,Velvet,Mid-range,High-end,Pinterest
+T0183,Shirt,Minimalist,50,Autumn,Metallic,Wool,Mid-range,Local,Instagram
+T0184,Dress,Minimalist,7,Spring,Neon,Denim,Affordable,Fast Fashion,TikTok
+T0185,Dress,Bohemian,41,Winter,Metallic,Polyester,Mid-range,Luxury,Pinterest
+T0186,Dress,Bohemian,100,Spring,Gradient,Velvet,Mid-range,Fast Fashion,Instagram
+T0187,Pants,Casual,83,Summer,Earth-tone,Linen,High-end,High-end,TikTok
+T0188,Shirt,Sporty,36,Summer,Earth-tone,Denim,Mid-range,Local,YouTube
+T0189,Dress,Casual,29,Summer,Neon,Linen,Affordable,Local,TikTok
+T0190,Accessories,Streetwear,12,Autumn,Gradient,Cotton,Affordable,High-end,Instagram
+T0191,Accessories,Formal,93,Winter,Metallic,Wool,High-end,Fast Fashion,YouTube
+T0192,Accessories,Streetwear,14,Spring,Gradient,Silk,Mid-range,Local,YouTube
+T0193,Dress,Bohemian,86,Autumn,Metallic,Linen,Affordable,Local,Instagram
+T0194,Dress,Vintage,50,Spring,Earth-tone,Linen,Mid-range,High-end,Pinterest
+T0195,Shoes,Bohemian,23,Summer,Monochrome,Wool,Mid-range,Fast Fashion,YouTube
+T0196,Dress,Casual,27,Winter,Earth-tone,Linen,High-end,Luxury,Pinterest
+T0197,Dress,Vintage,79,Autumn,Earth-tone,Denim,Mid-range,Fast Fashion,Pinterest
+T0198,Shoes,Vintage,97,Summer,Monochrome,Denim,Affordable,Fast Fashion,Pinterest
+T0199,Pants,Formal,43,Winter,Neon,Velvet,High-end,High-end,Instagram
+T0200,Pants,Bohemian,5,Winter,Pastel,Linen,Affordable,Luxury,Instagram
+T0201,Shoes,Bohemian,98,Winter,Pastel,Wool,High-end,Fast Fashion,Pinterest
+T0202,Pants,Vintage,1,Autumn,Earth-tone,Cotton,Mid-range,Luxury,YouTube
+T0203,Dress,Formal,1,Winter,Monochrome,Silk,Affordable,Local,Instagram
+T0204,Dress,Sporty,11,Winter,Metallic,Linen,High-end,Local,TikTok
+T0205,Accessories,Vintage,44,Spring,Pastel,Cotton,Affordable,Local,TikTok
+T0206,Dress,Vintage,90,Autumn,Gradient,Silk,High-end,Fast Fashion,Instagram
+T0207,Shoes,Formal,72,Winter,Earth-tone,Wool,High-end,Local,Pinterest
+T0208,Shoes,Minimalist,92,Spring,Pastel,Linen,High-end,Luxury,Instagram
+T0209,Pants,Sporty,36,Spring,Pastel,Linen,Affordable,Luxury,Pinterest
+T0210,Shoes,Streetwear,38,Autumn,Monochrome,Velvet,High-end,Luxury,TikTok
+T0211,Accessories,Bohemian,9,Summer,Gradient,Silk,High-end,Luxury,TikTok
+T0212,Shoes,Casual,78,Spring,Earth-tone,Cotton,High-end,Luxury,TikTok
+T0213,Accessories,Formal,50,Spring,Monochrome,Silk,Affordable,Local,YouTube
+T0214,Shoes,Streetwear,13,Spring,Earth-tone,Cotton,Mid-range,Luxury,Pinterest
+T0215,Shirt,Minimalist,87,Summer,Earth-tone,Denim,Mid-range,High-end,TikTok
+T0216,Dress,Sporty,2,Autumn,Neon,Silk,Affordable,Local,YouTube
+T0217,Dress,Bohemian,51,Autumn,Metallic,Polyester,Mid-range,High-end,Instagram
+T0218,Pants,Vintage,77,Winter,Gradient,Denim,High-end,High-end,YouTube
+T0219,Pants,Minimalist,23,Autumn,Metallic,Velvet,Affordable,Luxury,YouTube
+T0220,Accessories,Formal,48,Summer,Earth-tone,Linen,Affordable,High-end,TikTok
+T0221,Pants,Bohemian,4,Winter,Pastel,Silk,High-end,Local,Instagram
+T0222,Shirt,Casual,47,Autumn,Monochrome,Linen,Affordable,High-end,TikTok
+T0223,Shoes,Sporty,70,Winter,Metallic,Linen,High-end,Local,TikTok
+T0224,Shoes,Vintage,59,Summer,Gradient,Silk,Affordable,Local,Instagram
+T0225,Accessories,Vintage,0,Spring,Neon,Silk,Affordable,Local,YouTube
+T0226,Dress,Formal,5,Summer,Pastel,Silk,Mid-range,Local,TikTok
+T0227,Accessories,Vintage,24,Summer,Monochrome,Linen,High-end,High-end,YouTube
+T0228,Pants,Bohemian,55,Spring,Monochrome,Velvet,Affordable,Luxury,YouTube
+T0229,Accessories,Minimalist,12,Spring,Neon,Polyester,Affordable,Luxury,Pinterest
+T0230,Pants,Formal,86,Winter,Monochrome,Denim,Affordable,High-end,Pinterest
+T0231,Pants,Vintage,30,Spring,Pastel,Polyester,Mid-range,Local,YouTube
+T0232,Accessories,Minimalist,49,Winter,Monochrome,Silk,Affordable,Luxury,Pinterest
+T0233,Pants,Formal,57,Winter,Earth-tone,Silk,Affordable,Luxury,Instagram
+T0234,Shoes,Formal,31,Autumn,Earth-tone,Silk,High-end,Luxury,YouTube
+T0235,Dress,Sporty,5,Spring,Monochrome,Velvet,Mid-range,High-end,Instagram
+T0236,Dress,Casual,1,Summer,Neon,Silk,High-end,Luxury,Instagram
+T0237,Shoes,Streetwear,39,Summer,Pastel,Cotton,Mid-range,Luxury,TikTok
+T0238,Shirt,Minimalist,55,Spring,Neon,Cotton,Mid-range,High-end,Pinterest
+T0239,Shoes,Bohemian,11,Spring,Pastel,Silk,Mid-range,Fast Fashion,YouTube
+T0240,Pants,Formal,27,Spring,Monochrome,Linen,Affordable,Local,YouTube
+T0241,Shirt,Streetwear,19,Winter,Neon,Polyester,Affordable,Fast Fashion,Instagram
+T0242,Pants,Streetwear,67,Winter,Earth-tone,Velvet,Mid-range,Fast Fashion,Pinterest
+T0243,Shoes,Minimalist,96,Autumn,Neon,Velvet,High-end,Fast Fashion,TikTok
+T0244,Accessories,Bohemian,69,Autumn,Metallic,Polyester,High-end,Fast Fashion,TikTok
+T0245,Shoes,Casual,87,Autumn,Metallic,Cotton,High-end,Fast Fashion,YouTube
+T0246,Dress,Bohemian,46,Spring,Neon,Cotton,High-end,Local,YouTube
+T0247,Dress,Vintage,32,Autumn,Monochrome,Denim,High-end,Luxury,Pinterest
+T0248,Shirt,Minimalist,99,Summer,Earth-tone,Polyester,Mid-range,Local,YouTube
+T0249,Dress,Vintage,33,Summer,Earth-tone,Denim,High-end,Luxury,TikTok
+T0250,Pants,Sporty,68,Summer,Monochrome,Polyester,High-end,High-end,Pinterest
+T0251,Shoes,Streetwear,100,Summer,Monochrome,Wool,High-end,Fast Fashion,TikTok
+T0252,Pants,Streetwear,89,Autumn,Gradient,Denim,Affordable,Luxury,YouTube
+T0253,Dress,Bohemian,88,Winter,Gradient,Cotton,Affordable,High-end,YouTube
+T0254,Shirt,Formal,59,Autumn,Metallic,Denim,Mid-range,Luxury,Instagram
+T0255,Pants,Bohemian,16,Winter,Metallic,Silk,Mid-range,High-end,Instagram
+T0256,Dress,Casual,8,Winter,Earth-tone,Silk,High-end,Luxury,Pinterest
+T0257,Pants,Minimalist,65,Summer,Gradient,Denim,Mid-range,High-end,Instagram
+T0258,Pants,Streetwear,12,Autumn,Earth-tone,Polyester,Affordable,Fast Fashion,TikTok
+T0259,Shoes,Streetwear,60,Summer,Neon,Polyester,High-end,Luxury,Pinterest
+T0260,Accessories,Bohemian,93,Autumn,Earth-tone,Velvet,Affordable,High-end,Pinterest
+T0261,Accessories,Bohemian,31,Summer,Pastel,Polyester,High-end,Local,YouTube
+T0262,Shirt,Bohemian,64,Spring,Earth-tone,Polyester,High-end,Fast Fashion,YouTube
+T0263,Dress,Sporty,76,Autumn,Metallic,Cotton,High-end,High-end,Instagram
+T0264,Pants,Minimalist,51,Spring,Earth-tone,Denim,High-end,Luxury,Instagram
+T0265,Pants,Bohemian,100,Summer,Pastel,Cotton,Mid-range,High-end,Pinterest
+T0266,Shirt,Formal,95,Summer,Pastel,Cotton,Affordable,Fast Fashion,TikTok
+T0267,Pants,Formal,76,Summer,Gradient,Linen,Mid-range,High-end,TikTok
+T0268,Pants,Formal,18,Spring,Earth-tone,Polyester,Affordable,Luxury,TikTok
+T0269,Shoes,Minimalist,4,Summer,Monochrome,Velvet,High-end,High-end,TikTok
+T0270,Accessories,Bohemian,82,Summer,Earth-tone,Wool,Affordable,Fast Fashion,Pinterest
+T0271,Dress,Bohemian,72,Winter,Earth-tone,Velvet,Affordable,High-end,Instagram
+T0272,Pants,Casual,16,Winter,Pastel,Linen,Mid-range,Fast Fashion,Pinterest
+T0273,Accessories,Formal,96,Autumn,Neon,Cotton,Affordable,High-end,YouTube
+T0274,Pants,Formal,0,Winter,Pastel,Denim,Mid-range,Luxury,Instagram
+T0275,Shirt,Sporty,86,Autumn,Neon,Silk,Affordable,Luxury,YouTube
+T0276,Shirt,Streetwear,86,Spring,Pastel,Silk,High-end,High-end,YouTube
+T0277,Shirt,Streetwear,49,Winter,Neon,Velvet,Affordable,Local,YouTube
+T0278,Shirt,Streetwear,84,Autumn,Monochrome,Wool,High-end,Fast Fashion,Pinterest
+T0279,Pants,Vintage,45,Summer,Earth-tone,Wool,Affordable,High-end,Instagram
+T0280,Dress,Casual,1,Spring,Neon,Cotton,High-end,Fast Fashion,YouTube
+T0281,Shirt,Bohemian,16,Summer,Neon,Denim,Mid-range,Fast Fashion,Pinterest
+T0282,Pants,Vintage,98,Spring,Earth-tone,Polyester,Mid-range,Fast Fashion,YouTube
+T0283,Pants,Sporty,29,Winter,Gradient,Velvet,High-end,Local,TikTok
+T0284,Shirt,Minimalist,53,Winter,Neon,Linen,Mid-range,Fast Fashion,Pinterest
+T0285,Dress,Streetwear,36,Autumn,Gradient,Wool,High-end,Local,Instagram
+T0286,Accessories,Bohemian,27,Spring,Gradient,Velvet,Affordable,Local,Pinterest
+T0287,Pants,Formal,94,Summer,Earth-tone,Linen,High-end,Luxury,Pinterest
+T0288,Accessories,Formal,96,Winter,Monochrome,Cotton,High-end,High-end,YouTube
+T0289,Dress,Streetwear,22,Summer,Earth-tone,Polyester,Mid-range,Fast Fashion,YouTube
+T0290,Shirt,Vintage,47,Winter,Monochrome,Cotton,High-end,High-end,Pinterest
+T0291,Accessories,Vintage,12,Summer,Metallic,Denim,High-end,High-end,YouTube
+T0292,Shirt,Vintage,3,Winter,Neon,Linen,High-end,High-end,TikTok
+T0293,Dress,Minimalist,18,Autumn,Pastel,Polyester,High-end,Luxury,YouTube
+T0294,Shoes,Casual,32,Autumn,Pastel,Polyester,Mid-range,Luxury,Instagram
+T0295,Pants,Bohemian,67,Spring,Monochrome,Velvet,High-end,Local,YouTube
+T0296,Accessories,Minimalist,96,Autumn,Pastel,Cotton,High-end,Luxury,Instagram
+T0297,Accessories,Casual,72,Winter,Metallic,Polyester,High-end,Fast Fashion,Instagram
+T0298,Dress,Sporty,84,Winter,Monochrome,Silk,Affordable,Local,YouTube
+T0299,Accessories,Streetwear,87,Winter,Monochrome,Denim,High-end,Local,TikTok
+T0300,Pants,Streetwear,75,Summer,Earth-tone,Velvet,Affordable,Local,TikTok
+T0301,Dress,Casual,67,Summer,Metallic,Denim,High-end,Fast Fashion,Instagram
+T0302,Pants,Casual,99,Autumn,Monochrome,Linen,Mid-range,Local,Instagram
+T0303,Shoes,Formal,28,Winter,Neon,Wool,Mid-range,Local,Instagram
+T0304,Dress,Casual,48,Winter,Earth-tone,Polyester,High-end,High-end,Instagram
+T0305,Pants,Bohemian,66,Summer,Earth-tone,Velvet,High-end,High-end,Pinterest
+T0306,Shoes,Bohemian,17,Summer,Gradient,Cotton,High-end,Luxury,YouTube
+T0307,Pants,Formal,64,Winter,Neon,Wool,High-end,High-end,TikTok
+T0308,Shoes,Streetwear,12,Autumn,Earth-tone,Cotton,Affordable,Luxury,Instagram
+T0309,Shirt,Casual,12,Autumn,Metallic,Polyester,Affordable,Luxury,YouTube
+T0310,Shoes,Vintage,59,Summer,Metallic,Cotton,High-end,High-end,TikTok
+T0311,Pants,Minimalist,100,Winter,Monochrome,Cotton,Affordable,Local,Instagram
+T0312,Dress,Bohemian,55,Summer,Gradient,Cotton,Affordable,Fast Fashion,Instagram
+T0313,Accessories,Bohemian,23,Autumn,Metallic,Velvet,Mid-range,Luxury,Pinterest
+T0314,Shirt,Formal,46,Winter,Neon,Denim,Affordable,Luxury,TikTok
+T0315,Accessories,Vintage,92,Autumn,Earth-tone,Polyester,Mid-range,Luxury,YouTube
+T0316,Shirt,Minimalist,55,Winter,Earth-tone,Linen,Mid-range,Fast Fashion,TikTok
+T0317,Shirt,Streetwear,61,Autumn,Pastel,Silk,Affordable,Fast Fashion,Pinterest
+T0318,Shoes,Formal,96,Autumn,Monochrome,Denim,High-end,High-end,Instagram
+T0319,Dress,Formal,34,Spring,Monochrome,Linen,High-end,Fast Fashion,YouTube
+T0320,Shoes,Formal,17,Spring,Pastel,Linen,Mid-range,Local,YouTube
+T0321,Shirt,Bohemian,94,Spring,Earth-tone,Cotton,Mid-range,Fast Fashion,Pinterest
+T0322,Accessories,Bohemian,30,Winter,Monochrome,Denim,Affordable,High-end,Instagram
+T0323,Shoes,Sporty,24,Autumn,Metallic,Linen,High-end,Local,Instagram
+T0324,Dress,Streetwear,55,Winter,Monochrome,Linen,Mid-range,Fast Fashion,TikTok
+T0325,Accessories,Casual,48,Spring,Gradient,Silk,Mid-range,Luxury,Instagram
+T0326,Shirt,Minimalist,88,Winter,Pastel,Silk,Affordable,Luxury,TikTok
+T0327,Shoes,Casual,46,Summer,Metallic,Wool,Mid-range,Luxury,TikTok
+T0328,Dress,Minimalist,49,Autumn,Monochrome,Wool,Affordable,Luxury,YouTube
+T0329,Shoes,Minimalist,55,Summer,Metallic,Wool,Affordable,Luxury,YouTube
+T0330,Pants,Minimalist,9,Spring,Monochrome,Cotton,High-end,Fast Fashion,TikTok
+T0331,Accessories,Formal,82,Spring,Neon,Velvet,Mid-range,Luxury,Pinterest
+T0332,Pants,Sporty,2,Summer,Gradient,Polyester,Affordable,High-end,TikTok
+T0333,Shirt,Minimalist,35,Spring,Metallic,Velvet,Affordable,High-end,YouTube
+T0334,Dress,Vintage,4,Summer,Pastel,Polyester,High-end,Local,YouTube
+T0335,Accessories,Minimalist,11,Winter,Neon,Velvet,Mid-range,Luxury,Instagram
+T0336,Accessories,Casual,75,Autumn,Earth-tone,Denim,Affordable,Luxury,Pinterest
+T0337,Pants,Streetwear,58,Winter,Earth-tone,Denim,Affordable,High-end,Pinterest
+T0338,Accessories,Minimalist,10,Summer,Neon,Polyester,Mid-range,Local,Pinterest
+T0339,Accessories,Sporty,2,Autumn,Metallic,Polyester,Mid-range,Luxury,Pinterest
+T0340,Dress,Bohemian,86,Winter,Monochrome,Polyester,Mid-range,Fast Fashion,TikTok
+T0341,Pants,Sporty,74,Autumn,Earth-tone,Cotton,Affordable,Luxury,YouTube
+T0342,Pants,Streetwear,37,Winter,Metallic,Cotton,Mid-range,Luxury,Instagram
+T0343,Shoes,Formal,7,Winter,Earth-tone,Silk,Affordable,Luxury,YouTube
+T0344,Shoes,Minimalist,82,Summer,Pastel,Linen,Mid-range,Local,YouTube
+T0345,Pants,Sporty,77,Spring,Monochrome,Denim,Affordable,Luxury,Pinterest
+T0346,Shirt,Sporty,79,Spring,Pastel,Denim,Affordable,High-end,YouTube
+T0347,Pants,Minimalist,28,Autumn,Metallic,Velvet,High-end,High-end,Pinterest
+T0348,Shirt,Vintage,89,Winter,Monochrome,Velvet,Mid-range,High-end,YouTube
+T0349,Shirt,Minimalist,93,Winter,Metallic,Denim,High-end,Fast Fashion,Pinterest
+T0350,Pants,Formal,18,Summer,Metallic,Wool,Affordable,Luxury,YouTube
+T0351,Shoes,Bohemian,14,Summer,Gradient,Wool,Affordable,Local,Instagram
+T0352,Shirt,Formal,2,Autumn,Pastel,Velvet,High-end,Luxury,Pinterest
+T0353,Pants,Vintage,92,Spring,Gradient,Linen,High-end,Luxury,Instagram
+T0354,Pants,Streetwear,88,Autumn,Monochrome,Denim,Affordable,Luxury,Pinterest
+T0355,Dress,Streetwear,83,Summer,Monochrome,Polyester,Mid-range,Luxury,YouTube
+T0356,Dress,Streetwear,32,Autumn,Pastel,Velvet,High-end,High-end,Instagram
+T0357,Accessories,Casual,76,Winter,Metallic,Linen,Affordable,Fast Fashion,Pinterest
+T0358,Pants,Streetwear,52,Winter,Pastel,Linen,High-end,High-end,Instagram
+T0359,Accessories,Casual,42,Summer,Gradient,Silk,Mid-range,Local,Instagram
+T0360,Accessories,Streetwear,50,Summer,Metallic,Polyester,Affordable,Local,YouTube
+T0361,Accessories,Sporty,56,Spring,Pastel,Polyester,Affordable,Luxury,Instagram
+T0362,Shoes,Vintage,56,Spring,Monochrome,Silk,Mid-range,High-end,Pinterest
+T0363,Shoes,Vintage,6,Winter,Neon,Wool,High-end,Fast Fashion,Pinterest
+T0364,Shirt,Bohemian,26,Winter,Pastel,Silk,Mid-range,High-end,Instagram
+T0365,Shoes,Bohemian,65,Winter,Earth-tone,Linen,Affordable,Fast Fashion,YouTube
+T0366,Accessories,Formal,42,Spring,Earth-tone,Denim,High-end,Local,YouTube
+T0367,Pants,Sporty,11,Summer,Metallic,Velvet,Mid-range,Local,YouTube
+T0368,Pants,Casual,14,Winter,Gradient,Silk,High-end,Luxury,Instagram
+T0369,Shirt,Casual,48,Autumn,Earth-tone,Denim,High-end,Local,YouTube
+T0370,Shirt,Sporty,66,Spring,Pastel,Wool,Affordable,Local,Pinterest
+T0371,Shoes,Streetwear,19,Spring,Neon,Wool,Affordable,Luxury,TikTok
+T0372,Shoes,Minimalist,59,Autumn,Earth-tone,Polyester,Mid-range,High-end,YouTube
+T0373,Shoes,Formal,99,Spring,Earth-tone,Cotton,Affordable,Fast Fashion,Instagram
+T0374,Shoes,Formal,2,Autumn,Earth-tone,Silk,High-end,High-end,YouTube
+T0375,Accessories,Streetwear,48,Summer,Pastel,Wool,High-end,High-end,YouTube
+T0376,Pants,Bohemian,48,Spring,Metallic,Denim,Affordable,High-end,Instagram
+T0377,Pants,Bohemian,7,Spring,Monochrome,Denim,High-end,High-end,Pinterest
+T0378,Shirt,Casual,92,Summer,Gradient,Silk,Affordable,Luxury,YouTube
+T0379,Accessories,Formal,20,Spring,Pastel,Wool,High-end,Local,Pinterest
+T0380,Shirt,Bohemian,65,Winter,Neon,Velvet,Affordable,Local,YouTube
+T0381,Pants,Bohemian,52,Autumn,Neon,Denim,High-end,Luxury,TikTok
+T0382,Shoes,Casual,30,Autumn,Earth-tone,Wool,High-end,Fast Fashion,YouTube
+T0383,Dress,Vintage,43,Autumn,Neon,Wool,Mid-range,Local,YouTube
+T0384,Accessories,Casual,10,Winter,Gradient,Velvet,Affordable,Luxury,TikTok
+T0385,Shoes,Streetwear,74,Spring,Neon,Denim,Mid-range,Fast Fashion,TikTok
+T0386,Shoes,Bohemian,25,Autumn,Neon,Polyester,High-end,Fast Fashion,TikTok
+T0387,Dress,Bohemian,37,Summer,Gradient,Denim,Affordable,Fast Fashion,Instagram
+T0388,Dress,Sporty,84,Summer,Earth-tone,Wool,Mid-range,High-end,TikTok
+T0389,Shoes,Streetwear,8,Autumn,Pastel,Polyester,High-end,Local,TikTok
+T0390,Pants,Streetwear,85,Winter,Earth-tone,Polyester,High-end,High-end,Pinterest
+T0391,Shirt,Streetwear,10,Summer,Monochrome,Cotton,Mid-range,High-end,Pinterest
+T0392,Pants,Streetwear,99,Autumn,Gradient,Silk,Affordable,High-end,Pinterest
+T0393,Shoes,Minimalist,30,Spring,Monochrome,Denim,Mid-range,High-end,Instagram
+T0394,Shoes,Casual,62,Autumn,Neon,Polyester,Affordable,High-end,Pinterest
+T0395,Pants,Sporty,5,Winter,Gradient,Denim,High-end,High-end,TikTok
+T0396,Dress,Streetwear,33,Summer,Monochrome,Cotton,Mid-range,Fast Fashion,TikTok
+T0397,Accessories,Vintage,64,Summer,Earth-tone,Linen,High-end,High-end,Pinterest
+T0398,Accessories,Sporty,41,Winter,Earth-tone,Silk,Affordable,Luxury,Instagram
+T0399,Pants,Bohemian,68,Autumn,Earth-tone,Silk,Mid-range,Local,TikTok
+T0400,Dress,Casual,80,Winter,Metallic,Velvet,Affordable,Fast Fashion,TikTok
+T0401,Pants,Formal,96,Spring,Neon,Silk,High-end,Fast Fashion,YouTube
+T0402,Pants,Streetwear,49,Summer,Pastel,Velvet,Affordable,Luxury,Instagram
+T0403,Shoes,Minimalist,77,Autumn,Gradient,Cotton,Mid-range,Local,YouTube
+T0404,Accessories,Minimalist,20,Autumn,Metallic,Polyester,Affordable,Fast Fashion,TikTok
+T0405,Shoes,Bohemian,96,Autumn,Gradient,Polyester,Mid-range,Fast Fashion,TikTok
+T0406,Accessories,Vintage,3,Summer,Monochrome,Velvet,High-end,High-end,Pinterest
+T0407,Pants,Streetwear,90,Summer,Monochrome,Cotton,Affordable,High-end,Pinterest
+T0408,Shoes,Minimalist,6,Autumn,Monochrome,Wool,Mid-range,High-end,TikTok
+T0409,Accessories,Minimalist,96,Winter,Pastel,Wool,High-end,High-end,Instagram
+T0410,Shoes,Casual,28,Spring,Neon,Wool,Affordable,Fast Fashion,Instagram
+T0411,Shoes,Casual,52,Spring,Neon,Polyester,High-end,Luxury,YouTube
+T0412,Shoes,Streetwear,48,Spring,Gradient,Denim,High-end,Luxury,Pinterest
+T0413,Shirt,Formal,81,Summer,Neon,Polyester,Affordable,Luxury,TikTok
+T0414,Shirt,Formal,96,Winter,Earth-tone,Cotton,Affordable,Luxury,YouTube
+T0415,Pants,Casual,32,Winter,Monochrome,Silk,Mid-range,Luxury,YouTube
+T0416,Pants,Vintage,78,Autumn,Neon,Denim,Affordable,Fast Fashion,Pinterest
+T0417,Shoes,Sporty,59,Summer,Gradient,Denim,Mid-range,High-end,Pinterest
+T0418,Shirt,Streetwear,75,Spring,Gradient,Linen,High-end,Local,Pinterest
+T0419,Dress,Casual,58,Spring,Gradient,Wool,Affordable,High-end,TikTok
+T0420,Accessories,Vintage,93,Autumn,Metallic,Cotton,High-end,High-end,TikTok
+T0421,Dress,Formal,99,Spring,Monochrome,Silk,Affordable,Fast Fashion,TikTok
+T0422,Shirt,Minimalist,8,Autumn,Monochrome,Polyester,High-end,Local,Pinterest
+T0423,Accessories,Vintage,26,Summer,Earth-tone,Cotton,Mid-range,Luxury,Instagram
+T0424,Shoes,Vintage,26,Spring,Pastel,Velvet,High-end,Luxury,YouTube
+T0425,Shirt,Casual,6,Summer,Metallic,Silk,Affordable,Fast Fashion,YouTube
+T0426,Shirt,Minimalist,39,Summer,Earth-tone,Cotton,Affordable,Fast Fashion,YouTube
+T0427,Dress,Minimalist,79,Autumn,Metallic,Velvet,Mid-range,Local,YouTube
+T0428,Accessories,Formal,74,Summer,Pastel,Cotton,Mid-range,High-end,YouTube
+T0429,Accessories,Minimalist,12,Summer,Pastel,Denim,Affordable,High-end,Instagram
+T0430,Pants,Minimalist,1,Winter,Neon,Linen,High-end,Fast Fashion,YouTube
+T0431,Dress,Bohemian,70,Autumn,Monochrome,Silk,Affordable,Luxury,Instagram
+T0432,Shoes,Vintage,8,Winter,Monochrome,Cotton,High-end,Luxury,Instagram
+T0433,Shirt,Minimalist,24,Autumn,Monochrome,Polyester,Affordable,Luxury,TikTok
+T0434,Shoes,Casual,74,Autumn,Neon,Linen,Affordable,Local,YouTube
+T0435,Shirt,Sporty,54,Autumn,Neon,Silk,High-end,Luxury,Instagram
+T0436,Dress,Formal,60,Winter,Pastel,Denim,High-end,Luxury,YouTube
+T0437,Shoes,Vintage,24,Winter,Earth-tone,Silk,Affordable,Fast Fashion,YouTube
+T0438,Accessories,Vintage,50,Spring,Monochrome,Silk,High-end,Local,YouTube
+T0439,Pants,Bohemian,5,Autumn,Metallic,Polyester,Mid-range,High-end,Pinterest
+T0440,Pants,Sporty,5,Winter,Pastel,Linen,High-end,Luxury,TikTok
+T0441,Accessories,Streetwear,7,Winter,Neon,Silk,Affordable,Local,YouTube
+T0442,Accessories,Formal,7,Spring,Monochrome,Polyester,Affordable,High-end,YouTube
+T0443,Shoes,Vintage,20,Summer,Metallic,Cotton,Mid-range,Fast Fashion,TikTok
+T0444,Pants,Bohemian,12,Summer,Monochrome,Denim,High-end,High-end,TikTok
+T0445,Pants,Minimalist,98,Spring,Gradient,Denim,Mid-range,Fast Fashion,Instagram
+T0446,Pants,Vintage,48,Summer,Earth-tone,Linen,High-end,Luxury,Instagram
+T0447,Shirt,Vintage,60,Summer,Monochrome,Cotton,Affordable,Fast Fashion,Instagram
+T0448,Shirt,Formal,22,Spring,Monochrome,Silk,Mid-range,Fast Fashion,TikTok
+T0449,Dress,Casual,50,Autumn,Gradient,Polyester,High-end,Luxury,Instagram
+T0450,Dress,Formal,45,Winter,Monochrome,Polyester,Affordable,Luxury,TikTok
+T0451,Accessories,Streetwear,96,Winter,Metallic,Velvet,Affordable,Local,Instagram
+T0452,Shoes,Casual,1,Autumn,Neon,Velvet,Mid-range,High-end,TikTok
+T0453,Shoes,Minimalist,93,Autumn,Monochrome,Silk,Affordable,High-end,TikTok
+T0454,Dress,Streetwear,83,Summer,Metallic,Silk,High-end,Luxury,Instagram
+T0455,Shirt,Vintage,20,Spring,Gradient,Linen,High-end,Fast Fashion,Pinterest
+T0456,Shirt,Formal,16,Summer,Earth-tone,Wool,Affordable,Luxury,TikTok
+T0457,Pants,Casual,41,Winter,Metallic,Denim,Mid-range,Local,YouTube
+T0458,Shoes,Vintage,99,Summer,Gradient,Wool,Affordable,Fast Fashion,Pinterest
+T0459,Pants,Formal,13,Autumn,Neon,Polyester,High-end,Fast Fashion,Instagram
+T0460,Pants,Minimalist,29,Autumn,Monochrome,Cotton,Affordable,Fast Fashion,TikTok
+T0461,Shirt,Streetwear,69,Autumn,Neon,Velvet,High-end,Fast Fashion,Instagram
+T0462,Shoes,Formal,42,Summer,Gradient,Wool,Affordable,Local,Pinterest
+T0463,Dress,Formal,35,Spring,Metallic,Polyester,Affordable,High-end,TikTok
+T0464,Accessories,Vintage,17,Winter,Earth-tone,Linen,Mid-range,High-end,YouTube
+T0465,Shirt,Streetwear,48,Winter,Monochrome,Linen,Mid-range,Luxury,Instagram
+T0466,Shoes,Streetwear,38,Winter,Earth-tone,Wool,High-end,Local,Instagram
+T0467,Dress,Minimalist,55,Summer,Monochrome,Wool,Mid-range,High-end,TikTok
+T0468,Pants,Minimalist,84,Autumn,Earth-tone,Cotton,Affordable,Local,Pinterest
+T0469,Dress,Streetwear,5,Winter,Neon,Wool,Affordable,Local,YouTube
+T0470,Shoes,Minimalist,52,Winter,Monochrome,Velvet,High-end,High-end,Instagram
+T0471,Dress,Minimalist,21,Summer,Neon,Wool,Mid-range,Fast Fashion,TikTok
+T0472,Dress,Sporty,60,Spring,Metallic,Linen,Mid-range,Luxury,TikTok
+T0473,Accessories,Sporty,41,Spring,Neon,Cotton,Affordable,Fast Fashion,Instagram
+T0474,Shirt,Minimalist,5,Autumn,Gradient,Cotton,Mid-range,Local,Instagram
+T0475,Shirt,Streetwear,76,Summer,Gradient,Polyester,High-end,Local,TikTok
+T0476,Shoes,Casual,25,Spring,Neon,Wool,Mid-range,High-end,Pinterest
+T0477,Shirt,Vintage,94,Spring,Neon,Cotton,High-end,Fast Fashion,TikTok
+T0478,Dress,Formal,0,Winter,Metallic,Denim,High-end,Fast Fashion,TikTok
+T0479,Dress,Bohemian,50,Winter,Pastel,Velvet,High-end,High-end,YouTube
+T0480,Accessories,Formal,22,Spring,Neon,Velvet,Mid-range,Local,TikTok
+T0481,Shoes,Sporty,68,Spring,Monochrome,Velvet,High-end,High-end,Pinterest
+T0482,Shirt,Formal,19,Summer,Pastel,Velvet,Affordable,Luxury,YouTube
+T0483,Pants,Minimalist,60,Summer,Earth-tone,Velvet,High-end,Local,Pinterest
+T0484,Accessories,Casual,41,Autumn,Monochrome,Cotton,Affordable,Luxury,YouTube
+T0485,Pants,Casual,23,Summer,Neon,Wool,Affordable,Local,YouTube
+T0486,Shoes,Sporty,81,Summer,Neon,Linen,Affordable,Fast Fashion,Pinterest
+T0487,Shirt,Formal,16,Winter,Monochrome,Denim,Mid-range,High-end,YouTube
+T0488,Accessories,Casual,9,Summer,Earth-tone,Silk,High-end,Fast Fashion,YouTube
+T0489,Accessories,Sporty,99,Summer,Neon,Silk,Affordable,High-end,Pinterest
+T0490,Pants,Minimalist,98,Winter,Gradient,Silk,Affordable,Local,YouTube
+T0491,Dress,Bohemian,63,Autumn,Monochrome,Silk,Affordable,Luxury,TikTok
+T0492,Shoes,Streetwear,83,Autumn,Earth-tone,Silk,Mid-range,Local,Pinterest
+T0493,Shoes,Minimalist,49,Summer,Neon,Silk,Affordable,High-end,TikTok
+T0494,Shirt,Bohemian,38,Summer,Pastel,Velvet,Mid-range,Local,YouTube
+T0495,Accessories,Sporty,57,Summer,Earth-tone,Velvet,Affordable,Luxury,Instagram
+T0496,Accessories,Bohemian,30,Summer,Neon,Polyester,High-end,Luxury,YouTube
+T0497,Shoes,Minimalist,45,Winter,Earth-tone,Velvet,High-end,Luxury,TikTok
+T0498,Dress,Vintage,17,Spring,Gradient,Cotton,Affordable,Fast Fashion,TikTok
+T0499,Accessories,Minimalist,13,Spring,Earth-tone,Wool,Mid-range,High-end,TikTok
+T0500,Shoes,Casual,34,Spring,Monochrome,Wool,Affordable,Local,YouTube
+T0501,Shoes,Streetwear,57,Spring,Pastel,Denim,Mid-range,Luxury,YouTube
+T0502,Accessories,Vintage,47,Spring,Monochrome,Wool,Mid-range,Local,Pinterest
+T0503,Accessories,Streetwear,71,Winter,Pastel,Linen,High-end,High-end,TikTok
+T0504,Shoes,Vintage,9,Winter,Metallic,Linen,Affordable,Luxury,TikTok
+T0505,Shoes,Bohemian,41,Autumn,Neon,Cotton,Mid-range,Luxury,Pinterest
+T0506,Dress,Bohemian,34,Winter,Earth-tone,Wool,Affordable,Local,TikTok
+T0507,Dress,Sporty,76,Autumn,Gradient,Cotton,Mid-range,High-end,Instagram
+T0508,Shirt,Sporty,53,Summer,Metallic,Silk,High-end,High-end,Pinterest
+T0509,Shoes,Vintage,29,Spring,Monochrome,Velvet,High-end,High-end,TikTok
+T0510,Pants,Formal,54,Spring,Monochrome,Denim,High-end,Local,TikTok
+T0511,Shoes,Sporty,96,Autumn,Gradient,Cotton,High-end,Fast Fashion,Instagram
+T0512,Shoes,Casual,31,Winter,Pastel,Cotton,Affordable,Luxury,YouTube
+T0513,Dress,Minimalist,67,Spring,Metallic,Silk,High-end,Local,Pinterest
+T0514,Dress,Bohemian,44,Autumn,Pastel,Polyester,Mid-range,Local,TikTok
+T0515,Accessories,Minimalist,63,Summer,Earth-tone,Silk,Mid-range,Fast Fashion,TikTok
+T0516,Shoes,Minimalist,26,Summer,Neon,Velvet,Mid-range,Fast Fashion,TikTok
+T0517,Pants,Sporty,1,Winter,Pastel,Wool,High-end,High-end,Pinterest
+T0518,Dress,Minimalist,92,Winter,Monochrome,Polyester,Affordable,Fast Fashion,TikTok
+T0519,Accessories,Vintage,40,Summer,Pastel,Polyester,High-end,Local,YouTube
+T0520,Shoes,Minimalist,92,Summer,Metallic,Denim,High-end,Luxury,YouTube
+T0521,Shirt,Minimalist,76,Summer,Pastel,Polyester,Affordable,Local,Pinterest
+T0522,Pants,Vintage,49,Spring,Neon,Velvet,Mid-range,High-end,Pinterest
+T0523,Dress,Casual,35,Spring,Pastel,Velvet,High-end,High-end,Instagram
+T0524,Dress,Streetwear,93,Spring,Pastel,Cotton,High-end,Local,TikTok
+T0525,Dress,Streetwear,10,Spring,Earth-tone,Velvet,High-end,Luxury,TikTok
+T0526,Dress,Formal,64,Autumn,Monochrome,Polyester,High-end,Luxury,TikTok
+T0527,Shirt,Streetwear,80,Spring,Metallic,Linen,Affordable,Fast Fashion,YouTube
+T0528,Pants,Bohemian,33,Spring,Earth-tone,Polyester,Affordable,Local,Pinterest
+T0529,Accessories,Bohemian,20,Summer,Monochrome,Linen,Affordable,Local,TikTok
+T0530,Shoes,Minimalist,73,Summer,Monochrome,Silk,Affordable,Local,Instagram
+T0531,Dress,Bohemian,66,Winter,Earth-tone,Cotton,High-end,Fast Fashion,Pinterest
+T0532,Pants,Formal,2,Summer,Metallic,Silk,Mid-range,Local,Instagram
+T0533,Accessories,Streetwear,24,Spring,Metallic,Wool,Affordable,Fast Fashion,TikTok
+T0534,Shoes,Vintage,49,Spring,Earth-tone,Denim,Affordable,High-end,Instagram
+T0535,Pants,Formal,3,Autumn,Metallic,Linen,High-end,Luxury,YouTube
+T0536,Pants,Bohemian,16,Spring,Gradient,Cotton,High-end,High-end,Instagram
+T0537,Pants,Sporty,81,Winter,Pastel,Silk,Affordable,Local,Instagram
+T0538,Pants,Minimalist,4,Spring,Gradient,Cotton,High-end,High-end,Instagram
+T0539,Shoes,Sporty,59,Autumn,Neon,Denim,Affordable,Fast Fashion,Instagram
+T0540,Accessories,Casual,100,Spring,Earth-tone,Silk,High-end,Local,YouTube
+T0541,Dress,Bohemian,52,Autumn,Gradient,Cotton,Mid-range,Fast Fashion,Instagram
+T0542,Dress,Vintage,82,Spring,Monochrome,Silk,Affordable,Luxury,Pinterest
+T0543,Shoes,Vintage,42,Spring,Monochrome,Denim,Affordable,Luxury,YouTube
+T0544,Accessories,Casual,51,Winter,Metallic,Wool,Mid-range,High-end,Pinterest
+T0545,Shirt,Formal,92,Winter,Gradient,Linen,Affordable,Luxury,YouTube
+T0546,Dress,Vintage,100,Autumn,Metallic,Silk,Affordable,Luxury,Instagram
+T0547,Dress,Bohemian,98,Autumn,Earth-tone,Linen,Affordable,Fast Fashion,Pinterest
+T0548,Shirt,Minimalist,9,Spring,Metallic,Denim,Affordable,Luxury,Instagram
+T0549,Shirt,Streetwear,48,Spring,Monochrome,Cotton,Affordable,Luxury,Pinterest
+T0550,Pants,Bohemian,52,Winter,Pastel,Silk,High-end,High-end,Instagram
+T0551,Shirt,Bohemian,20,Winter,Metallic,Denim,High-end,Fast Fashion,Instagram
+T0552,Shirt,Minimalist,77,Summer,Neon,Silk,Affordable,High-end,Pinterest
+T0553,Dress,Bohemian,35,Winter,Pastel,Linen,Affordable,High-end,TikTok
+T0554,Accessories,Casual,46,Spring,Monochrome,Wool,High-end,Local,Pinterest
+T0555,Shirt,Casual,86,Winter,Earth-tone,Wool,Mid-range,High-end,Pinterest
+T0556,Shirt,Bohemian,34,Summer,Earth-tone,Velvet,Mid-range,Fast Fashion,YouTube
+T0557,Shirt,Bohemian,61,Spring,Earth-tone,Cotton,Affordable,Fast Fashion,Pinterest
+T0558,Accessories,Bohemian,26,Spring,Earth-tone,Linen,Affordable,High-end,Instagram
+T0559,Accessories,Bohemian,27,Summer,Gradient,Denim,Affordable,Luxury,Pinterest
+T0560,Shirt,Casual,10,Autumn,Pastel,Wool,Mid-range,High-end,Pinterest
+T0561,Pants,Casual,60,Summer,Monochrome,Cotton,Affordable,Fast Fashion,Instagram
+T0562,Shirt,Minimalist,78,Summer,Earth-tone,Wool,Affordable,Fast Fashion,Pinterest
+T0563,Pants,Formal,24,Autumn,Gradient,Denim,High-end,Luxury,Pinterest
+T0564,Pants,Minimalist,83,Spring,Monochrome,Velvet,Mid-range,Fast Fashion,Instagram
+T0565,Accessories,Streetwear,41,Autumn,Neon,Denim,Mid-range,Luxury,YouTube
+T0566,Shoes,Casual,33,Winter,Pastel,Silk,High-end,Fast Fashion,Pinterest
+T0567,Shoes,Bohemian,34,Spring,Monochrome,Silk,Affordable,Fast Fashion,YouTube
+T0568,Shoes,Formal,31,Autumn,Gradient,Cotton,High-end,High-end,Pinterest
+T0569,Shoes,Streetwear,35,Winter,Neon,Polyester,Affordable,Fast Fashion,YouTube
+T0570,Accessories,Bohemian,85,Winter,Gradient,Cotton,Mid-range,Fast Fashion,YouTube
+T0571,Accessories,Sporty,84,Summer,Monochrome,Cotton,High-end,Local,YouTube
+T0572,Dress,Casual,99,Summer,Pastel,Wool,Affordable,Fast Fashion,Pinterest
+T0573,Shoes,Streetwear,65,Winter,Neon,Velvet,Affordable,High-end,Instagram
+T0574,Pants,Streetwear,16,Winter,Earth-tone,Denim,Affordable,Fast Fashion,Pinterest
+T0575,Pants,Formal,73,Spring,Monochrome,Cotton,Mid-range,High-end,YouTube
+T0576,Shirt,Minimalist,68,Spring,Gradient,Silk,High-end,Local,TikTok
+T0577,Accessories,Bohemian,12,Autumn,Earth-tone,Wool,Affordable,Fast Fashion,Pinterest
+T0578,Shoes,Vintage,73,Summer,Earth-tone,Linen,High-end,Local,Pinterest
+T0579,Shirt,Sporty,39,Spring,Earth-tone,Velvet,Mid-range,High-end,Instagram
+T0580,Dress,Minimalist,70,Summer,Metallic,Silk,Mid-range,Fast Fashion,Instagram
+T0581,Pants,Minimalist,7,Spring,Neon,Polyester,High-end,Local,Pinterest
+T0582,Accessories,Casual,64,Autumn,Neon,Cotton,Mid-range,High-end,Pinterest
+T0583,Shirt,Bohemian,28,Winter,Neon,Wool,High-end,High-end,TikTok
+T0584,Dress,Vintage,91,Summer,Metallic,Wool,High-end,Fast Fashion,TikTok
+T0585,Accessories,Vintage,91,Winter,Monochrome,Denim,Mid-range,Fast Fashion,YouTube
+T0586,Accessories,Sporty,85,Autumn,Pastel,Denim,Mid-range,Luxury,YouTube
+T0587,Pants,Formal,36,Winter,Gradient,Silk,High-end,High-end,TikTok
+T0588,Pants,Minimalist,79,Autumn,Earth-tone,Denim,High-end,Local,YouTube
+T0589,Pants,Bohemian,12,Winter,Earth-tone,Linen,Mid-range,Local,Instagram
+T0590,Shoes,Vintage,75,Winter,Earth-tone,Cotton,High-end,Local,YouTube
+T0591,Dress,Sporty,11,Winter,Metallic,Linen,High-end,Local,YouTube
+T0592,Pants,Sporty,22,Autumn,Metallic,Velvet,Affordable,Fast Fashion,YouTube
+T0593,Dress,Casual,1,Autumn,Earth-tone,Wool,Affordable,Local,Instagram
+T0594,Dress,Vintage,60,Spring,Monochrome,Polyester,High-end,Luxury,TikTok
+T0595,Shirt,Casual,25,Summer,Gradient,Velvet,Affordable,Fast Fashion,Instagram
+T0596,Pants,Casual,44,Winter,Earth-tone,Silk,High-end,High-end,Instagram
+T0597,Pants,Bohemian,53,Autumn,Earth-tone,Linen,High-end,Local,TikTok
+T0598,Pants,Streetwear,2,Summer,Metallic,Denim,High-end,High-end,TikTok
+T0599,Accessories,Sporty,50,Summer,Gradient,Velvet,Mid-range,Luxury,YouTube
+T0600,Accessories,Formal,100,Winter,Gradient,Silk,High-end,Local,Pinterest
+T0601,Shoes,Streetwear,7,Summer,Earth-tone,Cotton,Mid-range,Fast Fashion,Pinterest
+T0602,Accessories,Bohemian,76,Summer,Pastel,Silk,Affordable,Luxury,Instagram
+T0603,Dress,Formal,48,Spring,Earth-tone,Polyester,Affordable,High-end,Pinterest
+T0604,Shoes,Vintage,58,Summer,Neon,Denim,Affordable,High-end,Instagram
+T0605,Pants,Sporty,88,Autumn,Earth-tone,Polyester,High-end,Fast Fashion,TikTok
+T0606,Pants,Formal,72,Spring,Gradient,Denim,Mid-range,Luxury,Pinterest
+T0607,Pants,Sporty,96,Summer,Neon,Cotton,Mid-range,Luxury,Instagram
+T0608,Shoes,Streetwear,13,Autumn,Earth-tone,Cotton,Mid-range,Luxury,Instagram
+T0609,Shirt,Streetwear,81,Winter,Metallic,Silk,Mid-range,Local,Instagram
+T0610,Pants,Vintage,92,Summer,Pastel,Denim,Affordable,Luxury,Instagram
+T0611,Shoes,Minimalist,29,Summer,Neon,Denim,High-end,Local,TikTok
+T0612,Shoes,Vintage,85,Summer,Pastel,Velvet,Affordable,Local,Pinterest
+T0613,Dress,Minimalist,14,Spring,Gradient,Polyester,Affordable,Luxury,Pinterest
+T0614,Shirt,Bohemian,80,Autumn,Neon,Denim,Affordable,Luxury,TikTok
+T0615,Shirt,Sporty,1,Spring,Monochrome,Velvet,High-end,High-end,TikTok
+T0616,Shirt,Vintage,94,Autumn,Neon,Denim,High-end,Fast Fashion,TikTok
+T0617,Accessories,Vintage,95,Autumn,Metallic,Polyester,Mid-range,Luxury,TikTok
+T0618,Dress,Bohemian,82,Spring,Monochrome,Silk,Mid-range,Luxury,TikTok
+T0619,Shirt,Vintage,8,Autumn,Gradient,Linen,Mid-range,High-end,Pinterest
+T0620,Shirt,Bohemian,48,Summer,Neon,Velvet,High-end,Fast Fashion,Instagram
+T0621,Dress,Minimalist,64,Winter,Gradient,Velvet,Affordable,High-end,Pinterest
+T0622,Pants,Casual,64,Spring,Neon,Cotton,Mid-range,High-end,TikTok
+T0623,Accessories,Bohemian,6,Spring,Gradient,Wool,Affordable,Local,Instagram
+T0624,Shoes,Vintage,75,Summer,Earth-tone,Cotton,High-end,Luxury,Pinterest
+T0625,Pants,Streetwear,33,Spring,Pastel,Cotton,Mid-range,Luxury,Instagram
+T0626,Shirt,Formal,87,Winter,Monochrome,Cotton,Affordable,Local,TikTok
+T0627,Shirt,Minimalist,31,Autumn,Neon,Wool,High-end,Fast Fashion,Pinterest
+T0628,Dress,Bohemian,74,Spring,Neon,Velvet,Affordable,Local,Instagram
+T0629,Pants,Vintage,19,Autumn,Metallic,Linen,Affordable,Luxury,Instagram
+T0630,Shirt,Formal,35,Autumn,Metallic,Wool,High-end,Local,TikTok
+T0631,Dress,Formal,28,Winter,Gradient,Cotton,Mid-range,Fast Fashion,Instagram
+T0632,Accessories,Bohemian,91,Autumn,Gradient,Denim,High-end,Luxury,Pinterest
+T0633,Shoes,Streetwear,51,Summer,Neon,Silk,Mid-range,Local,Pinterest
+T0634,Dress,Bohemian,44,Autumn,Earth-tone,Velvet,Affordable,Luxury,Instagram
+T0635,Shirt,Formal,44,Winter,Pastel,Polyester,High-end,High-end,Instagram
+T0636,Dress,Minimalist,19,Autumn,Neon,Denim,Affordable,Luxury,TikTok
+T0637,Pants,Bohemian,63,Summer,Neon,Denim,High-end,High-end,YouTube
+T0638,Shirt,Streetwear,100,Autumn,Earth-tone,Wool,Affordable,Local,Pinterest
+T0639,Pants,Minimalist,14,Autumn,Earth-tone,Linen,Mid-range,Local,TikTok
+T0640,Dress,Formal,65,Autumn,Pastel,Velvet,High-end,Luxury,Pinterest
+T0641,Dress,Bohemian,85,Summer,Monochrome,Denim,Affordable,Local,YouTube
+T0642,Pants,Bohemian,46,Spring,Monochrome,Silk,Mid-range,Fast Fashion,TikTok
+T0643,Shirt,Streetwear,10,Winter,Monochrome,Linen,High-end,Fast Fashion,TikTok
+T0644,Dress,Formal,97,Spring,Earth-tone,Cotton,Mid-range,Fast Fashion,Instagram
+T0645,Dress,Streetwear,20,Autumn,Metallic,Cotton,Affordable,High-end,Pinterest
+T0646,Shirt,Streetwear,85,Winter,Pastel,Denim,Mid-range,Luxury,Pinterest
+T0647,Pants,Vintage,80,Autumn,Gradient,Silk,Mid-range,Local,TikTok
+T0648,Pants,Streetwear,90,Winter,Earth-tone,Denim,Affordable,High-end,YouTube
+T0649,Shoes,Streetwear,21,Spring,Earth-tone,Linen,Affordable,Luxury,YouTube
+T0650,Shoes,Formal,12,Winter,Pastel,Silk,High-end,Fast Fashion,Pinterest
+T0651,Pants,Sporty,37,Winter,Earth-tone,Velvet,Mid-range,High-end,TikTok
+T0652,Shoes,Casual,9,Summer,Pastel,Cotton,High-end,Luxury,YouTube
+T0653,Dress,Bohemian,2,Winter,Monochrome,Polyester,High-end,High-end,YouTube
+T0654,Dress,Bohemian,82,Autumn,Gradient,Polyester,Affordable,Local,TikTok
+T0655,Dress,Vintage,37,Spring,Neon,Cotton,Affordable,Local,TikTok
+T0656,Accessories,Bohemian,49,Winter,Metallic,Denim,High-end,Local,Instagram
+T0657,Shoes,Minimalist,8,Summer,Earth-tone,Polyester,Mid-range,Local,YouTube
+T0658,Pants,Bohemian,99,Spring,Gradient,Silk,Mid-range,Local,TikTok
+T0659,Shoes,Casual,77,Autumn,Pastel,Cotton,Affordable,Local,Instagram
+T0660,Pants,Streetwear,95,Autumn,Neon,Cotton,High-end,Fast Fashion,TikTok
+T0661,Accessories,Vintage,13,Summer,Neon,Denim,Mid-range,High-end,YouTube
+T0662,Dress,Sporty,96,Winter,Neon,Denim,Affordable,Luxury,TikTok
+T0663,Accessories,Casual,81,Autumn,Monochrome,Velvet,High-end,High-end,TikTok
+T0664,Accessories,Vintage,66,Autumn,Monochrome,Linen,Mid-range,Fast Fashion,YouTube
+T0665,Shirt,Streetwear,9,Summer,Pastel,Velvet,High-end,Local,Instagram
+T0666,Shirt,Vintage,20,Spring,Metallic,Cotton,Affordable,Fast Fashion,Pinterest
+T0667,Dress,Streetwear,13,Autumn,Monochrome,Cotton,Mid-range,Local,TikTok
+T0668,Shirt,Vintage,66,Spring,Gradient,Polyester,Mid-range,Local,Pinterest
+T0669,Pants,Bohemian,52,Winter,Earth-tone,Wool,Affordable,High-end,TikTok
+T0670,Accessories,Streetwear,83,Winter,Gradient,Velvet,Mid-range,High-end,YouTube
+T0671,Accessories,Formal,14,Autumn,Earth-tone,Polyester,Mid-range,Local,YouTube
+T0672,Pants,Vintage,65,Summer,Earth-tone,Polyester,Affordable,Luxury,YouTube
+T0673,Shoes,Streetwear,88,Spring,Monochrome,Linen,Affordable,Luxury,Instagram
+T0674,Dress,Casual,57,Spring,Metallic,Cotton,Affordable,Luxury,YouTube
+T0675,Shirt,Bohemian,48,Autumn,Gradient,Cotton,High-end,Luxury,Instagram
+T0676,Dress,Casual,9,Winter,Gradient,Silk,Mid-range,Fast Fashion,YouTube
+T0677,Shirt,Formal,96,Summer,Neon,Velvet,High-end,High-end,Instagram
+T0678,Shirt,Sporty,28,Autumn,Pastel,Denim,Affordable,Fast Fashion,Instagram
+T0679,Shoes,Formal,77,Autumn,Pastel,Linen,Mid-range,Fast Fashion,YouTube
+T0680,Dress,Bohemian,83,Autumn,Neon,Wool,High-end,Luxury,Pinterest
+T0681,Accessories,Streetwear,30,Summer,Metallic,Linen,High-end,Fast Fashion,Instagram
+T0682,Shirt,Sporty,36,Summer,Metallic,Silk,Affordable,Fast Fashion,YouTube
+T0683,Dress,Streetwear,55,Winter,Neon,Silk,Affordable,Fast Fashion,YouTube
+T0684,Shirt,Vintage,54,Spring,Earth-tone,Linen,Mid-range,Luxury,Pinterest
+T0685,Dress,Sporty,89,Spring,Earth-tone,Velvet,High-end,High-end,Instagram
+T0686,Shoes,Streetwear,16,Winter,Pastel,Linen,Mid-range,High-end,TikTok
+T0687,Accessories,Sporty,54,Spring,Pastel,Linen,Mid-range,Fast Fashion,YouTube
+T0688,Shoes,Formal,24,Winter,Neon,Polyester,Mid-range,High-end,Pinterest
+T0689,Dress,Bohemian,82,Summer,Earth-tone,Wool,Affordable,High-end,Pinterest
+T0690,Pants,Formal,76,Spring,Metallic,Silk,Mid-range,Luxury,TikTok
+T0691,Dress,Minimalist,19,Spring,Earth-tone,Polyester,High-end,High-end,Instagram
+T0692,Accessories,Casual,43,Spring,Metallic,Velvet,Affordable,Luxury,Pinterest
+T0693,Shirt,Streetwear,55,Summer,Pastel,Polyester,Affordable,Fast Fashion,YouTube
+T0694,Pants,Minimalist,8,Summer,Monochrome,Denim,Mid-range,High-end,Pinterest
+T0695,Dress,Vintage,97,Winter,Metallic,Linen,Mid-range,Luxury,TikTok
+T0696,Shoes,Bohemian,59,Autumn,Gradient,Silk,Affordable,Fast Fashion,YouTube
+T0697,Dress,Bohemian,9,Spring,Pastel,Wool,Affordable,Luxury,Instagram
+T0698,Accessories,Vintage,48,Summer,Monochrome,Velvet,Affordable,Fast Fashion,TikTok
+T0699,Dress,Formal,10,Winter,Monochrome,Denim,Affordable,Luxury,Instagram
+T0700,Shoes,Bohemian,28,Winter,Metallic,Denim,Mid-range,Fast Fashion,Instagram
+T0701,Accessories,Streetwear,54,Winter,Metallic,Denim,Affordable,Local,YouTube
+T0702,Shirt,Sporty,98,Winter,Earth-tone,Wool,High-end,Fast Fashion,YouTube
+T0703,Accessories,Casual,21,Winter,Monochrome,Polyester,Mid-range,Fast Fashion,TikTok
+T0704,Dress,Bohemian,32,Spring,Monochrome,Linen,Affordable,Luxury,Instagram
+T0705,Shirt,Sporty,77,Summer,Gradient,Velvet,Mid-range,Luxury,Pinterest
+T0706,Pants,Casual,86,Autumn,Pastel,Polyester,High-end,Local,TikTok
+T0707,Shoes,Streetwear,100,Summer,Metallic,Wool,High-end,Luxury,Pinterest
+T0708,Dress,Streetwear,37,Summer,Earth-tone,Velvet,Mid-range,Fast Fashion,Pinterest
+T0709,Accessories,Formal,46,Summer,Pastel,Cotton,Mid-range,Fast Fashion,Pinterest
+T0710,Dress,Minimalist,53,Spring,Metallic,Cotton,High-end,Fast Fashion,TikTok
+T0711,Shirt,Formal,74,Winter,Neon,Silk,High-end,Luxury,Pinterest
+T0712,Shirt,Minimalist,31,Winter,Monochrome,Linen,Affordable,High-end,Pinterest
+T0713,Shoes,Formal,55,Summer,Gradient,Silk,High-end,Luxury,TikTok
+T0714,Accessories,Casual,53,Autumn,Earth-tone,Polyester,High-end,High-end,TikTok
+T0715,Shirt,Sporty,61,Summer,Earth-tone,Silk,High-end,Local,TikTok
+T0716,Accessories,Sporty,12,Winter,Neon,Polyester,High-end,Local,TikTok
+T0717,Pants,Streetwear,37,Autumn,Pastel,Silk,Mid-range,High-end,Instagram
+T0718,Accessories,Casual,55,Spring,Pastel,Cotton,High-end,Fast Fashion,TikTok
+T0719,Pants,Sporty,60,Summer,Gradient,Wool,High-end,Fast Fashion,YouTube
+T0720,Shirt,Vintage,88,Summer,Metallic,Denim,Affordable,Fast Fashion,Instagram
+T0721,Pants,Sporty,43,Summer,Neon,Linen,Affordable,High-end,Pinterest
+T0722,Shirt,Formal,31,Winter,Gradient,Cotton,Mid-range,High-end,Instagram
+T0723,Pants,Formal,66,Winter,Neon,Denim,Mid-range,Luxury,Pinterest
+T0724,Shirt,Sporty,74,Summer,Pastel,Polyester,High-end,Fast Fashion,TikTok
+T0725,Pants,Streetwear,26,Spring,Monochrome,Polyester,Affordable,Local,TikTok
+T0726,Dress,Streetwear,86,Winter,Pastel,Cotton,Mid-range,Luxury,TikTok
+T0727,Dress,Vintage,96,Winter,Earth-tone,Polyester,Mid-range,Fast Fashion,Instagram
+T0728,Pants,Casual,93,Spring,Monochrome,Denim,High-end,High-end,TikTok
+T0729,Shoes,Streetwear,42,Summer,Neon,Velvet,Mid-range,Fast Fashion,TikTok
+T0730,Dress,Bohemian,49,Winter,Gradient,Cotton,Mid-range,Fast Fashion,TikTok
+T0731,Accessories,Casual,64,Summer,Metallic,Silk,Affordable,High-end,Pinterest
+T0732,Shoes,Vintage,62,Spring,Neon,Wool,High-end,Fast Fashion,Instagram
+T0733,Accessories,Streetwear,13,Summer,Metallic,Denim,Affordable,Fast Fashion,YouTube
+T0734,Shoes,Vintage,7,Spring,Monochrome,Cotton,Affordable,Local,Pinterest
+T0735,Dress,Minimalist,99,Spring,Gradient,Silk,High-end,Local,YouTube
+T0736,Pants,Casual,52,Summer,Monochrome,Polyester,High-end,Luxury,TikTok
+T0737,Dress,Minimalist,49,Spring,Neon,Silk,Affordable,Luxury,TikTok
+T0738,Shirt,Vintage,14,Winter,Neon,Denim,Affordable,Local,Instagram
+T0739,Shoes,Formal,90,Summer,Pastel,Velvet,Mid-range,Luxury,YouTube
+T0740,Shirt,Casual,49,Winter,Neon,Polyester,Mid-range,Fast Fashion,Pinterest
+T0741,Shirt,Vintage,4,Autumn,Monochrome,Wool,High-end,Local,Pinterest
+T0742,Dress,Streetwear,21,Winter,Pastel,Velvet,Mid-range,Fast Fashion,TikTok
+T0743,Pants,Casual,35,Spring,Monochrome,Linen,High-end,High-end,TikTok
+T0744,Dress,Formal,50,Spring,Neon,Linen,Affordable,Luxury,Instagram
+T0745,Dress,Streetwear,27,Summer,Earth-tone,Linen,High-end,High-end,YouTube
+T0746,Accessories,Streetwear,13,Spring,Monochrome,Linen,Mid-range,Local,Instagram
+T0747,Shirt,Sporty,53,Winter,Neon,Velvet,High-end,High-end,YouTube
+T0748,Accessories,Vintage,35,Winter,Monochrome,Linen,High-end,Luxury,Instagram
+T0749,Accessories,Formal,100,Spring,Monochrome,Wool,Mid-range,Fast Fashion,Instagram
+T0750,Accessories,Vintage,30,Autumn,Monochrome,Cotton,Mid-range,Luxury,YouTube
+T0751,Shoes,Casual,21,Summer,Metallic,Cotton,High-end,Luxury,YouTube
+T0752,Shirt,Vintage,9,Autumn,Gradient,Silk,Affordable,Fast Fashion,Pinterest
+T0753,Dress,Formal,96,Autumn,Neon,Polyester,Affordable,High-end,Pinterest
+T0754,Accessories,Formal,52,Summer,Pastel,Polyester,High-end,Fast Fashion,Instagram
+T0755,Shoes,Streetwear,8,Summer,Gradient,Polyester,High-end,Local,YouTube
+T0756,Pants,Streetwear,90,Summer,Gradient,Polyester,Affordable,Local,Instagram
+T0757,Shirt,Streetwear,61,Spring,Earth-tone,Wool,Mid-range,Local,YouTube
+T0758,Shirt,Vintage,0,Autumn,Gradient,Wool,High-end,Local,YouTube
+T0759,Shoes,Sporty,61,Autumn,Earth-tone,Silk,Affordable,Local,TikTok
+T0760,Shirt,Minimalist,36,Spring,Earth-tone,Linen,High-end,High-end,Pinterest
+T0761,Pants,Formal,84,Spring,Monochrome,Silk,High-end,Fast Fashion,Instagram
+T0762,Shirt,Vintage,31,Autumn,Neon,Velvet,Mid-range,Fast Fashion,Instagram
+T0763,Shirt,Formal,94,Spring,Pastel,Denim,Affordable,Luxury,Pinterest
+T0764,Shoes,Minimalist,54,Winter,Neon,Wool,High-end,High-end,TikTok
+T0765,Shoes,Casual,32,Autumn,Neon,Wool,Affordable,Local,Pinterest
+T0766,Shirt,Formal,46,Winter,Pastel,Polyester,Affordable,Local,TikTok
+T0767,Accessories,Minimalist,52,Autumn,Metallic,Polyester,Affordable,Fast Fashion,YouTube
+T0768,Shoes,Formal,23,Autumn,Earth-tone,Silk,High-end,Luxury,Pinterest
+T0769,Dress,Streetwear,20,Summer,Neon,Silk,Affordable,Local,Instagram
+T0770,Shoes,Streetwear,18,Winter,Neon,Velvet,Mid-range,Fast Fashion,YouTube
+T0771,Shirt,Sporty,98,Spring,Earth-tone,Denim,High-end,Local,Instagram
+T0772,Accessories,Vintage,21,Winter,Gradient,Silk,Affordable,Fast Fashion,Instagram
+T0773,Dress,Vintage,8,Winter,Earth-tone,Wool,Affordable,Local,Instagram
+T0774,Accessories,Formal,82,Winter,Monochrome,Silk,Affordable,Local,Instagram
+T0775,Dress,Bohemian,55,Winter,Pastel,Silk,High-end,Fast Fashion,Pinterest
+T0776,Pants,Bohemian,20,Autumn,Metallic,Linen,Affordable,Local,Instagram
+T0777,Shirt,Formal,87,Summer,Neon,Cotton,High-end,High-end,Instagram
+T0778,Shoes,Formal,80,Spring,Monochrome,Denim,High-end,High-end,Instagram
+T0779,Accessories,Formal,8,Summer,Metallic,Wool,Mid-range,Local,Pinterest
+T0780,Dress,Vintage,69,Summer,Monochrome,Linen,Mid-range,High-end,TikTok
+T0781,Accessories,Bohemian,25,Spring,Metallic,Cotton,Mid-range,Local,Instagram
+T0782,Pants,Vintage,8,Winter,Earth-tone,Velvet,High-end,Local,Pinterest
+T0783,Pants,Vintage,98,Summer,Pastel,Wool,High-end,High-end,TikTok
+T0784,Shoes,Minimalist,15,Autumn,Neon,Polyester,Mid-range,High-end,Pinterest
+T0785,Shoes,Bohemian,79,Spring,Pastel,Wool,Affordable,Local,TikTok
+T0786,Dress,Sporty,88,Spring,Pastel,Polyester,Affordable,Fast Fashion,Instagram
+T0787,Shirt,Vintage,41,Summer,Pastel,Silk,High-end,Fast Fashion,Instagram
+T0788,Accessories,Formal,35,Winter,Gradient,Velvet,Affordable,High-end,Instagram
+T0789,Shoes,Vintage,66,Spring,Neon,Linen,High-end,Fast Fashion,TikTok
+T0790,Shirt,Sporty,14,Winter,Monochrome,Polyester,Affordable,Local,TikTok
+T0791,Pants,Streetwear,73,Winter,Gradient,Silk,Mid-range,Fast Fashion,Pinterest
+T0792,Dress,Formal,25,Winter,Gradient,Polyester,Mid-range,Fast Fashion,Instagram
+T0793,Pants,Bohemian,31,Winter,Monochrome,Silk,Affordable,Fast Fashion,Pinterest
+T0794,Accessories,Minimalist,43,Winter,Neon,Denim,Mid-range,High-end,Instagram
+T0795,Pants,Casual,100,Summer,Monochrome,Linen,Mid-range,High-end,Pinterest
+T0796,Shoes,Bohemian,39,Winter,Neon,Velvet,Affordable,Fast Fashion,TikTok
+T0797,Pants,Sporty,33,Winter,Monochrome,Velvet,Affordable,High-end,TikTok
+T0798,Accessories,Minimalist,48,Autumn,Pastel,Linen,Mid-range,Luxury,YouTube
+T0799,Shirt,Vintage,62,Spring,Gradient,Linen,Affordable,Luxury,Instagram
+T0800,Shirt,Vintage,39,Summer,Earth-tone,Cotton,High-end,Fast Fashion,TikTok
+T0801,Shoes,Formal,65,Summer,Metallic,Silk,Mid-range,High-end,YouTube
+T0802,Pants,Minimalist,9,Spring,Earth-tone,Denim,Mid-range,Local,Pinterest
+T0803,Shirt,Minimalist,81,Winter,Earth-tone,Silk,Mid-range,Luxury,Instagram
+T0804,Shirt,Sporty,52,Spring,Pastel,Linen,High-end,High-end,Pinterest
+T0805,Accessories,Bohemian,1,Autumn,Gradient,Silk,Mid-range,Local,YouTube
+T0806,Shoes,Sporty,42,Winter,Gradient,Wool,Affordable,Fast Fashion,YouTube
+T0807,Accessories,Vintage,43,Autumn,Monochrome,Silk,High-end,Local,TikTok
+T0808,Accessories,Minimalist,79,Spring,Gradient,Wool,High-end,Fast Fashion,TikTok
+T0809,Pants,Vintage,70,Autumn,Monochrome,Silk,Affordable,Luxury,Instagram
+T0810,Pants,Streetwear,29,Winter,Metallic,Polyester,High-end,High-end,Pinterest
+T0811,Shoes,Vintage,43,Winter,Neon,Silk,Affordable,Fast Fashion,Pinterest
+T0812,Dress,Minimalist,79,Summer,Gradient,Cotton,Affordable,Fast Fashion,Pinterest
+T0813,Shoes,Streetwear,95,Autumn,Neon,Linen,High-end,Local,YouTube
+T0814,Dress,Formal,17,Spring,Monochrome,Velvet,Affordable,Local,Instagram
+T0815,Pants,Bohemian,59,Spring,Earth-tone,Polyester,Mid-range,Fast Fashion,TikTok
+T0816,Shirt,Streetwear,6,Winter,Metallic,Linen,Mid-range,High-end,Pinterest
+T0817,Shoes,Casual,65,Autumn,Metallic,Velvet,Mid-range,Luxury,Instagram
+T0818,Shirt,Formal,54,Spring,Metallic,Wool,Mid-range,Luxury,Pinterest
+T0819,Dress,Streetwear,53,Autumn,Earth-tone,Cotton,Affordable,Local,Pinterest
+T0820,Accessories,Formal,38,Winter,Gradient,Cotton,High-end,Luxury,Instagram
+T0821,Accessories,Vintage,32,Spring,Neon,Linen,High-end,Luxury,Instagram
+T0822,Pants,Vintage,14,Winter,Neon,Denim,Affordable,Fast Fashion,TikTok
+T0823,Pants,Formal,29,Spring,Metallic,Denim,Mid-range,Local,TikTok
+T0824,Accessories,Minimalist,19,Summer,Pastel,Wool,Mid-range,Local,TikTok
+T0825,Accessories,Sporty,8,Autumn,Pastel,Denim,Affordable,Fast Fashion,Instagram
+T0826,Shirt,Bohemian,9,Autumn,Monochrome,Velvet,High-end,High-end,TikTok
+T0827,Shirt,Minimalist,8,Winter,Metallic,Wool,Mid-range,Fast Fashion,TikTok
+T0828,Pants,Casual,16,Autumn,Metallic,Denim,Mid-range,Local,Instagram
+T0829,Shirt,Streetwear,20,Autumn,Monochrome,Wool,High-end,Fast Fashion,YouTube
+T0830,Shoes,Sporty,94,Summer,Pastel,Cotton,Mid-range,Fast Fashion,Pinterest
+T0831,Pants,Sporty,35,Spring,Metallic,Linen,High-end,Fast Fashion,TikTok
+T0832,Shirt,Vintage,54,Summer,Neon,Velvet,High-end,Fast Fashion,Pinterest
+T0833,Shoes,Bohemian,100,Summer,Neon,Cotton,Affordable,Local,Pinterest
+T0834,Shirt,Streetwear,86,Winter,Monochrome,Cotton,High-end,High-end,YouTube
+T0835,Shoes,Streetwear,45,Summer,Neon,Silk,Affordable,Luxury,Pinterest
+T0836,Dress,Bohemian,85,Autumn,Neon,Denim,High-end,Luxury,YouTube
+T0837,Pants,Bohemian,84,Summer,Monochrome,Velvet,Mid-range,Fast Fashion,Instagram
+T0838,Shirt,Casual,65,Summer,Pastel,Denim,Mid-range,Fast Fashion,TikTok
+T0839,Shirt,Casual,18,Autumn,Neon,Cotton,High-end,Local,YouTube
+T0840,Shirt,Vintage,54,Summer,Gradient,Denim,Affordable,High-end,Instagram
+T0841,Shirt,Vintage,8,Summer,Metallic,Silk,Affordable,Local,Instagram
+T0842,Pants,Casual,21,Winter,Earth-tone,Polyester,Mid-range,Luxury,Pinterest
+T0843,Dress,Sporty,28,Autumn,Monochrome,Polyester,High-end,Fast Fashion,Instagram
+T0844,Shoes,Vintage,31,Spring,Metallic,Silk,Mid-range,High-end,Pinterest
+T0845,Shirt,Streetwear,67,Winter,Pastel,Velvet,Mid-range,Luxury,Instagram
+T0846,Pants,Streetwear,15,Autumn,Neon,Silk,High-end,Local,YouTube
+T0847,Pants,Minimalist,67,Spring,Monochrome,Denim,Mid-range,Local,Instagram
+T0848,Accessories,Formal,71,Spring,Gradient,Polyester,High-end,Local,Pinterest
+T0849,Dress,Minimalist,25,Winter,Metallic,Cotton,Mid-range,High-end,TikTok
+T0850,Dress,Sporty,33,Autumn,Neon,Wool,Mid-range,Luxury,YouTube
+T0851,Shirt,Sporty,10,Summer,Monochrome,Silk,High-end,High-end,Instagram
+T0852,Pants,Minimalist,9,Autumn,Neon,Polyester,Affordable,High-end,Instagram
+T0853,Pants,Minimalist,11,Autumn,Pastel,Silk,Mid-range,High-end,Pinterest
+T0854,Shoes,Sporty,92,Summer,Metallic,Denim,High-end,High-end,Pinterest
+T0855,Pants,Sporty,100,Winter,Gradient,Velvet,Mid-range,Luxury,Instagram
+T0856,Pants,Streetwear,78,Winter,Earth-tone,Silk,High-end,Luxury,YouTube
+T0857,Pants,Vintage,53,Autumn,Pastel,Velvet,Mid-range,Local,TikTok
+T0858,Pants,Streetwear,41,Spring,Earth-tone,Linen,Affordable,Luxury,Pinterest
+T0859,Accessories,Sporty,90,Summer,Neon,Cotton,Mid-range,Local,Instagram
+T0860,Dress,Streetwear,70,Summer,Gradient,Velvet,High-end,Local,Pinterest
+T0861,Pants,Streetwear,52,Winter,Monochrome,Silk,Affordable,Fast Fashion,Instagram
+T0862,Dress,Casual,21,Summer,Monochrome,Polyester,High-end,Fast Fashion,TikTok
+T0863,Accessories,Streetwear,90,Spring,Neon,Wool,Mid-range,Fast Fashion,Instagram
+T0864,Shirt,Streetwear,72,Autumn,Metallic,Cotton,Mid-range,Local,Pinterest
+T0865,Shirt,Bohemian,89,Spring,Gradient,Linen,High-end,High-end,Pinterest
+T0866,Dress,Vintage,52,Autumn,Metallic,Silk,High-end,High-end,Pinterest
+T0867,Shirt,Streetwear,9,Winter,Earth-tone,Silk,Affordable,Fast Fashion,TikTok
+T0868,Shoes,Streetwear,44,Summer,Gradient,Linen,Mid-range,Fast Fashion,TikTok
+T0869,Pants,Minimalist,51,Summer,Pastel,Velvet,High-end,Luxury,TikTok
+T0870,Accessories,Vintage,96,Spring,Monochrome,Linen,Affordable,Luxury,TikTok
+T0871,Dress,Streetwear,97,Autumn,Pastel,Velvet,Affordable,Luxury,Pinterest
+T0872,Accessories,Vintage,69,Winter,Metallic,Wool,High-end,Local,TikTok
+T0873,Shoes,Casual,86,Summer,Gradient,Polyester,Mid-range,Luxury,Pinterest
+T0874,Pants,Minimalist,67,Summer,Neon,Velvet,Mid-range,Fast Fashion,Instagram
+T0875,Shirt,Formal,63,Winter,Neon,Cotton,High-end,Local,YouTube
+T0876,Accessories,Sporty,88,Summer,Gradient,Polyester,Mid-range,Local,TikTok
+T0877,Shirt,Formal,16,Winter,Pastel,Polyester,Mid-range,High-end,TikTok
+T0878,Shoes,Bohemian,41,Summer,Earth-tone,Velvet,Mid-range,Fast Fashion,Pinterest
+T0879,Accessories,Casual,90,Summer,Gradient,Velvet,High-end,Local,Pinterest
+T0880,Accessories,Vintage,65,Summer,Gradient,Velvet,Affordable,Fast Fashion,Pinterest
+T0881,Shoes,Formal,59,Summer,Gradient,Cotton,High-end,High-end,Pinterest
+T0882,Pants,Formal,46,Winter,Neon,Velvet,Mid-range,Luxury,Instagram
+T0883,Shirt,Formal,36,Summer,Gradient,Cotton,High-end,Fast Fashion,Pinterest
+T0884,Shoes,Vintage,68,Winter,Metallic,Velvet,Mid-range,Fast Fashion,TikTok
+T0885,Shirt,Bohemian,80,Autumn,Metallic,Wool,Mid-range,High-end,TikTok
+T0886,Shoes,Formal,99,Winter,Monochrome,Polyester,Affordable,Luxury,TikTok
+T0887,Accessories,Formal,75,Winter,Gradient,Denim,Affordable,High-end,TikTok
+T0888,Dress,Streetwear,46,Summer,Gradient,Silk,Affordable,Luxury,Instagram
+T0889,Accessories,Formal,95,Winter,Pastel,Polyester,Mid-range,Fast Fashion,Pinterest
+T0890,Accessories,Formal,39,Summer,Neon,Denim,Affordable,Fast Fashion,YouTube
+T0891,Accessories,Bohemian,100,Winter,Earth-tone,Polyester,Mid-range,Local,Pinterest
+T0892,Pants,Formal,7,Autumn,Gradient,Denim,Mid-range,High-end,YouTube
+T0893,Shirt,Vintage,70,Spring,Pastel,Polyester,Mid-range,High-end,YouTube
+T0894,Accessories,Formal,48,Autumn,Pastel,Linen,Affordable,Luxury,YouTube
+T0895,Accessories,Minimalist,65,Autumn,Monochrome,Velvet,High-end,Local,YouTube
+T0896,Shoes,Bohemian,88,Winter,Gradient,Cotton,Mid-range,Fast Fashion,Instagram
+T0897,Dress,Minimalist,10,Spring,Pastel,Velvet,High-end,Luxury,Instagram
+T0898,Shoes,Sporty,3,Autumn,Pastel,Denim,Affordable,Fast Fashion,Instagram
+T0899,Shoes,Sporty,37,Summer,Earth-tone,Polyester,Affordable,High-end,Pinterest
+T0900,Dress,Formal,79,Autumn,Earth-tone,Linen,High-end,High-end,Instagram
+T0901,Dress,Sporty,19,Spring,Earth-tone,Velvet,Mid-range,Fast Fashion,Pinterest
+T0902,Accessories,Minimalist,33,Summer,Earth-tone,Silk,Affordable,Luxury,Pinterest
+T0903,Shirt,Streetwear,70,Autumn,Gradient,Denim,Affordable,Local,Instagram
+T0904,Pants,Casual,30,Spring,Gradient,Cotton,High-end,Local,Pinterest
+T0905,Dress,Sporty,84,Spring,Gradient,Velvet,High-end,High-end,YouTube
+T0906,Shoes,Bohemian,41,Summer,Metallic,Linen,Mid-range,Luxury,Pinterest
+T0907,Accessories,Vintage,67,Spring,Earth-tone,Polyester,Mid-range,High-end,Instagram
+T0908,Pants,Streetwear,85,Spring,Pastel,Linen,Mid-range,Local,TikTok
+T0909,Accessories,Formal,72,Summer,Monochrome,Polyester,Affordable,Luxury,TikTok
+T0910,Pants,Vintage,31,Autumn,Pastel,Velvet,High-end,Local,YouTube
+T0911,Pants,Formal,58,Autumn,Neon,Denim,Mid-range,High-end,Instagram
+T0912,Shirt,Streetwear,40,Summer,Earth-tone,Denim,Mid-range,High-end,Pinterest
+T0913,Shoes,Formal,97,Winter,Neon,Wool,Mid-range,High-end,Instagram
+T0914,Shirt,Streetwear,6,Spring,Earth-tone,Velvet,Mid-range,Luxury,YouTube
+T0915,Shoes,Formal,68,Summer,Monochrome,Cotton,Mid-range,Local,YouTube
+T0916,Pants,Formal,68,Winter,Metallic,Velvet,Affordable,Luxury,Pinterest
+T0917,Dress,Bohemian,13,Winter,Monochrome,Polyester,Affordable,Local,Pinterest
+T0918,Shirt,Bohemian,72,Spring,Neon,Silk,Mid-range,Local,TikTok
+T0919,Dress,Bohemian,30,Spring,Monochrome,Velvet,Affordable,Luxury,Instagram
+T0920,Dress,Casual,17,Autumn,Pastel,Silk,High-end,Local,Instagram
+T0921,Pants,Streetwear,75,Summer,Gradient,Polyester,High-end,High-end,Instagram
+T0922,Shirt,Vintage,65,Autumn,Gradient,Silk,Mid-range,Luxury,TikTok
+T0923,Accessories,Streetwear,51,Spring,Earth-tone,Wool,Mid-range,Local,YouTube
+T0924,Shirt,Sporty,20,Autumn,Metallic,Wool,Affordable,Fast Fashion,YouTube
+T0925,Dress,Formal,22,Winter,Metallic,Velvet,High-end,High-end,TikTok
+T0926,Pants,Casual,42,Autumn,Pastel,Wool,High-end,Fast Fashion,TikTok
+T0927,Dress,Casual,53,Autumn,Gradient,Wool,Affordable,High-end,YouTube
+T0928,Accessories,Minimalist,8,Autumn,Gradient,Wool,Mid-range,High-end,Instagram
+T0929,Shirt,Sporty,98,Spring,Earth-tone,Velvet,Mid-range,Local,YouTube
+T0930,Pants,Formal,64,Spring,Gradient,Linen,Affordable,High-end,YouTube
+T0931,Accessories,Casual,76,Winter,Pastel,Linen,High-end,Luxury,TikTok
+T0932,Dress,Vintage,47,Summer,Metallic,Denim,Affordable,Fast Fashion,Instagram
+T0933,Accessories,Formal,18,Spring,Neon,Wool,Affordable,Luxury,TikTok
+T0934,Shoes,Sporty,27,Autumn,Earth-tone,Silk,Mid-range,High-end,TikTok
+T0935,Pants,Sporty,55,Summer,Earth-tone,Silk,Mid-range,Fast Fashion,Pinterest
+T0936,Shirt,Bohemian,47,Summer,Gradient,Polyester,Mid-range,Fast Fashion,Pinterest
+T0937,Dress,Sporty,30,Winter,Pastel,Velvet,Mid-range,Luxury,Instagram
+T0938,Accessories,Bohemian,60,Summer,Earth-tone,Velvet,Mid-range,High-end,YouTube
+T0939,Accessories,Bohemian,59,Winter,Metallic,Linen,High-end,High-end,TikTok
+T0940,Dress,Bohemian,76,Spring,Earth-tone,Silk,Mid-range,Local,YouTube
+T0941,Shirt,Casual,39,Summer,Metallic,Wool,High-end,Fast Fashion,Instagram
+T0942,Shirt,Formal,38,Winter,Monochrome,Cotton,High-end,Local,Pinterest
+T0943,Shirt,Minimalist,32,Autumn,Gradient,Velvet,Affordable,Local,Instagram
+T0944,Shirt,Formal,28,Winter,Neon,Wool,Affordable,Fast Fashion,Pinterest
+T0945,Shirt,Bohemian,11,Winter,Metallic,Wool,Mid-range,High-end,TikTok
+T0946,Shirt,Bohemian,55,Spring,Pastel,Cotton,High-end,Local,YouTube
+T0947,Shoes,Bohemian,13,Spring,Earth-tone,Wool,Affordable,Fast Fashion,Pinterest
+T0948,Dress,Streetwear,38,Winter,Neon,Wool,High-end,Fast Fashion,Pinterest
+T0949,Shoes,Formal,0,Autumn,Earth-tone,Denim,Mid-range,Luxury,Pinterest
+T0950,Dress,Sporty,79,Winter,Metallic,Cotton,Mid-range,High-end,YouTube
+T0951,Shoes,Formal,81,Spring,Neon,Linen,Mid-range,Luxury,TikTok
+T0952,Shirt,Sporty,11,Winter,Monochrome,Velvet,Affordable,Local,YouTube
+T0953,Pants,Minimalist,83,Spring,Pastel,Wool,Mid-range,Luxury,YouTube
+T0954,Shoes,Streetwear,51,Summer,Earth-tone,Denim,Affordable,Fast Fashion,TikTok
+T0955,Shoes,Streetwear,58,Summer,Pastel,Silk,Mid-range,Fast Fashion,YouTube
+T0956,Accessories,Sporty,91,Winter,Neon,Polyester,Affordable,Fast Fashion,YouTube
+T0957,Shirt,Sporty,79,Autumn,Metallic,Wool,Mid-range,Fast Fashion,YouTube
+T0958,Shoes,Bohemian,33,Spring,Earth-tone,Cotton,Affordable,Fast Fashion,TikTok
+T0959,Accessories,Minimalist,58,Spring,Gradient,Polyester,Affordable,High-end,Pinterest
+T0960,Pants,Sporty,97,Summer,Metallic,Velvet,High-end,Luxury,Instagram
+T0961,Dress,Minimalist,13,Autumn,Metallic,Cotton,High-end,Local,YouTube
+T0962,Shoes,Sporty,68,Summer,Earth-tone,Silk,Mid-range,High-end,Pinterest
+T0963,Dress,Streetwear,56,Winter,Earth-tone,Cotton,Mid-range,Luxury,TikTok
+T0964,Shirt,Sporty,82,Summer,Monochrome,Cotton,High-end,Local,Instagram
+T0965,Shoes,Minimalist,76,Winter,Metallic,Cotton,Mid-range,High-end,YouTube
+T0966,Pants,Casual,2,Autumn,Earth-tone,Cotton,High-end,High-end,Instagram
+T0967,Accessories,Casual,18,Summer,Earth-tone,Linen,High-end,High-end,Instagram
+T0968,Accessories,Bohemian,42,Autumn,Pastel,Denim,High-end,High-end,Pinterest
+T0969,Dress,Vintage,29,Spring,Metallic,Linen,Mid-range,Luxury,Pinterest
+T0970,Dress,Bohemian,40,Winter,Pastel,Silk,Mid-range,Fast Fashion,YouTube
+T0971,Shirt,Minimalist,16,Winter,Pastel,Linen,High-end,Luxury,YouTube
+T0972,Shoes,Bohemian,44,Spring,Neon,Silk,High-end,Fast Fashion,Pinterest
+T0973,Dress,Minimalist,75,Autumn,Pastel,Silk,Mid-range,Fast Fashion,Instagram
+T0974,Shoes,Casual,17,Winter,Pastel,Silk,High-end,High-end,Pinterest
+T0975,Shoes,Formal,3,Winter,Gradient,Linen,High-end,Luxury,YouTube
+T0976,Shirt,Minimalist,82,Autumn,Metallic,Polyester,Affordable,Local,TikTok
+T0977,Dress,Bohemian,78,Winter,Metallic,Wool,Mid-range,Luxury,Instagram
+T0978,Accessories,Casual,42,Spring,Pastel,Velvet,High-end,Fast Fashion,Pinterest
+T0979,Shoes,Streetwear,62,Autumn,Metallic,Polyester,Mid-range,Local,YouTube
+T0980,Pants,Minimalist,84,Spring,Pastel,Linen,Mid-range,Local,TikTok
+T0981,Shirt,Bohemian,53,Winter,Pastel,Denim,High-end,Luxury,Pinterest
+T0982,Accessories,Bohemian,55,Winter,Earth-tone,Cotton,Affordable,Fast Fashion,TikTok
+T0983,Pants,Streetwear,1,Autumn,Earth-tone,Cotton,High-end,Luxury,TikTok
+T0984,Dress,Bohemian,0,Summer,Earth-tone,Linen,Mid-range,Local,YouTube
+T0985,Accessories,Formal,45,Spring,Gradient,Polyester,Mid-range,Local,Instagram
+T0986,Accessories,Vintage,45,Winter,Neon,Cotton,Affordable,Fast Fashion,Pinterest
+T0987,Shirt,Minimalist,19,Spring,Pastel,Denim,Affordable,Fast Fashion,TikTok
+T0988,Shoes,Bohemian,53,Winter,Neon,Polyester,Affordable,Local,Instagram
+T0989,Shirt,Minimalist,34,Winter,Monochrome,Cotton,Mid-range,Fast Fashion,Pinterest
+T0990,Pants,Formal,100,Autumn,Earth-tone,Velvet,Mid-range,Local,YouTube
+T0991,Shoes,Minimalist,6,Summer,Monochrome,Polyester,High-end,High-end,YouTube
+T0992,Pants,Casual,37,Winter,Earth-tone,Denim,Mid-range,Luxury,Instagram
+T0993,Accessories,Bohemian,37,Spring,Pastel,Silk,Affordable,High-end,Instagram
+T0994,Dress,Vintage,28,Autumn,Earth-tone,Linen,Affordable,Luxury,YouTube
+T0995,Shirt,Sporty,47,Autumn,Neon,Silk,Affordable,Local,Instagram
+T0996,Accessories,Sporty,58,Summer,Monochrome,Linen,High-end,High-end,YouTube
+T0997,Shirt,Casual,97,Spring,Monochrome,Velvet,Mid-range,Fast Fashion,YouTube
+T0998,Pants,Minimalist,92,Summer,Neon,Cotton,Affordable,High-end,Pinterest
+T0999,Pants,Vintage,67,Spring,Pastel,Linen,High-end,Luxury,Pinterest
+T1000,Shirt,Casual,70,Autumn,Neon,Polyester,Affordable,Local,Pinterest
+T1001,Pants,Formal,2,Autumn,Pastel,Denim,Mid-range,Fast Fashion,Pinterest
+T1002,Accessories,Casual,23,Autumn,Gradient,Denim,Affordable,Fast Fashion,YouTube
+T1003,Accessories,Bohemian,23,Winter,Pastel,Cotton,Mid-range,Local,TikTok
+T1004,Dress,Sporty,21,Summer,Metallic,Velvet,High-end,Fast Fashion,Pinterest
+T1005,Shoes,Vintage,64,Summer,Metallic,Cotton,Affordable,Luxury,Instagram
+T1006,Shoes,Sporty,10,Summer,Gradient,Velvet,Affordable,Fast Fashion,Pinterest
+T1007,Shirt,Streetwear,99,Winter,Monochrome,Cotton,Affordable,High-end,YouTube
+T1008,Accessories,Formal,46,Spring,Monochrome,Velvet,Affordable,Luxury,TikTok
+T1009,Pants,Casual,87,Summer,Earth-tone,Polyester,Mid-range,Local,Pinterest
+T1010,Accessories,Formal,34,Autumn,Metallic,Velvet,Affordable,Fast Fashion,Pinterest
+T1011,Accessories,Streetwear,25,Summer,Earth-tone,Polyester,Affordable,Fast Fashion,Instagram
+T1012,Pants,Minimalist,81,Winter,Monochrome,Silk,Mid-range,High-end,Pinterest
+T1013,Dress,Casual,77,Spring,Metallic,Denim,Affordable,Local,Instagram
+T1014,Dress,Bohemian,66,Winter,Earth-tone,Cotton,High-end,Luxury,Pinterest
+T1015,Accessories,Formal,96,Winter,Pastel,Silk,High-end,High-end,TikTok
+T1016,Shirt,Minimalist,62,Summer,Pastel,Linen,Affordable,Luxury,TikTok
+T1017,Shirt,Casual,29,Summer,Metallic,Velvet,Mid-range,Local,Pinterest
+T1018,Pants,Vintage,59,Spring,Metallic,Denim,Affordable,Local,YouTube
+T1019,Shirt,Streetwear,21,Spring,Pastel,Silk,Affordable,Luxury,Pinterest
+T1020,Pants,Streetwear,73,Autumn,Neon,Wool,Affordable,High-end,Instagram
+T1021,Dress,Sporty,16,Spring,Gradient,Silk,Mid-range,Luxury,Pinterest
+T1022,Shirt,Formal,38,Winter,Monochrome,Cotton,High-end,Fast Fashion,Instagram
+T1023,Shirt,Sporty,16,Spring,Monochrome,Cotton,Mid-range,High-end,YouTube
+T1024,Dress,Casual,74,Summer,Earth-tone,Velvet,High-end,Luxury,TikTok
+T1025,Pants,Minimalist,52,Spring,Metallic,Silk,Mid-range,High-end,YouTube
+T1026,Accessories,Vintage,22,Summer,Gradient,Linen,High-end,Local,Pinterest
+T1027,Dress,Minimalist,75,Spring,Earth-tone,Linen,Mid-range,Fast Fashion,Pinterest
+T1028,Accessories,Streetwear,47,Winter,Gradient,Linen,Mid-range,Fast Fashion,TikTok
+T1029,Accessories,Bohemian,27,Summer,Pastel,Silk,High-end,Luxury,YouTube
+T1030,Pants,Casual,41,Autumn,Monochrome,Polyester,Affordable,Luxury,Pinterest
+T1031,Accessories,Minimalist,45,Autumn,Neon,Velvet,Mid-range,High-end,YouTube
+T1032,Pants,Formal,40,Summer,Pastel,Linen,Affordable,Local,TikTok
+T1033,Dress,Streetwear,67,Summer,Earth-tone,Velvet,Affordable,Luxury,Pinterest
+T1034,Dress,Formal,97,Autumn,Earth-tone,Denim,High-end,Fast Fashion,TikTok
+T1035,Shoes,Minimalist,22,Spring,Monochrome,Cotton,High-end,Local,TikTok
+T1036,Accessories,Vintage,5,Summer,Neon,Wool,Mid-range,Luxury,Instagram
+T1037,Pants,Streetwear,39,Autumn,Earth-tone,Wool,Affordable,Local,Instagram
+T1038,Pants,Formal,82,Spring,Pastel,Silk,Mid-range,Local,TikTok
+T1039,Accessories,Bohemian,69,Autumn,Metallic,Linen,Mid-range,Fast Fashion,YouTube
+T1040,Shoes,Sporty,45,Winter,Gradient,Velvet,High-end,Luxury,TikTok
+T1041,Accessories,Minimalist,98,Autumn,Neon,Denim,High-end,High-end,Pinterest
+T1042,Shirt,Formal,39,Summer,Pastel,Velvet,Mid-range,Local,Pinterest
+T1043,Shoes,Casual,49,Autumn,Earth-tone,Linen,High-end,High-end,Pinterest
+T1044,Shoes,Sporty,27,Autumn,Metallic,Cotton,Affordable,Fast Fashion,YouTube
+T1045,Pants,Sporty,54,Spring,Gradient,Denim,High-end,High-end,TikTok
+T1046,Shoes,Streetwear,25,Winter,Neon,Linen,Mid-range,Local,TikTok
+T1047,Shoes,Sporty,92,Autumn,Earth-tone,Linen,Affordable,Local,YouTube
+T1048,Shirt,Sporty,53,Winter,Monochrome,Silk,High-end,Luxury,Pinterest
+T1049,Pants,Sporty,20,Autumn,Metallic,Wool,Mid-range,Local,TikTok
+T1050,Dress,Vintage,48,Summer,Gradient,Polyester,Affordable,High-end,Pinterest
+T1051,Accessories,Minimalist,100,Winter,Earth-tone,Silk,Mid-range,Fast Fashion,TikTok
+T1052,Shoes,Bohemian,47,Autumn,Monochrome,Linen,Mid-range,Fast Fashion,TikTok
+T1053,Shoes,Formal,25,Winter,Gradient,Linen,Mid-range,Local,Pinterest
+T1054,Shoes,Sporty,59,Spring,Neon,Polyester,Affordable,Luxury,Instagram
+T1055,Shoes,Sporty,86,Autumn,Neon,Wool,High-end,Fast Fashion,Pinterest
+T1056,Shirt,Streetwear,31,Winter,Earth-tone,Denim,High-end,Local,Instagram
+T1057,Dress,Minimalist,91,Winter,Neon,Polyester,High-end,High-end,Instagram
+T1058,Shoes,Vintage,17,Spring,Earth-tone,Velvet,High-end,Local,Instagram
+T1059,Shoes,Vintage,21,Summer,Earth-tone,Velvet,High-end,Fast Fashion,Pinterest
+T1060,Accessories,Sporty,21,Spring,Gradient,Linen,Affordable,Fast Fashion,YouTube
+T1061,Pants,Bohemian,78,Summer,Monochrome,Wool,Affordable,Fast Fashion,YouTube
+T1062,Shoes,Bohemian,92,Spring,Monochrome,Linen,Affordable,Fast Fashion,TikTok
+T1063,Dress,Sporty,70,Winter,Pastel,Wool,Mid-range,Local,YouTube
+T1064,Accessories,Bohemian,16,Spring,Pastel,Cotton,Affordable,Local,Instagram
+T1065,Accessories,Vintage,37,Spring,Neon,Denim,Affordable,Local,TikTok
+T1066,Pants,Minimalist,55,Spring,Metallic,Linen,Affordable,Fast Fashion,TikTok
+T1067,Shoes,Bohemian,15,Summer,Monochrome,Velvet,Mid-range,High-end,Pinterest
+T1068,Pants,Casual,59,Winter,Monochrome,Denim,High-end,High-end,Instagram
+T1069,Dress,Formal,77,Autumn,Monochrome,Denim,Mid-range,High-end,Instagram
+T1070,Accessories,Sporty,67,Winter,Earth-tone,Silk,High-end,Luxury,YouTube
+T1071,Shoes,Minimalist,76,Autumn,Pastel,Linen,Affordable,Local,Instagram
+T1072,Accessories,Casual,68,Winter,Earth-tone,Denim,High-end,Luxury,Instagram
+T1073,Pants,Sporty,81,Winter,Pastel,Linen,High-end,High-end,TikTok
+T1074,Shirt,Casual,50,Summer,Pastel,Linen,Affordable,High-end,TikTok
+T1075,Pants,Casual,29,Summer,Gradient,Cotton,Affordable,Luxury,Pinterest
+T1076,Dress,Streetwear,49,Winter,Neon,Cotton,Affordable,Local,Instagram
+T1077,Shirt,Bohemian,54,Spring,Neon,Denim,Affordable,Fast Fashion,TikTok
+T1078,Shoes,Bohemian,31,Summer,Monochrome,Cotton,Affordable,Local,YouTube
+T1079,Dress,Minimalist,19,Summer,Pastel,Cotton,High-end,High-end,Pinterest
+T1080,Shirt,Streetwear,17,Summer,Neon,Silk,High-end,Luxury,Instagram
+T1081,Dress,Formal,6,Winter,Monochrome,Denim,High-end,High-end,Instagram
+T1082,Dress,Casual,65,Winter,Gradient,Cotton,Mid-range,Luxury,YouTube
+T1083,Shoes,Vintage,65,Winter,Gradient,Wool,High-end,Luxury,Pinterest
+T1084,Accessories,Sporty,74,Winter,Monochrome,Silk,Mid-range,Luxury,Pinterest
+T1085,Pants,Casual,64,Autumn,Earth-tone,Velvet,Mid-range,Fast Fashion,TikTok
+T1086,Accessories,Formal,73,Summer,Gradient,Silk,Affordable,Luxury,Pinterest
+T1087,Shoes,Vintage,2,Winter,Metallic,Linen,High-end,Local,Pinterest
+T1088,Accessories,Vintage,7,Spring,Metallic,Velvet,Affordable,Local,Instagram
+T1089,Accessories,Minimalist,5,Winter,Neon,Velvet,Mid-range,Local,Pinterest
+T1090,Pants,Vintage,46,Summer,Gradient,Denim,Mid-range,Luxury,YouTube
+T1091,Pants,Casual,86,Winter,Gradient,Linen,High-end,Luxury,TikTok
+T1092,Accessories,Formal,56,Autumn,Gradient,Velvet,High-end,High-end,TikTok
+T1093,Pants,Vintage,24,Winter,Neon,Linen,High-end,High-end,TikTok
+T1094,Pants,Streetwear,98,Summer,Pastel,Linen,Affordable,Local,TikTok
+T1095,Pants,Formal,87,Spring,Pastel,Wool,Mid-range,High-end,YouTube
+T1096,Dress,Casual,72,Autumn,Pastel,Denim,Affordable,Luxury,Pinterest
+T1097,Pants,Casual,26,Autumn,Pastel,Linen,Affordable,Fast Fashion,TikTok
+T1098,Shirt,Sporty,77,Autumn,Neon,Polyester,Mid-range,Local,YouTube
+T1099,Shoes,Sporty,13,Autumn,Earth-tone,Velvet,Mid-range,High-end,TikTok
+T1100,Dress,Formal,54,Winter,Metallic,Cotton,Affordable,High-end,Pinterest
+T1101,Shirt,Formal,49,Summer,Metallic,Silk,Mid-range,Luxury,YouTube
+T1102,Accessories,Vintage,68,Summer,Neon,Denim,High-end,Luxury,YouTube
+T1103,Shoes,Sporty,49,Summer,Neon,Linen,Affordable,Fast Fashion,TikTok
+T1104,Dress,Minimalist,10,Autumn,Monochrome,Silk,Mid-range,Local,Pinterest
+T1105,Accessories,Minimalist,95,Winter,Monochrome,Silk,Affordable,Fast Fashion,Pinterest
+T1106,Shoes,Bohemian,24,Spring,Pastel,Velvet,Affordable,High-end,Instagram
+T1107,Shirt,Sporty,68,Autumn,Monochrome,Silk,High-end,Luxury,YouTube
+T1108,Dress,Vintage,40,Autumn,Metallic,Denim,Mid-range,Local,Instagram
+T1109,Shirt,Sporty,4,Spring,Gradient,Velvet,High-end,Fast Fashion,Instagram
+T1110,Shirt,Formal,61,Spring,Neon,Denim,High-end,Luxury,Pinterest
+T1111,Shoes,Vintage,72,Winter,Gradient,Cotton,Mid-range,Local,TikTok
+T1112,Shirt,Vintage,84,Winter,Metallic,Cotton,Affordable,Luxury,YouTube
+T1113,Accessories,Vintage,75,Autumn,Neon,Cotton,Mid-range,High-end,Pinterest
+T1114,Dress,Minimalist,51,Winter,Monochrome,Silk,Mid-range,Local,Instagram
+T1115,Dress,Casual,37,Summer,Neon,Denim,Mid-range,High-end,Instagram
+T1116,Dress,Bohemian,72,Summer,Gradient,Denim,Affordable,Local,Instagram
+T1117,Accessories,Casual,0,Autumn,Earth-tone,Polyester,Affordable,High-end,Instagram
+T1118,Pants,Sporty,50,Autumn,Gradient,Silk,High-end,Luxury,TikTok
+T1119,Pants,Minimalist,15,Summer,Earth-tone,Linen,Affordable,High-end,YouTube
+T1120,Pants,Casual,68,Spring,Neon,Polyester,Mid-range,Local,TikTok
+T1121,Pants,Vintage,54,Summer,Earth-tone,Denim,Affordable,Luxury,TikTok
+T1122,Pants,Sporty,93,Spring,Neon,Linen,Mid-range,Fast Fashion,TikTok
+T1123,Dress,Streetwear,90,Spring,Earth-tone,Polyester,Affordable,Luxury,TikTok
+T1124,Dress,Vintage,51,Spring,Earth-tone,Silk,High-end,Luxury,Instagram
+T1125,Pants,Minimalist,78,Spring,Gradient,Silk,Mid-range,High-end,YouTube
+T1126,Pants,Vintage,35,Summer,Earth-tone,Linen,Affordable,Local,TikTok
+T1127,Pants,Bohemian,62,Autumn,Monochrome,Silk,High-end,High-end,Instagram
+T1128,Dress,Bohemian,23,Spring,Gradient,Silk,High-end,Local,Pinterest
+T1129,Accessories,Casual,56,Winter,Earth-tone,Linen,Mid-range,High-end,Pinterest
+T1130,Shoes,Bohemian,83,Autumn,Gradient,Silk,Affordable,Local,Pinterest
+T1131,Accessories,Sporty,17,Summer,Earth-tone,Denim,Mid-range,Fast Fashion,Instagram
+T1132,Accessories,Bohemian,21,Summer,Metallic,Cotton,Affordable,Luxury,Instagram
+T1133,Dress,Casual,48,Summer,Metallic,Velvet,Affordable,Local,Pinterest
+T1134,Dress,Sporty,48,Autumn,Pastel,Silk,Affordable,Local,YouTube
+T1135,Pants,Sporty,86,Summer,Metallic,Velvet,Mid-range,Luxury,TikTok
+T1136,Pants,Bohemian,82,Spring,Monochrome,Wool,High-end,Luxury,Instagram
+T1137,Shoes,Casual,77,Spring,Metallic,Wool,High-end,Fast Fashion,Instagram
+T1138,Dress,Vintage,54,Spring,Monochrome,Wool,High-end,Luxury,YouTube
+T1139,Accessories,Formal,42,Winter,Metallic,Linen,High-end,Luxury,Pinterest
+T1140,Shirt,Vintage,32,Winter,Pastel,Silk,Affordable,Fast Fashion,TikTok
+T1141,Shirt,Bohemian,86,Summer,Gradient,Polyester,Mid-range,High-end,Instagram
+T1142,Shoes,Streetwear,30,Summer,Monochrome,Silk,Affordable,High-end,YouTube
+T1143,Shoes,Casual,89,Summer,Metallic,Cotton,Mid-range,High-end,Pinterest
+T1144,Dress,Vintage,6,Spring,Monochrome,Linen,High-end,Luxury,TikTok
+T1145,Accessories,Sporty,30,Winter,Earth-tone,Linen,Mid-range,Luxury,TikTok
+T1146,Dress,Formal,45,Autumn,Pastel,Denim,High-end,Luxury,TikTok
+T1147,Accessories,Minimalist,56,Summer,Gradient,Linen,High-end,Fast Fashion,Pinterest
+T1148,Accessories,Sporty,64,Spring,Metallic,Linen,Mid-range,Fast Fashion,YouTube
+T1149,Shirt,Streetwear,55,Autumn,Gradient,Linen,High-end,High-end,YouTube
+T1150,Dress,Bohemian,56,Summer,Metallic,Silk,Mid-range,High-end,TikTok
+T1151,Pants,Bohemian,1,Spring,Gradient,Denim,High-end,Luxury,YouTube
+T1152,Shoes,Bohemian,51,Summer,Monochrome,Wool,High-end,High-end,TikTok
+T1153,Accessories,Bohemian,47,Spring,Monochrome,Cotton,High-end,Local,Instagram
+T1154,Accessories,Minimalist,97,Winter,Pastel,Silk,High-end,Local,Instagram
+T1155,Pants,Minimalist,14,Winter,Pastel,Silk,Affordable,High-end,Pinterest
+T1156,Shirt,Bohemian,1,Winter,Earth-tone,Wool,High-end,Local,Instagram
+T1157,Pants,Bohemian,31,Spring,Neon,Polyester,Affordable,High-end,Pinterest
+T1158,Shirt,Bohemian,92,Autumn,Metallic,Cotton,Affordable,High-end,TikTok
+T1159,Pants,Sporty,57,Autumn,Earth-tone,Silk,Mid-range,Luxury,YouTube
+T1160,Dress,Formal,7,Winter,Earth-tone,Polyester,Mid-range,Luxury,Pinterest
+T1161,Shoes,Sporty,21,Summer,Metallic,Denim,Affordable,High-end,Instagram
+T1162,Shoes,Formal,60,Autumn,Earth-tone,Linen,High-end,High-end,Pinterest
+T1163,Accessories,Vintage,22,Winter,Pastel,Velvet,Mid-range,Local,TikTok
+T1164,Pants,Casual,30,Autumn,Neon,Cotton,High-end,Local,TikTok
+T1165,Shoes,Streetwear,6,Autumn,Neon,Silk,High-end,Luxury,TikTok
+T1166,Accessories,Formal,27,Winter,Monochrome,Wool,Affordable,Fast Fashion,TikTok
+T1167,Shoes,Bohemian,86,Autumn,Monochrome,Velvet,High-end,Local,Instagram
+T1168,Shoes,Vintage,62,Winter,Pastel,Denim,Affordable,Luxury,TikTok
+T1169,Accessories,Minimalist,96,Spring,Neon,Polyester,Affordable,Luxury,Instagram
+T1170,Shoes,Vintage,51,Summer,Metallic,Denim,High-end,Local,Pinterest
+T1171,Pants,Streetwear,88,Autumn,Gradient,Polyester,Mid-range,High-end,Pinterest
+T1172,Shoes,Bohemian,75,Summer,Neon,Velvet,Mid-range,High-end,Pinterest
+T1173,Pants,Vintage,44,Winter,Neon,Polyester,High-end,Luxury,Pinterest
+T1174,Shirt,Vintage,85,Autumn,Earth-tone,Polyester,Affordable,Luxury,Pinterest
+T1175,Shoes,Formal,69,Spring,Earth-tone,Velvet,High-end,Fast Fashion,TikTok
+T1176,Pants,Vintage,24,Winter,Monochrome,Velvet,Affordable,Local,Instagram
+T1177,Pants,Sporty,77,Autumn,Neon,Cotton,Affordable,Luxury,Instagram
+T1178,Shirt,Vintage,53,Spring,Pastel,Silk,High-end,Luxury,Pinterest
+T1179,Accessories,Formal,42,Winter,Earth-tone,Velvet,High-end,Luxury,Pinterest
+T1180,Shoes,Casual,43,Summer,Neon,Silk,Mid-range,Luxury,TikTok
+T1181,Pants,Casual,18,Winter,Monochrome,Linen,Affordable,High-end,Instagram
+T1182,Accessories,Minimalist,31,Spring,Monochrome,Velvet,High-end,Fast Fashion,YouTube
+T1183,Pants,Sporty,65,Spring,Neon,Silk,High-end,Fast Fashion,TikTok
+T1184,Pants,Sporty,69,Spring,Earth-tone,Denim,Mid-range,Luxury,YouTube
+T1185,Dress,Sporty,42,Summer,Neon,Polyester,Mid-range,High-end,YouTube
+T1186,Shoes,Minimalist,76,Summer,Metallic,Velvet,High-end,Luxury,YouTube
+T1187,Shirt,Casual,27,Spring,Pastel,Denim,Mid-range,Fast Fashion,Instagram
+T1188,Dress,Casual,9,Autumn,Metallic,Velvet,Mid-range,High-end,Pinterest
+T1189,Shoes,Sporty,26,Winter,Gradient,Cotton,Mid-range,Fast Fashion,Instagram
+T1190,Accessories,Streetwear,100,Autumn,Metallic,Silk,Affordable,Local,TikTok
+T1191,Dress,Casual,42,Spring,Monochrome,Wool,Affordable,Fast Fashion,YouTube
+T1192,Pants,Sporty,70,Winter,Neon,Linen,Mid-range,Fast Fashion,YouTube
+T1193,Dress,Casual,50,Autumn,Monochrome,Cotton,Affordable,Fast Fashion,Instagram
+T1194,Accessories,Streetwear,28,Autumn,Monochrome,Denim,Mid-range,Local,Pinterest
+T1195,Dress,Minimalist,20,Autumn,Metallic,Silk,Mid-range,Local,Instagram
+T1196,Dress,Casual,87,Spring,Metallic,Linen,High-end,Local,Instagram
+T1197,Dress,Vintage,44,Spring,Monochrome,Velvet,Mid-range,Local,Pinterest
+T1198,Accessories,Minimalist,49,Spring,Metallic,Silk,Affordable,High-end,Pinterest
+T1199,Dress,Bohemian,90,Autumn,Gradient,Polyester,Mid-range,Local,Pinterest
+T1200,Shoes,Streetwear,25,Summer,Pastel,Denim,Mid-range,Fast Fashion,Instagram
+T1201,Shoes,Streetwear,56,Winter,Pastel,Cotton,Mid-range,Luxury,Instagram
+T1202,Dress,Vintage,84,Winter,Earth-tone,Polyester,Affordable,High-end,Instagram
+T1203,Dress,Bohemian,59,Spring,Metallic,Wool,High-end,Fast Fashion,Instagram
+T1204,Shirt,Minimalist,96,Winter,Neon,Polyester,Mid-range,Fast Fashion,Instagram
+T1205,Dress,Sporty,90,Summer,Neon,Denim,Affordable,Luxury,YouTube
+T1206,Dress,Streetwear,85,Autumn,Earth-tone,Velvet,Mid-range,Luxury,Pinterest
+T1207,Shirt,Minimalist,92,Summer,Monochrome,Wool,Affordable,Local,YouTube
+T1208,Accessories,Formal,94,Winter,Monochrome,Linen,High-end,High-end,Pinterest
+T1209,Pants,Formal,42,Summer,Gradient,Cotton,High-end,High-end,Instagram
+T1210,Dress,Sporty,36,Autumn,Monochrome,Denim,High-end,Fast Fashion,YouTube
+T1211,Shirt,Formal,40,Summer,Metallic,Silk,High-end,Luxury,Instagram
+T1212,Dress,Streetwear,83,Winter,Monochrome,Cotton,Mid-range,High-end,YouTube
+T1213,Shoes,Vintage,13,Summer,Monochrome,Cotton,Mid-range,Local,Instagram
+T1214,Shoes,Casual,37,Summer,Neon,Velvet,Affordable,Fast Fashion,Instagram
+T1215,Pants,Streetwear,3,Autumn,Monochrome,Cotton,High-end,Fast Fashion,TikTok
+T1216,Shirt,Casual,79,Autumn,Pastel,Cotton,Affordable,Fast Fashion,TikTok
+T1217,Dress,Casual,35,Autumn,Metallic,Linen,Mid-range,Fast Fashion,Instagram
+T1218,Shoes,Casual,13,Winter,Earth-tone,Wool,High-end,Luxury,Pinterest
+T1219,Shirt,Casual,94,Winter,Pastel,Denim,Mid-range,Local,Instagram
+T1220,Pants,Streetwear,15,Autumn,Metallic,Wool,Mid-range,Fast Fashion,YouTube
+T1221,Accessories,Minimalist,2,Spring,Metallic,Wool,Mid-range,Local,YouTube
+T1222,Pants,Minimalist,51,Autumn,Metallic,Denim,Mid-range,Luxury,YouTube
+T1223,Shoes,Vintage,40,Summer,Neon,Velvet,Mid-range,Fast Fashion,Instagram
+T1224,Shoes,Bohemian,40,Spring,Monochrome,Polyester,Mid-range,Luxury,Pinterest
+T1225,Dress,Bohemian,79,Autumn,Earth-tone,Velvet,Affordable,Luxury,YouTube
+T1226,Shoes,Formal,5,Winter,Monochrome,Velvet,Mid-range,Fast Fashion,YouTube
+T1227,Dress,Vintage,67,Autumn,Pastel,Silk,Mid-range,Fast Fashion,Instagram
+T1228,Pants,Vintage,29,Winter,Monochrome,Silk,Affordable,Fast Fashion,Instagram
+T1229,Shoes,Minimalist,43,Autumn,Gradient,Velvet,Mid-range,Fast Fashion,TikTok
+T1230,Shirt,Formal,12,Summer,Neon,Polyester,Mid-range,High-end,TikTok
+T1231,Pants,Sporty,2,Winter,Earth-tone,Cotton,Mid-range,Local,Pinterest
+T1232,Shoes,Vintage,66,Autumn,Neon,Polyester,High-end,High-end,TikTok
+T1233,Shirt,Streetwear,21,Summer,Monochrome,Cotton,High-end,Fast Fashion,TikTok
+T1234,Shoes,Casual,32,Summer,Neon,Linen,Affordable,Luxury,TikTok
+T1235,Pants,Streetwear,41,Spring,Gradient,Silk,Affordable,Luxury,TikTok
+T1236,Dress,Casual,18,Autumn,Pastel,Cotton,High-end,Fast Fashion,YouTube
+T1237,Shirt,Formal,33,Autumn,Monochrome,Cotton,High-end,Local,Instagram
+T1238,Shirt,Minimalist,91,Autumn,Metallic,Denim,Affordable,Luxury,YouTube
+T1239,Shoes,Sporty,60,Spring,Metallic,Polyester,Affordable,Local,TikTok
+T1240,Pants,Formal,59,Spring,Pastel,Wool,Mid-range,Fast Fashion,Instagram
+T1241,Pants,Minimalist,6,Summer,Pastel,Denim,High-end,Local,YouTube
+T1242,Shirt,Sporty,26,Winter,Neon,Silk,High-end,Local,TikTok
+T1243,Shoes,Minimalist,33,Spring,Metallic,Linen,Mid-range,Local,YouTube
+T1244,Shirt,Casual,61,Spring,Gradient,Linen,Mid-range,Luxury,YouTube
+T1245,Shoes,Casual,44,Winter,Monochrome,Velvet,Affordable,Local,TikTok
+T1246,Dress,Vintage,92,Winter,Gradient,Polyester,High-end,High-end,YouTube
+T1247,Dress,Minimalist,52,Summer,Metallic,Polyester,Mid-range,High-end,Pinterest
+T1248,Pants,Streetwear,96,Winter,Monochrome,Cotton,High-end,High-end,TikTok
+T1249,Shirt,Vintage,89,Autumn,Gradient,Silk,Affordable,Local,Pinterest
+T1250,Shoes,Sporty,9,Winter,Monochrome,Wool,High-end,High-end,YouTube
+T1251,Shoes,Bohemian,8,Spring,Gradient,Denim,High-end,Local,Instagram
+T1252,Pants,Streetwear,25,Autumn,Metallic,Polyester,Mid-range,Local,Pinterest
+T1253,Shoes,Vintage,29,Summer,Earth-tone,Cotton,Mid-range,High-end,Pinterest
+T1254,Dress,Bohemian,2,Summer,Earth-tone,Linen,Mid-range,Local,Instagram
+T1255,Accessories,Minimalist,21,Spring,Earth-tone,Linen,Affordable,Luxury,Instagram
+T1256,Accessories,Vintage,51,Winter,Earth-tone,Linen,High-end,Fast Fashion,Instagram
+T1257,Pants,Streetwear,89,Autumn,Metallic,Cotton,Mid-range,Luxury,Pinterest
+T1258,Pants,Casual,79,Autumn,Earth-tone,Cotton,Affordable,Local,Instagram
+T1259,Accessories,Bohemian,44,Summer,Neon,Polyester,Mid-range,Luxury,Instagram
+T1260,Accessories,Minimalist,67,Spring,Neon,Velvet,Mid-range,High-end,YouTube
+T1261,Shirt,Vintage,15,Spring,Neon,Cotton,Mid-range,Luxury,Instagram
+T1262,Pants,Formal,70,Autumn,Gradient,Denim,Mid-range,Local,Pinterest
+T1263,Accessories,Sporty,45,Autumn,Gradient,Velvet,Affordable,Luxury,TikTok
+T1264,Pants,Streetwear,91,Spring,Neon,Velvet,High-end,Fast Fashion,Pinterest
+T1265,Accessories,Formal,81,Spring,Metallic,Silk,Mid-range,Fast Fashion,Instagram
+T1266,Dress,Casual,37,Spring,Monochrome,Silk,High-end,Fast Fashion,YouTube
+T1267,Shirt,Sporty,21,Winter,Gradient,Wool,High-end,Fast Fashion,YouTube
+T1268,Pants,Formal,64,Autumn,Metallic,Linen,Mid-range,Fast Fashion,YouTube
+T1269,Pants,Streetwear,47,Summer,Metallic,Linen,Affordable,Fast Fashion,TikTok
+T1270,Pants,Vintage,23,Autumn,Metallic,Linen,Mid-range,Local,YouTube
+T1271,Shirt,Vintage,16,Autumn,Pastel,Linen,Mid-range,Fast Fashion,Instagram
+T1272,Accessories,Minimalist,67,Autumn,Neon,Cotton,Affordable,Luxury,Instagram
+T1273,Accessories,Minimalist,14,Winter,Metallic,Linen,Mid-range,Local,Pinterest
+T1274,Dress,Formal,16,Winter,Neon,Wool,Affordable,High-end,YouTube
+T1275,Dress,Bohemian,69,Spring,Pastel,Cotton,Affordable,High-end,YouTube
+T1276,Shoes,Formal,51,Summer,Gradient,Velvet,Mid-range,Local,Instagram
+T1277,Dress,Sporty,93,Winter,Monochrome,Polyester,High-end,High-end,TikTok
+T1278,Shirt,Bohemian,2,Summer,Pastel,Cotton,Mid-range,Luxury,Instagram
+T1279,Pants,Casual,73,Spring,Pastel,Polyester,Mid-range,Local,Instagram
+T1280,Dress,Casual,87,Winter,Monochrome,Silk,High-end,Fast Fashion,YouTube
+T1281,Dress,Sporty,100,Summer,Monochrome,Denim,Mid-range,Local,YouTube
+T1282,Dress,Sporty,54,Autumn,Neon,Denim,High-end,Luxury,Pinterest
+T1283,Dress,Streetwear,67,Autumn,Gradient,Polyester,High-end,High-end,TikTok
+T1284,Accessories,Formal,1,Spring,Monochrome,Denim,Mid-range,Local,YouTube
+T1285,Pants,Bohemian,12,Spring,Metallic,Velvet,High-end,Local,Instagram
+T1286,Shoes,Streetwear,27,Summer,Earth-tone,Wool,Mid-range,Local,TikTok
+T1287,Accessories,Vintage,12,Spring,Earth-tone,Polyester,High-end,Local,Pinterest
+T1288,Shirt,Streetwear,0,Autumn,Gradient,Denim,Affordable,Local,YouTube
+T1289,Shirt,Casual,97,Spring,Monochrome,Velvet,High-end,Fast Fashion,Instagram
+T1290,Shirt,Sporty,80,Spring,Metallic,Linen,High-end,High-end,TikTok
+T1291,Pants,Sporty,76,Winter,Pastel,Denim,Mid-range,High-end,TikTok
+T1292,Accessories,Vintage,90,Summer,Metallic,Polyester,High-end,Fast Fashion,TikTok
+T1293,Shirt,Bohemian,36,Winter,Gradient,Silk,High-end,Luxury,Instagram
+T1294,Shirt,Bohemian,9,Spring,Pastel,Wool,Mid-range,Luxury,YouTube
+T1295,Pants,Vintage,42,Summer,Neon,Polyester,Affordable,Local,Instagram
+T1296,Pants,Sporty,78,Spring,Monochrome,Polyester,Mid-range,High-end,YouTube
+T1297,Dress,Formal,47,Autumn,Neon,Polyester,Mid-range,High-end,YouTube
+T1298,Shirt,Bohemian,59,Summer,Pastel,Velvet,Affordable,Local,Pinterest
+T1299,Accessories,Minimalist,71,Spring,Neon,Denim,Mid-range,High-end,TikTok
+T1300,Shoes,Casual,21,Summer,Gradient,Velvet,Mid-range,Fast Fashion,TikTok
+T1301,Pants,Streetwear,11,Summer,Earth-tone,Velvet,Affordable,Luxury,Instagram
+T1302,Dress,Sporty,27,Summer,Gradient,Cotton,Affordable,High-end,TikTok
+T1303,Dress,Vintage,11,Summer,Earth-tone,Denim,Affordable,Local,Pinterest
+T1304,Shoes,Vintage,74,Autumn,Earth-tone,Velvet,Mid-range,Fast Fashion,Instagram
+T1305,Pants,Sporty,68,Spring,Neon,Cotton,Mid-range,Local,TikTok
+T1306,Shirt,Streetwear,16,Spring,Monochrome,Velvet,Affordable,Luxury,Pinterest
+T1307,Dress,Minimalist,60,Winter,Neon,Denim,Mid-range,Luxury,Instagram
+T1308,Dress,Formal,70,Winter,Gradient,Denim,Mid-range,Luxury,TikTok
+T1309,Shirt,Sporty,0,Autumn,Neon,Velvet,Mid-range,High-end,Pinterest
+T1310,Shoes,Bohemian,35,Spring,Monochrome,Linen,Mid-range,Local,Pinterest
+T1311,Accessories,Sporty,57,Autumn,Metallic,Silk,Mid-range,Local,TikTok
+T1312,Accessories,Casual,35,Winter,Earth-tone,Silk,Affordable,Luxury,TikTok
+T1313,Dress,Vintage,89,Winter,Earth-tone,Linen,Affordable,Local,TikTok
+T1314,Pants,Sporty,22,Summer,Gradient,Denim,Mid-range,Luxury,Pinterest
+T1315,Shirt,Casual,67,Spring,Monochrome,Velvet,Affordable,Fast Fashion,YouTube
+T1316,Accessories,Casual,75,Summer,Metallic,Velvet,High-end,Local,Pinterest
+T1317,Pants,Casual,96,Summer,Pastel,Denim,Affordable,Luxury,Instagram
+T1318,Pants,Vintage,33,Winter,Neon,Cotton,Affordable,Local,Pinterest
+T1319,Pants,Minimalist,21,Autumn,Pastel,Polyester,Affordable,Fast Fashion,YouTube
+T1320,Shirt,Formal,73,Winter,Earth-tone,Silk,High-end,High-end,Instagram
+T1321,Pants,Casual,76,Autumn,Pastel,Polyester,Affordable,High-end,Instagram
+T1322,Dress,Streetwear,66,Winter,Pastel,Velvet,Affordable,Luxury,Instagram
+T1323,Accessories,Streetwear,61,Summer,Neon,Linen,Mid-range,Local,TikTok
+T1324,Pants,Streetwear,84,Spring,Earth-tone,Velvet,Mid-range,Luxury,YouTube
+T1325,Pants,Formal,0,Autumn,Monochrome,Silk,Mid-range,Local,YouTube
+T1326,Pants,Formal,83,Spring,Metallic,Linen,Mid-range,High-end,Pinterest
+T1327,Accessories,Bohemian,8,Spring,Pastel,Linen,High-end,High-end,Instagram
+T1328,Dress,Vintage,47,Autumn,Earth-tone,Cotton,Mid-range,Local,Instagram
+T1329,Shirt,Formal,48,Winter,Pastel,Velvet,Affordable,Luxury,TikTok
+T1330,Shoes,Vintage,97,Summer,Metallic,Linen,High-end,High-end,Instagram
+T1331,Accessories,Minimalist,95,Autumn,Metallic,Denim,Mid-range,Local,TikTok
+T1332,Shoes,Bohemian,80,Summer,Gradient,Silk,High-end,Luxury,Pinterest
+T1333,Dress,Bohemian,6,Spring,Gradient,Linen,High-end,Luxury,TikTok
+T1334,Pants,Minimalist,33,Spring,Monochrome,Velvet,High-end,Fast Fashion,Pinterest
+T1335,Pants,Sporty,46,Winter,Metallic,Polyester,High-end,High-end,YouTube
+T1336,Accessories,Vintage,75,Summer,Neon,Wool,Affordable,High-end,YouTube
+T1337,Accessories,Vintage,14,Spring,Pastel,Silk,Affordable,Local,Instagram
+T1338,Dress,Bohemian,45,Summer,Gradient,Polyester,High-end,High-end,Pinterest
+T1339,Pants,Minimalist,98,Spring,Neon,Linen,Mid-range,Local,TikTok
+T1340,Shoes,Vintage,25,Summer,Earth-tone,Velvet,Affordable,High-end,YouTube
+T1341,Dress,Formal,29,Spring,Pastel,Velvet,Affordable,High-end,Pinterest
+T1342,Accessories,Vintage,42,Spring,Metallic,Denim,High-end,Local,Pinterest
+T1343,Shirt,Vintage,2,Autumn,Earth-tone,Wool,High-end,High-end,YouTube
+T1344,Shoes,Minimalist,26,Autumn,Pastel,Denim,Affordable,Local,Pinterest
+T1345,Accessories,Minimalist,22,Autumn,Gradient,Linen,Mid-range,Fast Fashion,Instagram
+T1346,Accessories,Minimalist,21,Summer,Earth-tone,Linen,Mid-range,Local,TikTok
+T1347,Shoes,Casual,91,Spring,Earth-tone,Polyester,Affordable,Fast Fashion,Instagram
+T1348,Accessories,Vintage,36,Spring,Monochrome,Denim,High-end,High-end,Instagram
+T1349,Shirt,Sporty,21,Spring,Metallic,Silk,High-end,Fast Fashion,Pinterest
+T1350,Dress,Vintage,74,Spring,Monochrome,Denim,High-end,Luxury,Pinterest
+T1351,Shirt,Vintage,43,Summer,Monochrome,Linen,High-end,Luxury,TikTok
+T1352,Accessories,Sporty,67,Autumn,Pastel,Cotton,High-end,High-end,Instagram
+T1353,Dress,Vintage,76,Spring,Neon,Cotton,Affordable,Local,TikTok
+T1354,Shirt,Minimalist,53,Winter,Gradient,Linen,Affordable,High-end,YouTube
+T1355,Pants,Formal,17,Autumn,Earth-tone,Wool,High-end,Local,Pinterest
+T1356,Dress,Formal,69,Autumn,Neon,Polyester,Mid-range,High-end,Pinterest
+T1357,Dress,Streetwear,64,Summer,Monochrome,Velvet,High-end,Luxury,YouTube
+T1358,Dress,Streetwear,99,Winter,Gradient,Denim,Affordable,Local,Instagram
+T1359,Dress,Vintage,58,Autumn,Metallic,Silk,High-end,Fast Fashion,TikTok
+T1360,Pants,Bohemian,78,Summer,Gradient,Wool,High-end,Luxury,Pinterest
+T1361,Shirt,Minimalist,46,Winter,Gradient,Cotton,Mid-range,Fast Fashion,YouTube
+T1362,Shirt,Minimalist,40,Spring,Pastel,Denim,High-end,Local,YouTube
+T1363,Shoes,Vintage,39,Spring,Earth-tone,Velvet,Affordable,Luxury,Pinterest
+T1364,Accessories,Casual,63,Spring,Neon,Velvet,High-end,High-end,Pinterest
+T1365,Accessories,Minimalist,41,Autumn,Earth-tone,Polyester,Mid-range,Luxury,Pinterest
+T1366,Shoes,Sporty,95,Winter,Earth-tone,Wool,Affordable,Local,Pinterest
+T1367,Shoes,Streetwear,46,Spring,Monochrome,Velvet,Affordable,High-end,Pinterest
+T1368,Pants,Minimalist,77,Winter,Earth-tone,Velvet,High-end,Fast Fashion,YouTube
+T1369,Shoes,Minimalist,20,Winter,Neon,Wool,Affordable,Local,Pinterest
+T1370,Shirt,Bohemian,72,Autumn,Monochrome,Silk,Mid-range,High-end,YouTube
+T1371,Dress,Formal,31,Autumn,Metallic,Velvet,High-end,Luxury,Pinterest
+T1372,Accessories,Streetwear,99,Spring,Metallic,Denim,Affordable,High-end,Pinterest
+T1373,Shoes,Formal,34,Winter,Monochrome,Polyester,High-end,Luxury,TikTok
+T1374,Shoes,Streetwear,6,Summer,Metallic,Linen,High-end,Luxury,TikTok
+T1375,Pants,Bohemian,30,Autumn,Earth-tone,Velvet,High-end,Luxury,Pinterest
+T1376,Pants,Streetwear,25,Summer,Neon,Wool,High-end,Local,Instagram
+T1377,Pants,Bohemian,47,Summer,Neon,Wool,High-end,Fast Fashion,Instagram
+T1378,Shirt,Bohemian,23,Winter,Monochrome,Polyester,Affordable,Luxury,YouTube
+T1379,Shoes,Formal,66,Spring,Earth-tone,Polyester,Affordable,Local,Pinterest
+T1380,Shirt,Bohemian,72,Winter,Pastel,Polyester,Affordable,Luxury,Pinterest
+T1381,Shoes,Sporty,57,Spring,Neon,Wool,Affordable,Local,TikTok
+T1382,Dress,Sporty,73,Winter,Monochrome,Wool,Affordable,Local,YouTube
+T1383,Dress,Casual,37,Spring,Neon,Polyester,High-end,Luxury,TikTok
+T1384,Accessories,Sporty,63,Winter,Metallic,Velvet,Mid-range,Fast Fashion,Pinterest
+T1385,Shoes,Bohemian,74,Summer,Pastel,Silk,Mid-range,Local,TikTok
+T1386,Shoes,Casual,35,Winter,Gradient,Wool,Mid-range,Fast Fashion,Pinterest
+T1387,Pants,Minimalist,47,Autumn,Gradient,Polyester,High-end,High-end,Instagram
+T1388,Accessories,Vintage,28,Winter,Monochrome,Silk,Affordable,Luxury,Pinterest
+T1389,Accessories,Streetwear,64,Summer,Gradient,Velvet,Affordable,Local,TikTok
+T1390,Pants,Formal,56,Summer,Monochrome,Linen,High-end,High-end,Pinterest
+T1391,Dress,Streetwear,34,Winter,Gradient,Polyester,Mid-range,High-end,YouTube
+T1392,Dress,Streetwear,61,Summer,Metallic,Linen,Affordable,Local,Instagram
+T1393,Shirt,Formal,47,Winter,Neon,Velvet,Affordable,Luxury,Instagram
+T1394,Shoes,Streetwear,19,Autumn,Monochrome,Velvet,Mid-range,Local,Pinterest
+T1395,Shoes,Bohemian,84,Autumn,Neon,Silk,High-end,Fast Fashion,Instagram
+T1396,Shirt,Formal,6,Summer,Monochrome,Velvet,High-end,Luxury,Pinterest
+T1397,Shirt,Casual,59,Summer,Pastel,Linen,Mid-range,Luxury,TikTok
+T1398,Shoes,Bohemian,71,Spring,Monochrome,Linen,Affordable,Luxury,Pinterest
+T1399,Pants,Sporty,75,Spring,Gradient,Linen,Mid-range,Luxury,Instagram
+T1400,Shoes,Bohemian,98,Spring,Gradient,Silk,High-end,High-end,YouTube
+T1401,Pants,Sporty,85,Spring,Metallic,Silk,Affordable,High-end,Pinterest
+T1402,Accessories,Streetwear,3,Summer,Monochrome,Denim,Mid-range,Luxury,TikTok
+T1403,Accessories,Casual,23,Spring,Neon,Cotton,High-end,High-end,TikTok
+T1404,Accessories,Bohemian,86,Winter,Earth-tone,Denim,Affordable,Luxury,TikTok
+T1405,Shirt,Sporty,28,Spring,Neon,Velvet,High-end,Fast Fashion,Instagram
+T1406,Dress,Sporty,10,Winter,Gradient,Polyester,High-end,Fast Fashion,YouTube
+T1407,Pants,Minimalist,4,Winter,Pastel,Velvet,Mid-range,High-end,Pinterest
+T1408,Shirt,Casual,57,Autumn,Pastel,Linen,Affordable,Fast Fashion,YouTube
+T1409,Shoes,Bohemian,23,Spring,Metallic,Velvet,Mid-range,Luxury,Instagram
+T1410,Shoes,Bohemian,43,Summer,Pastel,Velvet,Affordable,High-end,Pinterest
+T1411,Dress,Bohemian,70,Autumn,Monochrome,Denim,Affordable,Local,Pinterest
+T1412,Pants,Minimalist,26,Winter,Monochrome,Cotton,High-end,Luxury,TikTok
+T1413,Shoes,Streetwear,28,Summer,Pastel,Linen,Affordable,Fast Fashion,Instagram
+T1414,Dress,Sporty,26,Spring,Gradient,Wool,Affordable,Fast Fashion,Instagram
+T1415,Pants,Sporty,4,Summer,Pastel,Polyester,High-end,High-end,YouTube
+T1416,Dress,Streetwear,76,Autumn,Earth-tone,Silk,Mid-range,High-end,TikTok
+T1417,Shoes,Streetwear,67,Spring,Metallic,Linen,Affordable,High-end,Instagram
+T1418,Shoes,Minimalist,83,Spring,Pastel,Denim,Affordable,Fast Fashion,Instagram
+T1419,Shoes,Casual,94,Winter,Monochrome,Cotton,Mid-range,Local,Instagram
+T1420,Accessories,Formal,37,Autumn,Gradient,Velvet,Mid-range,Luxury,TikTok
+T1421,Shirt,Casual,15,Winter,Neon,Silk,High-end,Local,Instagram
+T1422,Shoes,Formal,99,Spring,Monochrome,Polyester,Mid-range,Local,Pinterest
+T1423,Accessories,Minimalist,38,Winter,Pastel,Linen,High-end,Luxury,YouTube
+T1424,Shoes,Sporty,22,Summer,Pastel,Wool,Mid-range,Fast Fashion,Pinterest
+T1425,Shirt,Vintage,79,Summer,Monochrome,Denim,High-end,Fast Fashion,Instagram
+T1426,Accessories,Casual,88,Summer,Earth-tone,Linen,Affordable,Fast Fashion,Pinterest
+T1427,Shirt,Minimalist,92,Autumn,Gradient,Velvet,High-end,Fast Fashion,Pinterest
+T1428,Shirt,Minimalist,6,Summer,Pastel,Denim,Affordable,Fast Fashion,YouTube
+T1429,Accessories,Sporty,28,Summer,Metallic,Polyester,Mid-range,Luxury,YouTube
+T1430,Pants,Casual,28,Winter,Pastel,Linen,Mid-range,Fast Fashion,Pinterest
+T1431,Accessories,Bohemian,24,Autumn,Neon,Polyester,High-end,Local,Instagram
+T1432,Dress,Vintage,6,Autumn,Earth-tone,Cotton,Affordable,Fast Fashion,TikTok
+T1433,Shoes,Formal,0,Autumn,Monochrome,Cotton,Affordable,Fast Fashion,Instagram
+T1434,Shirt,Formal,28,Summer,Pastel,Velvet,Affordable,High-end,Instagram
+T1435,Shoes,Casual,67,Autumn,Monochrome,Cotton,Affordable,High-end,Pinterest
+T1436,Accessories,Minimalist,53,Winter,Earth-tone,Cotton,Mid-range,Fast Fashion,YouTube
+T1437,Shirt,Sporty,11,Autumn,Neon,Silk,Affordable,Local,TikTok
+T1438,Shoes,Bohemian,3,Spring,Metallic,Velvet,High-end,High-end,Pinterest
+T1439,Accessories,Bohemian,76,Autumn,Earth-tone,Polyester,High-end,Local,Instagram
+T1440,Pants,Casual,2,Summer,Metallic,Silk,Mid-range,Luxury,YouTube
+T1441,Shoes,Casual,31,Autumn,Pastel,Denim,High-end,Local,Instagram
+T1442,Pants,Minimalist,86,Spring,Metallic,Wool,Affordable,High-end,Instagram
+T1443,Pants,Casual,2,Autumn,Pastel,Wool,High-end,Fast Fashion,Pinterest
+T1444,Shirt,Sporty,51,Autumn,Monochrome,Cotton,High-end,Fast Fashion,Pinterest
+T1445,Shirt,Casual,15,Winter,Monochrome,Polyester,Mid-range,High-end,Instagram
+T1446,Shoes,Bohemian,13,Autumn,Monochrome,Cotton,Affordable,Fast Fashion,Pinterest
+T1447,Accessories,Sporty,76,Spring,Earth-tone,Wool,High-end,Luxury,Pinterest
+T1448,Shoes,Vintage,66,Spring,Neon,Polyester,Mid-range,High-end,Instagram
+T1449,Shirt,Sporty,27,Winter,Metallic,Silk,Mid-range,Luxury,Instagram
+T1450,Pants,Sporty,68,Autumn,Gradient,Wool,Affordable,Luxury,Pinterest
+T1451,Accessories,Sporty,19,Winter,Metallic,Wool,Affordable,Fast Fashion,Instagram
+T1452,Shirt,Formal,1,Autumn,Neon,Velvet,Mid-range,Luxury,Pinterest
+T1453,Dress,Casual,75,Summer,Earth-tone,Linen,Mid-range,Fast Fashion,Instagram
+T1454,Shoes,Vintage,3,Autumn,Monochrome,Polyester,High-end,Fast Fashion,YouTube
+T1455,Pants,Sporty,44,Summer,Metallic,Polyester,High-end,Luxury,Instagram
+T1456,Shirt,Streetwear,100,Winter,Metallic,Wool,Mid-range,High-end,Pinterest
+T1457,Accessories,Vintage,40,Autumn,Gradient,Wool,Affordable,Luxury,Pinterest
+T1458,Shoes,Streetwear,67,Spring,Metallic,Silk,Affordable,Fast Fashion,Instagram
+T1459,Dress,Streetwear,57,Summer,Earth-tone,Linen,Affordable,Fast Fashion,Instagram
+T1460,Shoes,Bohemian,14,Summer,Neon,Linen,Affordable,Local,YouTube
+T1461,Accessories,Streetwear,21,Spring,Gradient,Wool,High-end,Fast Fashion,YouTube
+T1462,Dress,Casual,68,Summer,Neon,Polyester,High-end,Luxury,YouTube
+T1463,Pants,Sporty,92,Summer,Earth-tone,Wool,Affordable,Luxury,TikTok
+T1464,Pants,Minimalist,97,Winter,Earth-tone,Cotton,High-end,Local,YouTube
+T1465,Accessories,Bohemian,93,Autumn,Earth-tone,Polyester,Mid-range,High-end,TikTok
+T1466,Accessories,Vintage,89,Spring,Gradient,Polyester,Mid-range,Fast Fashion,Pinterest
+T1467,Accessories,Bohemian,3,Spring,Metallic,Cotton,Affordable,Fast Fashion,Instagram
+T1468,Dress,Vintage,8,Autumn,Metallic,Denim,Mid-range,Fast Fashion,YouTube
+T1469,Pants,Formal,41,Winter,Gradient,Silk,High-end,Luxury,TikTok
+T1470,Dress,Minimalist,92,Spring,Metallic,Linen,Mid-range,Local,Instagram
+T1471,Dress,Bohemian,83,Winter,Monochrome,Linen,High-end,Luxury,YouTube
+T1472,Dress,Casual,60,Spring,Metallic,Cotton,Mid-range,Local,Instagram
+T1473,Pants,Streetwear,11,Spring,Pastel,Linen,High-end,Luxury,TikTok
+T1474,Shoes,Formal,17,Winter,Earth-tone,Linen,Mid-range,Local,Pinterest
+T1475,Dress,Vintage,74,Summer,Gradient,Velvet,Affordable,Local,TikTok
+T1476,Accessories,Bohemian,76,Spring,Monochrome,Velvet,Mid-range,Local,YouTube
+T1477,Shirt,Casual,40,Winter,Earth-tone,Wool,High-end,Local,YouTube
+T1478,Shirt,Bohemian,3,Spring,Metallic,Silk,High-end,Luxury,YouTube
+T1479,Pants,Formal,19,Autumn,Monochrome,Denim,High-end,Local,TikTok
+T1480,Accessories,Formal,19,Summer,Pastel,Velvet,Affordable,Local,TikTok
+T1481,Pants,Formal,86,Winter,Neon,Polyester,High-end,Local,TikTok
+T1482,Pants,Minimalist,87,Autumn,Neon,Cotton,High-end,Local,Instagram
+T1483,Pants,Minimalist,94,Summer,Monochrome,Polyester,Mid-range,High-end,Instagram
+T1484,Shoes,Sporty,74,Spring,Gradient,Wool,High-end,High-end,YouTube
+T1485,Pants,Minimalist,82,Winter,Pastel,Polyester,High-end,Local,Instagram
+T1486,Dress,Bohemian,67,Spring,Pastel,Cotton,Affordable,Luxury,Instagram
+T1487,Dress,Vintage,44,Autumn,Monochrome,Linen,Mid-range,Local,Instagram
+T1488,Accessories,Minimalist,80,Autumn,Pastel,Cotton,Mid-range,Local,TikTok
+T1489,Shirt,Sporty,55,Summer,Neon,Polyester,Mid-range,Fast Fashion,TikTok
+T1490,Pants,Casual,3,Spring,Neon,Denim,Mid-range,Local,Pinterest
+T1491,Accessories,Streetwear,90,Spring,Neon,Silk,Affordable,Local,Instagram
+T1492,Dress,Formal,83,Autumn,Monochrome,Cotton,High-end,Fast Fashion,Instagram
+T1493,Pants,Formal,0,Spring,Earth-tone,Linen,Affordable,Local,Instagram
+T1494,Pants,Formal,82,Summer,Metallic,Denim,Mid-range,High-end,YouTube
+T1495,Shirt,Minimalist,21,Autumn,Monochrome,Polyester,Mid-range,Local,TikTok
+T1496,Pants,Sporty,1,Summer,Earth-tone,Cotton,Affordable,Luxury,Instagram
+T1497,Pants,Casual,96,Winter,Pastel,Velvet,Affordable,Luxury,Instagram
+T1498,Shirt,Streetwear,53,Summer,Earth-tone,Wool,Mid-range,Luxury,TikTok
+T1499,Dress,Casual,43,Summer,Earth-tone,Polyester,High-end,High-end,YouTube
+T1500,Pants,Streetwear,92,Summer,Neon,Silk,Affordable,Fast Fashion,YouTube
+T1501,Shoes,Minimalist,15,Spring,Pastel,Cotton,Mid-range,Luxury,Pinterest
+T1502,Accessories,Sporty,38,Summer,Gradient,Polyester,Mid-range,Local,TikTok
+T1503,Shirt,Bohemian,63,Summer,Metallic,Cotton,Mid-range,Luxury,TikTok
+T1504,Dress,Minimalist,95,Winter,Gradient,Wool,Affordable,Local,Instagram
+T1505,Accessories,Formal,68,Winter,Neon,Linen,Mid-range,Local,Instagram
+T1506,Pants,Vintage,98,Winter,Metallic,Denim,Affordable,Fast Fashion,TikTok
+T1507,Dress,Bohemian,37,Winter,Gradient,Linen,Mid-range,High-end,YouTube
+T1508,Dress,Casual,48,Spring,Monochrome,Linen,Affordable,Local,Pinterest
+T1509,Dress,Casual,93,Summer,Earth-tone,Cotton,Affordable,Local,Instagram
+T1510,Shoes,Bohemian,46,Summer,Metallic,Cotton,Affordable,Luxury,Pinterest
+T1511,Shirt,Minimalist,95,Autumn,Metallic,Wool,Mid-range,High-end,Instagram
+T1512,Shoes,Vintage,93,Autumn,Pastel,Denim,Affordable,Luxury,TikTok
+T1513,Pants,Formal,75,Summer,Neon,Velvet,Mid-range,Luxury,TikTok
+T1514,Accessories,Sporty,14,Winter,Neon,Silk,Affordable,Luxury,Instagram
+T1515,Shirt,Streetwear,65,Autumn,Gradient,Silk,High-end,High-end,Pinterest
+T1516,Shirt,Casual,5,Summer,Gradient,Linen,High-end,Local,Pinterest
+T1517,Shoes,Minimalist,51,Winter,Pastel,Polyester,Affordable,Local,Instagram
+T1518,Pants,Casual,27,Summer,Monochrome,Silk,Mid-range,Local,YouTube
+T1519,Pants,Streetwear,86,Winter,Earth-tone,Polyester,Mid-range,Local,TikTok
+T1520,Dress,Minimalist,1,Autumn,Pastel,Linen,Mid-range,High-end,Pinterest
+T1521,Shirt,Formal,32,Winter,Earth-tone,Cotton,Mid-range,Local,Pinterest
+T1522,Pants,Sporty,62,Spring,Metallic,Wool,Affordable,High-end,Pinterest
+T1523,Pants,Sporty,4,Winter,Monochrome,Polyester,Mid-range,Fast Fashion,YouTube
+T1524,Pants,Formal,94,Summer,Gradient,Linen,Mid-range,Local,Pinterest
+T1525,Shoes,Minimalist,63,Spring,Gradient,Polyester,High-end,High-end,YouTube
+T1526,Pants,Casual,30,Winter,Metallic,Linen,Affordable,Local,YouTube
+T1527,Accessories,Minimalist,9,Autumn,Pastel,Wool,High-end,Luxury,YouTube
+T1528,Pants,Casual,46,Spring,Gradient,Velvet,High-end,High-end,Instagram
+T1529,Pants,Casual,28,Autumn,Pastel,Wool,Mid-range,Luxury,Instagram
+T1530,Shirt,Streetwear,15,Spring,Metallic,Polyester,Affordable,High-end,TikTok
+T1531,Shirt,Formal,73,Summer,Earth-tone,Linen,Affordable,Fast Fashion,Instagram
+T1532,Pants,Casual,26,Winter,Earth-tone,Polyester,High-end,Fast Fashion,Instagram
+T1533,Accessories,Vintage,54,Summer,Earth-tone,Linen,High-end,Fast Fashion,TikTok
+T1534,Pants,Sporty,34,Autumn,Gradient,Silk,Mid-range,High-end,Instagram
+T1535,Shoes,Minimalist,93,Autumn,Gradient,Denim,Mid-range,High-end,TikTok
+T1536,Dress,Sporty,27,Summer,Pastel,Wool,High-end,High-end,Instagram
+T1537,Dress,Sporty,61,Spring,Neon,Polyester,Affordable,High-end,YouTube
+T1538,Dress,Bohemian,11,Summer,Neon,Velvet,High-end,Fast Fashion,Instagram
+T1539,Shirt,Vintage,29,Summer,Gradient,Cotton,Affordable,Luxury,Instagram
+T1540,Shirt,Minimalist,22,Summer,Metallic,Polyester,High-end,Luxury,TikTok
+T1541,Accessories,Formal,44,Summer,Earth-tone,Silk,High-end,Fast Fashion,Instagram
+T1542,Accessories,Casual,39,Spring,Earth-tone,Velvet,Affordable,Fast Fashion,YouTube
+T1543,Shoes,Casual,71,Summer,Metallic,Wool,Mid-range,Luxury,YouTube
+T1544,Shirt,Casual,67,Winter,Pastel,Silk,High-end,Luxury,Instagram
+T1545,Dress,Vintage,76,Spring,Earth-tone,Wool,High-end,High-end,TikTok
+T1546,Shoes,Formal,99,Summer,Neon,Cotton,High-end,High-end,Pinterest
+T1547,Shirt,Vintage,6,Spring,Earth-tone,Wool,Mid-range,Local,Instagram
+T1548,Dress,Streetwear,28,Summer,Metallic,Cotton,Mid-range,Fast Fashion,Instagram
+T1549,Dress,Bohemian,95,Spring,Metallic,Linen,Mid-range,Local,YouTube
+T1550,Shoes,Minimalist,100,Winter,Metallic,Silk,Affordable,Luxury,Pinterest
+T1551,Accessories,Formal,11,Spring,Pastel,Wool,High-end,High-end,YouTube
+T1552,Shoes,Formal,72,Autumn,Neon,Silk,Affordable,High-end,Instagram
+T1553,Accessories,Bohemian,22,Summer,Pastel,Velvet,High-end,High-end,TikTok
+T1554,Accessories,Casual,4,Winter,Gradient,Wool,Mid-range,Luxury,Pinterest
+T1555,Shoes,Streetwear,52,Summer,Gradient,Polyester,High-end,Fast Fashion,YouTube
+T1556,Shoes,Streetwear,32,Winter,Gradient,Polyester,Mid-range,High-end,Pinterest
+T1557,Dress,Sporty,77,Spring,Pastel,Polyester,High-end,Local,Pinterest
+T1558,Shoes,Formal,87,Summer,Earth-tone,Denim,Mid-range,Luxury,TikTok
+T1559,Shirt,Minimalist,96,Winter,Gradient,Cotton,Mid-range,Fast Fashion,Instagram
+T1560,Dress,Bohemian,60,Summer,Gradient,Cotton,Mid-range,High-end,TikTok
+T1561,Shirt,Bohemian,93,Spring,Pastel,Silk,Mid-range,High-end,Pinterest
+T1562,Accessories,Streetwear,69,Spring,Gradient,Velvet,High-end,Local,Pinterest
+T1563,Shoes,Vintage,14,Autumn,Monochrome,Velvet,Affordable,Luxury,Instagram
+T1564,Pants,Sporty,38,Spring,Metallic,Polyester,Affordable,Fast Fashion,Instagram
+T1565,Accessories,Bohemian,51,Summer,Neon,Linen,Affordable,Fast Fashion,TikTok
+T1566,Pants,Vintage,99,Winter,Neon,Velvet,Affordable,Luxury,YouTube
+T1567,Dress,Minimalist,31,Spring,Metallic,Wool,High-end,High-end,YouTube
+T1568,Accessories,Casual,100,Winter,Neon,Cotton,High-end,Luxury,YouTube
+T1569,Shirt,Vintage,36,Spring,Earth-tone,Cotton,Affordable,High-end,Instagram
+T1570,Dress,Formal,26,Autumn,Monochrome,Linen,High-end,High-end,TikTok
+T1571,Accessories,Casual,83,Spring,Gradient,Silk,Affordable,Fast Fashion,TikTok
+T1572,Pants,Minimalist,90,Winter,Gradient,Denim,High-end,Local,YouTube
+T1573,Pants,Casual,42,Autumn,Gradient,Wool,Mid-range,Fast Fashion,Instagram
+T1574,Pants,Minimalist,14,Winter,Metallic,Wool,Affordable,Luxury,Pinterest
+T1575,Accessories,Casual,14,Autumn,Neon,Velvet,Affordable,Fast Fashion,Instagram
+T1576,Pants,Formal,41,Autumn,Earth-tone,Denim,Affordable,High-end,Pinterest
+T1577,Shoes,Streetwear,81,Winter,Neon,Polyester,Affordable,High-end,YouTube
+T1578,Shoes,Vintage,34,Autumn,Pastel,Cotton,High-end,Local,TikTok
+T1579,Shirt,Bohemian,0,Autumn,Metallic,Wool,Affordable,Fast Fashion,TikTok
+T1580,Pants,Vintage,65,Summer,Pastel,Velvet,Mid-range,Local,TikTok
+T1581,Shirt,Vintage,58,Autumn,Pastel,Wool,Affordable,Local,Pinterest
+T1582,Shirt,Minimalist,75,Autumn,Monochrome,Denim,Mid-range,Local,TikTok
+T1583,Pants,Formal,15,Autumn,Pastel,Polyester,Affordable,Fast Fashion,Pinterest
+T1584,Dress,Streetwear,12,Summer,Metallic,Wool,Mid-range,High-end,YouTube
+T1585,Dress,Bohemian,3,Winter,Earth-tone,Polyester,Mid-range,High-end,Pinterest
+T1586,Shirt,Casual,4,Spring,Metallic,Linen,Mid-range,Luxury,Pinterest
+T1587,Shoes,Casual,13,Autumn,Earth-tone,Polyester,High-end,High-end,YouTube
+T1588,Dress,Minimalist,21,Spring,Metallic,Velvet,Mid-range,High-end,Pinterest
+T1589,Shoes,Sporty,43,Winter,Pastel,Wool,Affordable,High-end,Pinterest
+T1590,Shirt,Casual,4,Summer,Gradient,Wool,High-end,Luxury,TikTok
+T1591,Accessories,Vintage,55,Summer,Metallic,Silk,Affordable,Fast Fashion,TikTok
+T1592,Shirt,Casual,13,Spring,Neon,Polyester,Mid-range,High-end,TikTok
+T1593,Shirt,Vintage,65,Autumn,Pastel,Polyester,Affordable,Luxury,YouTube
+T1594,Dress,Vintage,43,Summer,Monochrome,Cotton,Affordable,Luxury,Instagram
+T1595,Dress,Vintage,34,Winter,Neon,Cotton,Mid-range,Local,Pinterest
+T1596,Dress,Vintage,68,Summer,Pastel,Wool,High-end,Luxury,Pinterest
+T1597,Accessories,Bohemian,31,Autumn,Neon,Denim,Affordable,Luxury,Instagram
+T1598,Shoes,Bohemian,32,Summer,Monochrome,Velvet,Mid-range,Luxury,Pinterest
+T1599,Pants,Vintage,51,Winter,Monochrome,Wool,Affordable,Luxury,TikTok
+T1600,Accessories,Casual,53,Summer,Earth-tone,Cotton,Mid-range,Fast Fashion,Pinterest
+T1601,Shoes,Vintage,0,Summer,Metallic,Cotton,Mid-range,Luxury,TikTok
+T1602,Shirt,Vintage,10,Spring,Pastel,Cotton,Mid-range,Fast Fashion,YouTube
+T1603,Accessories,Casual,83,Spring,Earth-tone,Velvet,High-end,Luxury,TikTok
+T1604,Accessories,Casual,33,Autumn,Gradient,Linen,Affordable,Luxury,Instagram
+T1605,Accessories,Streetwear,52,Autumn,Gradient,Denim,High-end,Fast Fashion,Pinterest
+T1606,Accessories,Minimalist,26,Summer,Earth-tone,Velvet,High-end,Local,Pinterest
+T1607,Shirt,Casual,17,Autumn,Metallic,Velvet,Mid-range,High-end,Instagram
+T1608,Shoes,Sporty,85,Summer,Gradient,Denim,Mid-range,Local,Pinterest
+T1609,Pants,Minimalist,38,Spring,Metallic,Denim,Mid-range,Local,Pinterest
+T1610,Dress,Vintage,23,Spring,Metallic,Linen,High-end,Local,TikTok
+T1611,Dress,Streetwear,3,Winter,Monochrome,Polyester,Mid-range,Fast Fashion,TikTok
+T1612,Pants,Formal,90,Spring,Gradient,Denim,Affordable,High-end,Pinterest
+T1613,Shirt,Streetwear,62,Summer,Neon,Linen,High-end,High-end,Pinterest
+T1614,Pants,Casual,92,Winter,Gradient,Wool,Affordable,Local,YouTube
+T1615,Shoes,Bohemian,22,Winter,Gradient,Silk,Mid-range,Fast Fashion,YouTube
+T1616,Accessories,Vintage,40,Autumn,Pastel,Cotton,Mid-range,Luxury,Pinterest
+T1617,Shoes,Bohemian,57,Spring,Earth-tone,Silk,Affordable,Local,Instagram
+T1618,Pants,Sporty,41,Autumn,Earth-tone,Denim,High-end,High-end,Instagram
+T1619,Pants,Sporty,68,Spring,Pastel,Denim,Mid-range,Local,Instagram
+T1620,Shirt,Minimalist,62,Winter,Monochrome,Denim,High-end,Local,Instagram
+T1621,Pants,Vintage,55,Spring,Pastel,Denim,Affordable,Fast Fashion,Pinterest
+T1622,Accessories,Streetwear,31,Spring,Metallic,Polyester,High-end,Local,Instagram
+T1623,Accessories,Streetwear,23,Autumn,Monochrome,Wool,High-end,Fast Fashion,Instagram
+T1624,Accessories,Sporty,99,Winter,Neon,Linen,Mid-range,Local,YouTube
+T1625,Shirt,Streetwear,19,Summer,Gradient,Denim,High-end,High-end,TikTok
+T1626,Dress,Formal,28,Summer,Monochrome,Linen,High-end,Fast Fashion,Instagram
+T1627,Accessories,Sporty,40,Winter,Earth-tone,Velvet,Mid-range,Fast Fashion,Pinterest
+T1628,Accessories,Formal,19,Spring,Monochrome,Silk,Affordable,Fast Fashion,Instagram
+T1629,Pants,Streetwear,51,Spring,Earth-tone,Linen,Mid-range,Local,TikTok
+T1630,Shirt,Casual,28,Autumn,Neon,Cotton,High-end,Luxury,Pinterest
+T1631,Shirt,Minimalist,80,Spring,Neon,Velvet,Affordable,Fast Fashion,Pinterest
+T1632,Shoes,Formal,100,Winter,Metallic,Cotton,High-end,Local,YouTube
+T1633,Dress,Bohemian,2,Summer,Gradient,Velvet,Mid-range,Local,YouTube
+T1634,Dress,Bohemian,22,Spring,Metallic,Polyester,High-end,High-end,Pinterest
+T1635,Shirt,Casual,36,Winter,Monochrome,Polyester,Affordable,High-end,YouTube
+T1636,Shirt,Casual,50,Spring,Neon,Denim,Mid-range,High-end,Instagram
+T1637,Shoes,Bohemian,64,Spring,Neon,Silk,High-end,Local,YouTube
+T1638,Pants,Streetwear,94,Autumn,Neon,Polyester,Affordable,High-end,Pinterest
+T1639,Dress,Minimalist,97,Winter,Earth-tone,Velvet,Affordable,Local,Pinterest
+T1640,Accessories,Minimalist,49,Winter,Monochrome,Polyester,Affordable,Fast Fashion,YouTube
+T1641,Accessories,Vintage,68,Spring,Earth-tone,Silk,Affordable,High-end,TikTok
+T1642,Pants,Sporty,40,Summer,Gradient,Cotton,Mid-range,Fast Fashion,Pinterest
+T1643,Pants,Minimalist,78,Autumn,Metallic,Denim,Affordable,Fast Fashion,Pinterest
+T1644,Dress,Vintage,62,Winter,Pastel,Velvet,High-end,Local,Instagram
+T1645,Accessories,Vintage,69,Spring,Pastel,Velvet,Affordable,Luxury,TikTok
+T1646,Dress,Bohemian,80,Winter,Earth-tone,Velvet,High-end,High-end,Pinterest
+T1647,Pants,Minimalist,90,Winter,Gradient,Denim,Mid-range,High-end,Instagram
+T1648,Pants,Minimalist,76,Spring,Pastel,Polyester,Affordable,High-end,YouTube
+T1649,Pants,Casual,4,Autumn,Gradient,Silk,High-end,High-end,Pinterest
+T1650,Shirt,Casual,37,Summer,Earth-tone,Silk,Affordable,Luxury,YouTube
+T1651,Pants,Bohemian,78,Summer,Gradient,Linen,High-end,Fast Fashion,TikTok
+T1652,Accessories,Sporty,77,Winter,Earth-tone,Wool,Mid-range,Fast Fashion,Instagram
+T1653,Pants,Bohemian,2,Summer,Metallic,Silk,High-end,Local,Pinterest
+T1654,Accessories,Sporty,59,Spring,Neon,Linen,Mid-range,Fast Fashion,Instagram
+T1655,Dress,Formal,33,Autumn,Neon,Linen,Mid-range,Fast Fashion,YouTube
+T1656,Shirt,Formal,43,Autumn,Earth-tone,Linen,Mid-range,Luxury,TikTok
+T1657,Accessories,Vintage,1,Winter,Earth-tone,Linen,High-end,Luxury,TikTok
+T1658,Pants,Casual,10,Summer,Metallic,Denim,Affordable,Luxury,Pinterest
+T1659,Shoes,Bohemian,79,Winter,Gradient,Denim,Mid-range,Fast Fashion,Pinterest
+T1660,Accessories,Sporty,34,Spring,Earth-tone,Denim,Mid-range,Local,Pinterest
+T1661,Pants,Casual,96,Winter,Gradient,Polyester,Affordable,Local,YouTube
+T1662,Accessories,Bohemian,98,Spring,Monochrome,Linen,Mid-range,Local,Instagram
+T1663,Shoes,Bohemian,86,Summer,Neon,Linen,Mid-range,High-end,YouTube
+T1664,Accessories,Bohemian,12,Spring,Earth-tone,Linen,Mid-range,Fast Fashion,TikTok
+T1665,Pants,Casual,92,Spring,Pastel,Cotton,Mid-range,Fast Fashion,Pinterest
+T1666,Accessories,Formal,79,Spring,Gradient,Linen,High-end,Local,TikTok
+T1667,Accessories,Casual,58,Summer,Earth-tone,Linen,High-end,Fast Fashion,TikTok
+T1668,Shoes,Bohemian,62,Summer,Gradient,Velvet,High-end,High-end,YouTube
+T1669,Accessories,Casual,87,Winter,Earth-tone,Linen,Affordable,Luxury,TikTok
+T1670,Shoes,Formal,44,Summer,Neon,Velvet,Mid-range,Local,Pinterest
+T1671,Pants,Bohemian,0,Spring,Neon,Velvet,High-end,Fast Fashion,TikTok
+T1672,Pants,Vintage,42,Winter,Pastel,Wool,Affordable,High-end,Pinterest
+T1673,Shirt,Sporty,59,Spring,Earth-tone,Silk,Affordable,High-end,TikTok
+T1674,Shoes,Vintage,51,Summer,Monochrome,Velvet,High-end,Luxury,Instagram
+T1675,Shoes,Bohemian,42,Autumn,Neon,Velvet,Affordable,Local,TikTok
+T1676,Shoes,Sporty,59,Spring,Pastel,Polyester,High-end,High-end,TikTok
+T1677,Dress,Vintage,83,Summer,Neon,Velvet,Mid-range,Fast Fashion,TikTok
+T1678,Dress,Minimalist,50,Summer,Pastel,Wool,High-end,Luxury,TikTok
+T1679,Pants,Casual,31,Winter,Gradient,Silk,Affordable,Local,TikTok
+T1680,Dress,Formal,17,Summer,Neon,Linen,High-end,Fast Fashion,Instagram
+T1681,Shirt,Minimalist,22,Autumn,Earth-tone,Wool,Affordable,High-end,Instagram
+T1682,Shoes,Casual,31,Autumn,Earth-tone,Velvet,High-end,Luxury,Instagram
+T1683,Pants,Vintage,99,Autumn,Gradient,Cotton,Mid-range,Fast Fashion,YouTube
+T1684,Shirt,Streetwear,97,Autumn,Monochrome,Wool,Affordable,Local,Instagram
+T1685,Accessories,Formal,29,Autumn,Neon,Polyester,Mid-range,Local,YouTube
+T1686,Shirt,Casual,65,Summer,Metallic,Cotton,High-end,Local,TikTok
+T1687,Shirt,Streetwear,42,Autumn,Neon,Denim,Affordable,High-end,TikTok
+T1688,Dress,Casual,3,Summer,Neon,Polyester,Mid-range,Luxury,YouTube
+T1689,Dress,Streetwear,82,Winter,Metallic,Wool,High-end,Local,TikTok
+T1690,Pants,Minimalist,54,Summer,Monochrome,Wool,Mid-range,Fast Fashion,Instagram
+T1691,Shirt,Sporty,43,Summer,Monochrome,Velvet,Mid-range,Local,Pinterest
+T1692,Pants,Streetwear,66,Spring,Monochrome,Velvet,Mid-range,High-end,YouTube
+T1693,Accessories,Minimalist,56,Autumn,Neon,Velvet,Mid-range,Local,YouTube
+T1694,Shirt,Sporty,15,Winter,Pastel,Linen,Affordable,High-end,TikTok
+T1695,Shoes,Vintage,80,Autumn,Pastel,Denim,High-end,High-end,YouTube
+T1696,Pants,Streetwear,36,Autumn,Pastel,Linen,High-end,Fast Fashion,YouTube
+T1697,Shoes,Minimalist,86,Spring,Gradient,Denim,High-end,High-end,Pinterest
+T1698,Shirt,Streetwear,33,Summer,Earth-tone,Denim,Affordable,Fast Fashion,TikTok
+T1699,Dress,Vintage,45,Winter,Gradient,Silk,High-end,Local,YouTube
+T1700,Shoes,Formal,68,Summer,Metallic,Wool,Mid-range,High-end,Pinterest
+T1701,Shoes,Streetwear,65,Autumn,Monochrome,Velvet,Affordable,Local,TikTok
+T1702,Dress,Vintage,79,Spring,Monochrome,Silk,Affordable,Luxury,Pinterest
+T1703,Dress,Streetwear,79,Summer,Pastel,Denim,Mid-range,Luxury,Instagram
+T1704,Pants,Casual,15,Summer,Pastel,Polyester,Mid-range,Luxury,YouTube
+T1705,Shirt,Bohemian,41,Summer,Gradient,Linen,Mid-range,Local,Instagram
+T1706,Accessories,Sporty,85,Summer,Pastel,Wool,High-end,Fast Fashion,YouTube
+T1707,Pants,Vintage,98,Summer,Pastel,Velvet,Affordable,Luxury,Pinterest
+T1708,Pants,Sporty,59,Autumn,Gradient,Wool,High-end,Local,Instagram
+T1709,Shirt,Minimalist,79,Winter,Neon,Denim,Mid-range,Local,Instagram
+T1710,Dress,Sporty,3,Summer,Metallic,Wool,High-end,Fast Fashion,Instagram
+T1711,Shoes,Bohemian,32,Autumn,Monochrome,Cotton,High-end,Local,Pinterest
+T1712,Dress,Bohemian,82,Autumn,Neon,Velvet,Affordable,High-end,YouTube
+T1713,Shoes,Vintage,21,Winter,Neon,Denim,Affordable,Fast Fashion,TikTok
+T1714,Shoes,Streetwear,63,Summer,Neon,Silk,High-end,High-end,YouTube
+T1715,Shirt,Casual,74,Summer,Metallic,Silk,High-end,Fast Fashion,YouTube
+T1716,Shoes,Sporty,92,Summer,Metallic,Polyester,Mid-range,Luxury,TikTok
+T1717,Dress,Sporty,50,Autumn,Monochrome,Wool,High-end,Fast Fashion,TikTok
+T1718,Shoes,Casual,27,Summer,Neon,Denim,Mid-range,Fast Fashion,Instagram
+T1719,Shoes,Formal,75,Winter,Monochrome,Silk,Affordable,High-end,Instagram
+T1720,Dress,Formal,50,Winter,Earth-tone,Wool,High-end,Luxury,YouTube
+T1721,Pants,Formal,44,Spring,Monochrome,Silk,High-end,Luxury,TikTok
+T1722,Shirt,Minimalist,96,Autumn,Neon,Cotton,High-end,Local,TikTok
+T1723,Shirt,Minimalist,59,Spring,Earth-tone,Wool,High-end,High-end,Pinterest
+T1724,Dress,Casual,12,Autumn,Metallic,Velvet,Mid-range,High-end,Pinterest
+T1725,Shirt,Minimalist,21,Winter,Neon,Denim,High-end,Local,Pinterest
+T1726,Accessories,Sporty,33,Summer,Monochrome,Velvet,Mid-range,Fast Fashion,Instagram
+T1727,Shoes,Minimalist,79,Autumn,Gradient,Denim,Affordable,High-end,YouTube
+T1728,Accessories,Minimalist,57,Summer,Metallic,Silk,Affordable,Local,YouTube
+T1729,Dress,Bohemian,96,Winter,Metallic,Linen,Mid-range,Local,YouTube
+T1730,Dress,Vintage,57,Winter,Pastel,Cotton,Mid-range,High-end,Instagram
+T1731,Pants,Sporty,7,Summer,Neon,Polyester,Affordable,High-end,Pinterest
+T1732,Shirt,Minimalist,21,Spring,Monochrome,Denim,Mid-range,Fast Fashion,TikTok
+T1733,Shoes,Casual,8,Spring,Earth-tone,Polyester,Mid-range,High-end,Pinterest
+T1734,Pants,Vintage,35,Spring,Metallic,Polyester,Affordable,Local,Pinterest
+T1735,Pants,Vintage,76,Winter,Earth-tone,Cotton,High-end,Fast Fashion,Instagram
+T1736,Accessories,Minimalist,48,Spring,Gradient,Silk,High-end,Local,TikTok
+T1737,Pants,Streetwear,46,Winter,Pastel,Cotton,Affordable,Luxury,Instagram
+T1738,Shirt,Vintage,79,Autumn,Neon,Denim,Affordable,Luxury,TikTok
+T1739,Shoes,Formal,47,Autumn,Gradient,Polyester,Mid-range,High-end,YouTube
+T1740,Accessories,Vintage,83,Spring,Gradient,Silk,Affordable,Luxury,Pinterest
+T1741,Shirt,Formal,96,Summer,Gradient,Polyester,Affordable,Fast Fashion,Instagram
+T1742,Accessories,Sporty,72,Spring,Metallic,Silk,Affordable,Luxury,YouTube
+T1743,Pants,Bohemian,4,Spring,Pastel,Denim,Affordable,Local,YouTube
+T1744,Accessories,Formal,72,Summer,Gradient,Linen,Mid-range,Local,YouTube
+T1745,Dress,Sporty,34,Summer,Pastel,Denim,Affordable,Luxury,YouTube
+T1746,Shirt,Sporty,92,Summer,Gradient,Velvet,Mid-range,Luxury,Pinterest
+T1747,Shirt,Formal,29,Spring,Earth-tone,Silk,Mid-range,Luxury,Instagram
+T1748,Pants,Formal,49,Winter,Monochrome,Denim,Affordable,Luxury,Instagram
+T1749,Shoes,Minimalist,56,Autumn,Metallic,Wool,High-end,Luxury,YouTube
+T1750,Shirt,Casual,40,Winter,Metallic,Cotton,Mid-range,Luxury,Instagram
+T1751,Accessories,Casual,9,Winter,Earth-tone,Velvet,Mid-range,High-end,Instagram
+T1752,Shoes,Sporty,14,Spring,Pastel,Wool,Affordable,Local,TikTok
+T1753,Pants,Vintage,89,Summer,Neon,Wool,Mid-range,Luxury,Pinterest
+T1754,Dress,Sporty,59,Spring,Metallic,Denim,Affordable,Luxury,Instagram
+T1755,Pants,Sporty,7,Winter,Monochrome,Linen,High-end,High-end,Instagram
+T1756,Pants,Sporty,19,Spring,Monochrome,Silk,High-end,Luxury,Instagram
+T1757,Shirt,Bohemian,55,Winter,Pastel,Silk,Affordable,Fast Fashion,YouTube
+T1758,Accessories,Formal,29,Summer,Metallic,Denim,High-end,Local,YouTube
+T1759,Accessories,Streetwear,84,Autumn,Gradient,Velvet,Affordable,High-end,TikTok
+T1760,Dress,Minimalist,93,Spring,Earth-tone,Wool,Affordable,High-end,Instagram
+T1761,Shirt,Casual,4,Autumn,Pastel,Cotton,Affordable,Local,YouTube
+T1762,Pants,Formal,30,Winter,Earth-tone,Denim,High-end,Local,Instagram
+T1763,Shirt,Minimalist,82,Winter,Gradient,Velvet,Affordable,High-end,YouTube
+T1764,Accessories,Minimalist,93,Autumn,Earth-tone,Wool,High-end,Local,Instagram
+T1765,Pants,Formal,23,Summer,Metallic,Velvet,Affordable,Luxury,YouTube
+T1766,Dress,Sporty,79,Spring,Gradient,Linen,Mid-range,Luxury,YouTube
+T1767,Pants,Formal,90,Spring,Earth-tone,Denim,Affordable,High-end,TikTok
+T1768,Accessories,Minimalist,89,Winter,Gradient,Velvet,Affordable,Local,Instagram
+T1769,Accessories,Casual,46,Winter,Earth-tone,Silk,High-end,Local,TikTok
+T1770,Dress,Casual,96,Summer,Gradient,Wool,Affordable,Local,Pinterest
+T1771,Pants,Formal,84,Winter,Earth-tone,Silk,Mid-range,Local,Pinterest
+T1772,Shoes,Formal,76,Winter,Gradient,Polyester,Mid-range,Fast Fashion,YouTube
+T1773,Shirt,Streetwear,21,Winter,Pastel,Polyester,Affordable,High-end,YouTube
+T1774,Pants,Vintage,17,Spring,Monochrome,Linen,Mid-range,Luxury,Instagram
+T1775,Pants,Formal,79,Autumn,Neon,Silk,Mid-range,High-end,YouTube
+T1776,Dress,Sporty,96,Spring,Monochrome,Linen,Mid-range,Luxury,Pinterest
+T1777,Shoes,Casual,66,Spring,Metallic,Linen,Mid-range,High-end,Instagram
+T1778,Shoes,Vintage,34,Summer,Monochrome,Silk,High-end,Local,YouTube
+T1779,Dress,Sporty,86,Autumn,Gradient,Cotton,Affordable,Local,TikTok
+T1780,Shirt,Streetwear,91,Winter,Metallic,Denim,High-end,Luxury,Pinterest
+T1781,Shoes,Vintage,46,Autumn,Metallic,Wool,High-end,Local,TikTok
+T1782,Dress,Formal,72,Winter,Neon,Velvet,High-end,Fast Fashion,TikTok
+T1783,Dress,Minimalist,37,Summer,Gradient,Silk,High-end,High-end,TikTok
+T1784,Shoes,Bohemian,47,Winter,Earth-tone,Polyester,Affordable,High-end,Instagram
+T1785,Pants,Formal,43,Summer,Metallic,Silk,High-end,Luxury,Pinterest
+T1786,Pants,Casual,67,Autumn,Gradient,Denim,High-end,Fast Fashion,Pinterest
+T1787,Shoes,Formal,64,Winter,Earth-tone,Silk,Affordable,Fast Fashion,Pinterest
+T1788,Shirt,Casual,45,Summer,Pastel,Linen,High-end,Fast Fashion,TikTok
+T1789,Pants,Casual,21,Summer,Monochrome,Wool,Mid-range,Local,YouTube
+T1790,Dress,Streetwear,31,Winter,Neon,Cotton,Mid-range,Fast Fashion,TikTok
+T1791,Dress,Formal,33,Autumn,Gradient,Wool,Mid-range,Luxury,Instagram
+T1792,Shirt,Casual,80,Autumn,Pastel,Polyester,Mid-range,Fast Fashion,YouTube
+T1793,Shirt,Minimalist,36,Spring,Monochrome,Cotton,Affordable,High-end,Instagram
+T1794,Accessories,Casual,61,Winter,Earth-tone,Wool,Affordable,Fast Fashion,TikTok
+T1795,Shoes,Bohemian,55,Summer,Monochrome,Linen,Affordable,High-end,Pinterest
+T1796,Accessories,Vintage,53,Spring,Monochrome,Polyester,Mid-range,Luxury,TikTok
+T1797,Shirt,Bohemian,40,Autumn,Gradient,Denim,Mid-range,High-end,Pinterest
+T1798,Dress,Streetwear,3,Autumn,Neon,Polyester,Affordable,Luxury,TikTok
+T1799,Shoes,Streetwear,6,Winter,Monochrome,Denim,Affordable,Fast Fashion,Instagram
+T1800,Shoes,Minimalist,6,Autumn,Metallic,Wool,Mid-range,High-end,Instagram
+T1801,Accessories,Formal,49,Spring,Earth-tone,Linen,High-end,Luxury,TikTok
+T1802,Shirt,Casual,53,Winter,Pastel,Linen,High-end,Fast Fashion,Pinterest
+T1803,Shirt,Streetwear,36,Autumn,Gradient,Linen,Affordable,Fast Fashion,YouTube
+T1804,Pants,Casual,66,Autumn,Earth-tone,Cotton,High-end,High-end,Pinterest
+T1805,Shoes,Vintage,64,Spring,Monochrome,Silk,Mid-range,Local,Instagram
+T1806,Shirt,Bohemian,40,Autumn,Metallic,Silk,High-end,Local,Instagram
+T1807,Dress,Vintage,7,Autumn,Monochrome,Cotton,High-end,High-end,TikTok
+T1808,Pants,Streetwear,41,Autumn,Neon,Wool,Affordable,High-end,YouTube
+T1809,Shoes,Bohemian,81,Spring,Neon,Velvet,Affordable,Fast Fashion,Instagram
+T1810,Accessories,Streetwear,32,Autumn,Gradient,Linen,High-end,Fast Fashion,Instagram
+T1811,Accessories,Minimalist,0,Spring,Earth-tone,Cotton,Affordable,Fast Fashion,Instagram
+T1812,Shoes,Minimalist,71,Autumn,Monochrome,Wool,Mid-range,Fast Fashion,Pinterest
+T1813,Shoes,Vintage,6,Spring,Gradient,Polyester,High-end,Luxury,Instagram
+T1814,Shoes,Bohemian,78,Spring,Earth-tone,Wool,Mid-range,Local,Pinterest
+T1815,Pants,Streetwear,73,Spring,Neon,Silk,Mid-range,Fast Fashion,YouTube
+T1816,Shirt,Formal,62,Winter,Neon,Polyester,High-end,Fast Fashion,TikTok
+T1817,Dress,Formal,6,Summer,Pastel,Velvet,High-end,High-end,Pinterest
+T1818,Shirt,Casual,21,Summer,Earth-tone,Linen,High-end,Luxury,YouTube
+T1819,Accessories,Casual,14,Autumn,Monochrome,Cotton,Mid-range,High-end,Instagram
+T1820,Shirt,Sporty,14,Spring,Neon,Linen,Mid-range,Fast Fashion,TikTok
+T1821,Dress,Sporty,4,Autumn,Neon,Wool,High-end,Luxury,Pinterest
+T1822,Pants,Minimalist,19,Spring,Metallic,Wool,High-end,Fast Fashion,Pinterest
+T1823,Accessories,Vintage,72,Spring,Gradient,Silk,Mid-range,Fast Fashion,TikTok
+T1824,Shirt,Sporty,19,Spring,Monochrome,Linen,Mid-range,Fast Fashion,Pinterest
+T1825,Shoes,Sporty,40,Autumn,Gradient,Silk,High-end,Luxury,TikTok
+T1826,Shirt,Bohemian,33,Autumn,Monochrome,Silk,Affordable,Luxury,YouTube
+T1827,Accessories,Streetwear,27,Autumn,Pastel,Cotton,High-end,Luxury,Instagram
+T1828,Dress,Vintage,11,Winter,Metallic,Cotton,High-end,Fast Fashion,Pinterest
+T1829,Accessories,Sporty,31,Summer,Monochrome,Wool,Mid-range,High-end,Instagram
+T1830,Shirt,Casual,99,Winter,Monochrome,Cotton,Affordable,Local,Instagram
+T1831,Accessories,Formal,50,Autumn,Neon,Wool,Mid-range,Local,Pinterest
+T1832,Shirt,Sporty,41,Autumn,Monochrome,Velvet,Affordable,Fast Fashion,TikTok
+T1833,Pants,Vintage,55,Autumn,Pastel,Velvet,Mid-range,High-end,TikTok
+T1834,Pants,Casual,24,Winter,Metallic,Wool,Affordable,High-end,Pinterest
+T1835,Dress,Sporty,92,Autumn,Monochrome,Polyester,Affordable,Local,YouTube
+T1836,Accessories,Minimalist,43,Autumn,Gradient,Wool,High-end,High-end,Pinterest
+T1837,Dress,Sporty,87,Winter,Metallic,Polyester,Mid-range,Local,Instagram
+T1838,Shoes,Bohemian,96,Autumn,Gradient,Denim,High-end,Local,YouTube
+T1839,Pants,Sporty,75,Summer,Earth-tone,Cotton,High-end,Local,Instagram
+T1840,Shoes,Bohemian,92,Winter,Monochrome,Polyester,Affordable,Fast Fashion,Pinterest
+T1841,Accessories,Casual,69,Autumn,Pastel,Silk,Affordable,High-end,TikTok
+T1842,Accessories,Formal,29,Winter,Gradient,Velvet,Mid-range,High-end,Pinterest
+T1843,Shoes,Bohemian,7,Spring,Pastel,Cotton,High-end,Fast Fashion,YouTube
+T1844,Shoes,Vintage,65,Winter,Neon,Linen,Mid-range,Luxury,Instagram
+T1845,Dress,Formal,59,Spring,Pastel,Wool,Mid-range,Luxury,Pinterest
+T1846,Shoes,Sporty,99,Winter,Neon,Polyester,Affordable,Fast Fashion,YouTube
+T1847,Dress,Vintage,43,Autumn,Monochrome,Denim,Mid-range,High-end,YouTube
+T1848,Shirt,Bohemian,99,Summer,Neon,Denim,High-end,Local,Pinterest
+T1849,Dress,Sporty,89,Spring,Neon,Cotton,High-end,Local,Pinterest
+T1850,Dress,Sporty,15,Summer,Pastel,Polyester,Mid-range,High-end,Pinterest
+T1851,Shoes,Bohemian,23,Winter,Metallic,Wool,High-end,Luxury,Instagram
+T1852,Shirt,Formal,60,Winter,Earth-tone,Silk,Mid-range,Local,TikTok
+T1853,Accessories,Casual,93,Autumn,Monochrome,Polyester,Affordable,Local,YouTube
+T1854,Shirt,Minimalist,43,Spring,Pastel,Polyester,Affordable,Local,Pinterest
+T1855,Dress,Streetwear,16,Summer,Pastel,Linen,High-end,Luxury,YouTube
+T1856,Accessories,Formal,37,Winter,Monochrome,Silk,High-end,High-end,YouTube
+T1857,Shoes,Streetwear,0,Summer,Gradient,Velvet,Affordable,High-end,TikTok
+T1858,Dress,Formal,4,Spring,Neon,Polyester,Affordable,Luxury,YouTube
+T1859,Accessories,Vintage,82,Summer,Pastel,Cotton,Affordable,Local,Instagram
+T1860,Accessories,Sporty,77,Spring,Monochrome,Silk,High-end,High-end,YouTube
+T1861,Shoes,Casual,29,Autumn,Metallic,Velvet,High-end,Luxury,Instagram
+T1862,Accessories,Sporty,56,Spring,Metallic,Linen,High-end,High-end,YouTube
+T1863,Accessories,Minimalist,34,Winter,Pastel,Wool,Affordable,Luxury,TikTok
+T1864,Shoes,Formal,65,Autumn,Monochrome,Silk,High-end,Luxury,Instagram
+T1865,Accessories,Vintage,21,Winter,Monochrome,Cotton,Mid-range,High-end,Instagram
+T1866,Shirt,Vintage,98,Spring,Metallic,Cotton,Affordable,Luxury,TikTok
+T1867,Accessories,Casual,56,Winter,Metallic,Silk,Affordable,Luxury,YouTube
+T1868,Pants,Streetwear,89,Summer,Monochrome,Denim,High-end,Fast Fashion,Instagram
+T1869,Shoes,Formal,98,Spring,Gradient,Wool,High-end,Luxury,YouTube
+T1870,Shoes,Bohemian,97,Winter,Metallic,Silk,Affordable,Local,Pinterest
+T1871,Shoes,Casual,28,Spring,Monochrome,Wool,Mid-range,Local,YouTube
+T1872,Pants,Sporty,24,Winter,Gradient,Velvet,High-end,Local,Pinterest
+T1873,Shoes,Formal,99,Spring,Gradient,Silk,High-end,Luxury,TikTok
+T1874,Dress,Minimalist,74,Autumn,Metallic,Linen,Mid-range,Local,TikTok
+T1875,Pants,Casual,18,Winter,Earth-tone,Wool,Affordable,Local,Instagram
+T1876,Shirt,Vintage,71,Spring,Metallic,Wool,High-end,Luxury,Pinterest
+T1877,Pants,Streetwear,24,Summer,Earth-tone,Silk,High-end,Local,YouTube
+T1878,Shoes,Formal,25,Autumn,Pastel,Velvet,Mid-range,Fast Fashion,Instagram
+T1879,Pants,Vintage,23,Summer,Neon,Linen,Affordable,High-end,Pinterest
+T1880,Pants,Formal,31,Winter,Monochrome,Linen,High-end,Fast Fashion,Pinterest
+T1881,Shoes,Formal,94,Spring,Gradient,Linen,Affordable,Fast Fashion,TikTok
+T1882,Shoes,Bohemian,89,Spring,Gradient,Linen,High-end,Luxury,TikTok
+T1883,Accessories,Vintage,16,Winter,Metallic,Cotton,High-end,Fast Fashion,Pinterest
+T1884,Dress,Casual,11,Summer,Gradient,Linen,High-end,Luxury,TikTok
+T1885,Shirt,Bohemian,95,Summer,Monochrome,Denim,Affordable,High-end,TikTok
+T1886,Pants,Minimalist,83,Autumn,Metallic,Denim,Mid-range,Luxury,YouTube
+T1887,Pants,Vintage,56,Autumn,Monochrome,Linen,Mid-range,Fast Fashion,Pinterest
+T1888,Pants,Formal,21,Summer,Neon,Wool,Mid-range,Fast Fashion,Pinterest
+T1889,Dress,Casual,45,Autumn,Gradient,Cotton,Mid-range,Luxury,Instagram
+T1890,Accessories,Casual,5,Summer,Earth-tone,Denim,Mid-range,High-end,TikTok
+T1891,Accessories,Casual,3,Spring,Gradient,Silk,Affordable,High-end,TikTok
+T1892,Shoes,Vintage,83,Spring,Gradient,Cotton,Mid-range,High-end,Instagram
+T1893,Pants,Minimalist,59,Summer,Earth-tone,Polyester,Mid-range,High-end,TikTok
+T1894,Shirt,Minimalist,43,Spring,Gradient,Cotton,High-end,Luxury,Instagram
+T1895,Pants,Bohemian,97,Summer,Metallic,Denim,High-end,High-end,TikTok
+T1896,Pants,Casual,71,Winter,Monochrome,Linen,Affordable,Fast Fashion,YouTube
+T1897,Shoes,Bohemian,23,Summer,Monochrome,Silk,High-end,Fast Fashion,Instagram
+T1898,Pants,Sporty,19,Autumn,Pastel,Silk,High-end,High-end,Pinterest
+T1899,Shoes,Streetwear,34,Autumn,Monochrome,Wool,Affordable,High-end,Pinterest
+T1900,Shirt,Minimalist,57,Autumn,Monochrome,Polyester,High-end,High-end,Instagram
+T1901,Shoes,Minimalist,47,Summer,Monochrome,Linen,Mid-range,Luxury,YouTube
+T1902,Dress,Formal,80,Summer,Metallic,Silk,Affordable,Fast Fashion,TikTok
+T1903,Accessories,Bohemian,73,Autumn,Monochrome,Wool,Affordable,Fast Fashion,Instagram
+T1904,Accessories,Streetwear,31,Spring,Pastel,Denim,Mid-range,Fast Fashion,TikTok
+T1905,Pants,Casual,35,Autumn,Monochrome,Linen,Mid-range,Local,Instagram
+T1906,Shoes,Sporty,20,Autumn,Earth-tone,Wool,High-end,Fast Fashion,YouTube
+T1907,Dress,Casual,70,Summer,Gradient,Polyester,Affordable,Fast Fashion,Instagram
+T1908,Accessories,Sporty,100,Summer,Earth-tone,Velvet,Mid-range,High-end,TikTok
+T1909,Shoes,Formal,1,Winter,Metallic,Silk,Mid-range,Local,Instagram
+T1910,Shoes,Casual,20,Winter,Earth-tone,Wool,Affordable,High-end,YouTube
+T1911,Pants,Formal,18,Autumn,Monochrome,Polyester,Affordable,High-end,TikTok
+T1912,Pants,Streetwear,75,Winter,Neon,Cotton,High-end,High-end,Pinterest
+T1913,Shoes,Streetwear,80,Winter,Pastel,Silk,High-end,Local,Instagram
+T1914,Pants,Casual,100,Winter,Earth-tone,Silk,Affordable,Fast Fashion,Pinterest
+T1915,Shoes,Streetwear,47,Autumn,Neon,Wool,Affordable,Local,TikTok
+T1916,Shoes,Minimalist,79,Winter,Neon,Wool,High-end,Local,Pinterest
+T1917,Shoes,Bohemian,12,Summer,Metallic,Velvet,Affordable,Local,Instagram
+T1918,Accessories,Casual,87,Winter,Gradient,Cotton,Affordable,Local,TikTok
+T1919,Shirt,Bohemian,40,Winter,Monochrome,Silk,Affordable,High-end,Instagram
+T1920,Dress,Vintage,50,Summer,Monochrome,Silk,Mid-range,Fast Fashion,Pinterest
+T1921,Shoes,Minimalist,85,Autumn,Gradient,Denim,Affordable,Local,Instagram
+T1922,Shoes,Formal,72,Spring,Pastel,Cotton,High-end,Local,Pinterest
+T1923,Shoes,Casual,84,Winter,Gradient,Linen,High-end,Luxury,Pinterest
+T1924,Accessories,Casual,32,Winter,Monochrome,Denim,Mid-range,High-end,Pinterest
+T1925,Shirt,Sporty,60,Summer,Monochrome,Polyester,Affordable,Local,YouTube
+T1926,Shoes,Streetwear,73,Autumn,Monochrome,Silk,Mid-range,Luxury,Instagram
+T1927,Shoes,Streetwear,18,Autumn,Pastel,Wool,Affordable,High-end,Instagram
+T1928,Accessories,Sporty,53,Summer,Monochrome,Denim,Affordable,Luxury,TikTok
+T1929,Accessories,Sporty,5,Summer,Metallic,Wool,High-end,High-end,Instagram
+T1930,Shoes,Minimalist,63,Winter,Metallic,Velvet,Affordable,Local,TikTok
+T1931,Shirt,Formal,47,Winter,Monochrome,Cotton,Affordable,Local,TikTok
+T1932,Dress,Streetwear,65,Winter,Monochrome,Wool,High-end,Luxury,Pinterest
+T1933,Shirt,Casual,12,Summer,Gradient,Wool,High-end,Luxury,Pinterest
+T1934,Shoes,Minimalist,91,Autumn,Neon,Silk,Affordable,Local,Pinterest
+T1935,Dress,Formal,57,Summer,Gradient,Velvet,High-end,High-end,Pinterest
+T1936,Shoes,Casual,3,Spring,Metallic,Linen,Mid-range,Fast Fashion,Pinterest
+T1937,Shoes,Vintage,65,Autumn,Earth-tone,Velvet,Affordable,Luxury,Instagram
+T1938,Shirt,Formal,29,Winter,Pastel,Polyester,Mid-range,Luxury,Pinterest
+T1939,Shoes,Minimalist,97,Summer,Gradient,Silk,Mid-range,High-end,Instagram
+T1940,Shoes,Vintage,80,Spring,Monochrome,Denim,Mid-range,Luxury,Instagram
+T1941,Shirt,Sporty,47,Summer,Monochrome,Linen,Mid-range,Local,Pinterest
+T1942,Accessories,Casual,74,Summer,Earth-tone,Velvet,Mid-range,Fast Fashion,YouTube
+T1943,Shoes,Minimalist,86,Spring,Pastel,Polyester,Mid-range,Luxury,Pinterest
+T1944,Dress,Formal,92,Spring,Metallic,Silk,High-end,Luxury,TikTok
+T1945,Accessories,Vintage,49,Spring,Earth-tone,Cotton,High-end,Local,TikTok
+T1946,Shirt,Bohemian,17,Autumn,Monochrome,Denim,Mid-range,Local,Instagram
+T1947,Accessories,Sporty,16,Winter,Neon,Linen,High-end,High-end,Instagram
+T1948,Pants,Bohemian,68,Winter,Monochrome,Wool,High-end,Fast Fashion,Instagram
+T1949,Shoes,Streetwear,1,Autumn,Pastel,Cotton,High-end,Local,TikTok
+T1950,Pants,Sporty,69,Autumn,Gradient,Velvet,High-end,Luxury,YouTube
+T1951,Accessories,Sporty,59,Winter,Gradient,Wool,Affordable,Fast Fashion,Instagram
+T1952,Pants,Casual,49,Spring,Gradient,Silk,Affordable,Fast Fashion,TikTok
+T1953,Shoes,Minimalist,52,Spring,Monochrome,Linen,Mid-range,High-end,Instagram
+T1954,Shoes,Casual,72,Winter,Metallic,Velvet,Mid-range,Local,Pinterest
+T1955,Pants,Vintage,87,Winter,Neon,Silk,Affordable,Local,TikTok
+T1956,Shirt,Bohemian,69,Summer,Neon,Linen,High-end,Fast Fashion,Instagram
+T1957,Accessories,Sporty,93,Winter,Metallic,Velvet,High-end,Fast Fashion,YouTube
+T1958,Pants,Formal,18,Winter,Earth-tone,Wool,Affordable,High-end,Instagram
+T1959,Pants,Vintage,52,Autumn,Pastel,Cotton,Affordable,High-end,YouTube
+T1960,Pants,Vintage,17,Autumn,Neon,Cotton,Mid-range,High-end,Instagram
+T1961,Shirt,Bohemian,20,Spring,Gradient,Silk,High-end,Luxury,YouTube
+T1962,Dress,Bohemian,1,Summer,Earth-tone,Velvet,Affordable,Local,TikTok
+T1963,Accessories,Minimalist,89,Autumn,Gradient,Denim,Affordable,Luxury,Pinterest
+T1964,Shoes,Minimalist,24,Winter,Monochrome,Velvet,Mid-range,Luxury,Instagram
+T1965,Accessories,Casual,33,Autumn,Neon,Wool,Affordable,Luxury,YouTube
+T1966,Shoes,Sporty,55,Summer,Neon,Denim,High-end,Local,YouTube
+T1967,Pants,Streetwear,95,Spring,Monochrome,Silk,Affordable,Luxury,TikTok
+T1968,Shoes,Formal,9,Spring,Pastel,Silk,High-end,Luxury,Pinterest
+T1969,Accessories,Sporty,71,Winter,Monochrome,Polyester,Mid-range,Fast Fashion,Instagram
+T1970,Shirt,Casual,85,Winter,Metallic,Velvet,Mid-range,Fast Fashion,Instagram
+T1971,Dress,Streetwear,27,Winter,Earth-tone,Velvet,Mid-range,Luxury,TikTok
+T1972,Pants,Sporty,8,Summer,Earth-tone,Silk,Affordable,Luxury,YouTube
+T1973,Shoes,Bohemian,12,Winter,Earth-tone,Silk,High-end,Local,Pinterest
+T1974,Dress,Streetwear,28,Autumn,Pastel,Velvet,High-end,High-end,YouTube
+T1975,Pants,Formal,57,Spring,Neon,Denim,Mid-range,High-end,YouTube
+T1976,Pants,Bohemian,19,Autumn,Neon,Silk,Affordable,High-end,YouTube
+T1977,Dress,Formal,61,Spring,Metallic,Cotton,Affordable,Fast Fashion,TikTok
+T1978,Dress,Casual,91,Winter,Monochrome,Wool,High-end,High-end,YouTube
+T1979,Shoes,Vintage,39,Summer,Metallic,Silk,Mid-range,High-end,YouTube
+T1980,Accessories,Bohemian,37,Autumn,Earth-tone,Denim,Mid-range,Fast Fashion,TikTok
+T1981,Dress,Vintage,8,Spring,Earth-tone,Silk,Affordable,Luxury,YouTube
+T1982,Accessories,Formal,20,Winter,Gradient,Cotton,Affordable,Fast Fashion,Instagram
+T1983,Dress,Streetwear,50,Winter,Monochrome,Velvet,High-end,Luxury,Instagram
+T1984,Pants,Bohemian,37,Summer,Monochrome,Wool,Affordable,High-end,YouTube
+T1985,Shoes,Sporty,57,Autumn,Monochrome,Denim,High-end,Luxury,Pinterest
+T1986,Pants,Bohemian,13,Autumn,Pastel,Linen,Mid-range,High-end,YouTube
+T1987,Pants,Vintage,16,Winter,Monochrome,Cotton,Affordable,Luxury,Instagram
+T1988,Dress,Sporty,75,Autumn,Metallic,Cotton,Affordable,High-end,Pinterest
+T1989,Dress,Vintage,22,Winter,Gradient,Denim,Mid-range,High-end,Instagram
+T1990,Dress,Sporty,1,Spring,Metallic,Denim,Mid-range,Luxury,Instagram
+T1991,Dress,Streetwear,42,Spring,Gradient,Silk,Mid-range,Luxury,Pinterest
+T1992,Shirt,Sporty,54,Winter,Pastel,Silk,Affordable,Fast Fashion,Instagram
+T1993,Accessories,Minimalist,88,Spring,Metallic,Cotton,Affordable,Fast Fashion,TikTok
+T1994,Shoes,Casual,86,Autumn,Metallic,Denim,High-end,Fast Fashion,TikTok
+T1995,Shoes,Bohemian,59,Autumn,Monochrome,Denim,High-end,Local,Pinterest
+T1996,Shirt,Minimalist,62,Autumn,Neon,Denim,High-end,Local,Instagram
+T1997,Shirt,Vintage,97,Summer,Metallic,Wool,Affordable,Luxury,TikTok
+T1998,Shoes,Minimalist,61,Winter,Neon,Wool,Mid-range,Local,Pinterest
+T1999,Pants,Sporty,87,Autumn,Earth-tone,Denim,Affordable,Local,Instagram
+T2000,Shirt,Casual,19,Spring,Gradient,Velvet,Affordable,Luxury,Instagram
